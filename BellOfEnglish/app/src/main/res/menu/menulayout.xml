@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:icon="@drawable/homeicon"
+            android:id="@+id/Home"
+            android:title="Home"
+            />
+
+        <item
+            android:icon="@drawable/screenicon"
+            android:id="@+id/screenID"
+            android:title="Show Screen Sentence"
+            />
+
+
+        <item
+            android:icon="@drawable/dashboard_icon"
+            android:id="@+id/acivementID"
+            android:title="Acivement"
+            />
+
+        <item
+            android:id="@+id/setting"
+            android:title="setting"
+            android:icon="@drawable/settting_icon"
+            />
+
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:icon="@drawable/shareicon"
+                android:id="@+id/ShareID"
+                android:title="Share with Friends"
+                />
+
+            <item
+                android:icon="@drawable/contractusicon"
+                android:id="@+id/aboutId"
+                android:title="About Us"
+                />
+        </menu>
+
+    </item>
+
+
+</menu>
