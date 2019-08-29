@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="airport">
+
+     <item>
+        আমি আমার ফ্লাইট নিশ্চিত করতে চাচ্ছি\n
+        I would like to confirm my flight
+    </item>
+        <item>
+
+        আমি কি আপনার টিকেট নাম্বারটি পেতে পারি?\n
+        Can I get your ticket number?
+ </item>
+        <item>
+        আপনার সাথে অন্য কেউ ভ্রমন করছেন?\n
+        Is anybody else traveling with you?
+ </item>
+        <item>
+        আপনার টিকেট নিশ্চিত হয়েছে\n
+        Your tickets have been confirmed
+ </item>
+        <item>
+        দয়া করে আপনার ফ্লাইট ছাড়ার ৩ ঘণ্টা আগে বিমানবন্দরে আসবেন\n
+        Please arrive at the airport 3 hours before your flight departs
+ </item>
+        <item>
+        আপনি কি এখন আপনার আসন সংরক্ষণ করতে চান?\n
+        Would you like to book your seats now?
+ </item>
+        <item>
+        আপনি কি জানালার পাশের অথবা মধ্যবর্তী পথের সাথের আসন চান?\n
+        Would you like a window seat or an aisle seat?
+ </item>
+        <item>
+        আপনার টিকেট নাম্বার কতো?\n
+        What is your ticket number?
+ </item>
+        <item>
+        আমার জুনের ১৫ তারিখে যাওয়ার কথা। আমি কি এটি পরবর্তী কোনো দিনে স্থানান্তর করতে পারবো?\n
+        I am scheduled to depart on June 15th.  Can I change this to a later date?
+ </item>
+        <item>
+        আমি জানতে চাচ্ছিলাম আগের (নির্দিষ্ট ফ্লাইটের আগের) কোনো ফ্লাইটে যাওয়া যাবে কিনা?\n
+        I would like to see if there is an earlier flight available.
+ </item>
+        <item>
+        আপনি কোন দিনটিতে বিমানে যেতে চাচ্ছেন?\n
+        What date would you like to depart?
+ </item>
+        <item>
+        আপনি কোন দিনটির সাথে পরিবর্তন করতে চাচ্ছেন (বর্তমান ফ্লাইটের দিন)?\n
+        What date would you like to change it to?
+ </item>
+        <item>
+        আপনি কখন যেতে চান?\n
+        When do you want to depart?
+ </item>
+        <item>
+        আমি জুনের ২২ তারিখে যেতে চাই\n
+        I would like to leave on June 22nd
+ </item>
+        <item>
+        আপনি কি একটু দেখবেন জুনের ২২ তারিখে যাওয়া সম্ভব কিনা?\n
+        Can you check if June 22nd is possible?
+ </item>
+        <item>
+        জুনের ২২ তারিখে যাওয়া যাবে?\n
+        Is June 22nd available?
+ </item>
+        <item>
+        দুঃখিত, আমাদের জুনের ২২ তারিখে যাওয়ার জন্য কোনো আসন খালি নেই।\n
+        I\'m sorry, but we do not have any available seats on the 22nd.
+ </item>
+        <item>
+        আমি কি আপানাকে ওয়েটিং লিস্টে রাখবো?\n
+        Should I put you on the waiting list?
+ </item>
+        <item>
+        আপনার সাথে কি আজকে অন্য কেউ ভ্রমন করছেন?\n
+        Is anybody traveling with you today?
+ </item>
+        <item>
+        শুধুমাত্র আপনারা দুইজনই আজ ভ্রমন করছেন?\n
+        Are just you two traveling today?
+ </item>
+        <item>
+        আপনি কি কোনো দাহ্য পদার্থ বহন করছেন?\n
+        Are you carrying any flammable material?
+ </item>
+        <item>
+        আপনার সাথে কি নষ্ট হওয়ার মতো কোনো খাদ্যদ্রব্য আছে?\n
+        Do you have any perishable food items?
+ </item>
+        <item>
+        আপনি কি আপনার মালামাল প্যাক করার পর আর আয়ত্তে পেয়েছেন?\n
+        Did you have possession of your luggage since you packed?
+ </item>
+        <item>
+        আপনি কি আপনার মালামাল আদৌ এয়ারপোর্টে অরিক্ষিত রেখে কোথাও গিয়েছিলেন?\n
+        Did you leave your luggage unattended at all in the airport?
+ </item>
+        <item>
+        আপনি কতো গুলো লাগেজ (মালামাল) নিয়ে যাচ্ছেন?\n
+        How many luggage are you checking in?
+ </item>
+        <item>
+        আপনি কি আপনার সাথে কিছু রাখবেন (মালামাল)?\n
+        Do you have a carry on?
+ </item>
+        <item>
+        আপনি কি আপনার ব্যাগটি উপরে এখানে রাখতে পারবেন?\n
+        Can you place your bag up here?
+ </item>
+        <item>
+        আপনি আপনার সাথে কতো গুলো ব্যাগ নিচ্ছেন বহন করার জন্য?\n
+        How many carry on bags are you taking with you?
+ </item>
+        <item>
+        আপনি কি জানালা অথবা পথের সাথের আসনে বসতে পছন্দ করবেন?\n
+        Do you prefer window or aisle?
+ </item>
+        <item>
+        আমি কি জরুরি ভিত্তিতে বহির্গমন দরজার কাছাকাছি কোনো আসন পেতে পারি?\n
+        Can I have a seat closest to the emergency exit?
+ </item>
+        <item>
+        কোন গেটের কথা আপনি বলেছিলেন?\n
+        Which gate did you say it was?
+ </item>
+        <item>
+        গেট নাম্বারটা কতো আরেকবার বলবেন?\n
+        What was the gate number again?
+ </item>
+        <item>
+        আপনি কি আমাকে গেটটি কোন দিকে দেখাতে পারবেন?\n
+        Can you point me towards the gate?
+ </item>
+        <item>
+        আরেকবার একটু বলবেন আমি কিভাবে গেটের কাছে পৌঁছাব?\n
+        How do I get to the gate again?
+ </item>
+        <item>
+        আমি কিভাবে সি২ গেটে যাবো?\n
+        How do I get to gate C2?
+ </item>
+        <item>
+        সি২ গেট কোথায়?\n
+        Where is gate C2?
+ </item>
+        <item>
+        আপনার সাথে কি আপনার পাসপোর্টটি আছে?\n
+        Do you have your passports with you?
+ </item>
+        <item>
+        হাঁ, এইতো\n
+        Yes. Here it is
+ </item>
+        <item>
+        অবশ্যই। এটা এই পথে ওই কোণায়\n
+        Sure. It\'s that way. Around that corner
+ </item>
+        <item>
+        আমি কি আপনার পাসপোর্টটি দেখতে পারি, দয়া করে?\n
+        May I have your passport, please?
+ </item>
+        <item>
+        আপনি কি সাথে কোনো ব্যাগ নিচ্ছেন?\n
+        Are you checking any bags?
+ </item>
+        <item>
+        অনুগ্রহ করে বলবেন আমেরিকান এয়ারলাইন্সের চেক-ইন ডেস্কটা কোথায়?\n
+        Excuse me, where is the American Airlines check-in desk?
+ </item>
+        <item>
+        টার্মিনাল ৪ কোথায়?\n
+        Where is terminal 4?
+ </item>
+        <item>
+        গেট নাম্বার ৩৬ কোথায়?\n
+        Where is gate 36?
+ </item>
+        <item>
+        কতো গুলো ব্যাগ আমি নিতে পারবো?\n
+        How many bags can I check?
+ </item>
+        <item>
+        ফি (কতো খরচ দিতে হবে) কতো?\n
+        How much is the fee?
+ </item>
+        <item>
+        ফ্লাইট কি ঠিক সময়ে হয়েছে?\n
+        Is the flight on time?
+ </item>
+        <item>
+        আপনি কি নিজেই নিজের ব্যাগ গুছিয়েছেন?\n
+        Did you pack your bags yourself?
+ </item>
+        <item>
+        আপনার মালামাল কি পুরো সময় আপনার সাথেই ছিলো?\n
+        Has your luggage been in your possession at all times?
+ </item>
+        <item>
+        সব কাজ শেষ! আপনার বিমান ভ্রমন শুভ হোক\n
+        You’re all set! Have a nice flight
+ </item>
+        <item>
+        মিয়ামিতে যাওয়ার ফ্লাইট ইউনাইটেড এয়ারলাইন্স ৮৮০ এখন যাত্রী উঠাচ্ছে\n
+        United Airlines flight 880 to Miami is now boarding
+ </item>
+        <item>
+        আমরা সকল যাত্রিকে আমন্ত্রন জানাচ্ছি বিমানে উঠার জন্য\n
+        We would now like to invite all passengers to board
+ </item>
+        <item>
+        দয়া করে আপনার বোর্ডিং পাস এবং পরিচয়পত্র সাথে রাখুন বিমানে উঠার সময়\n
+        Please have your boarding pass and identification ready for boarding
+ </item>
+        <item>
+        আমরা আমাদের ফার্স্ট ক্লাস এবং বিজনেস ক্লাস যাত্রীদের বিমানে উঠার জন্য আমন্ত্রন জানাচ্ছি\n
+        We would like to invite our first-class and business-class passengers to board
+ </item>
+        <item>
+        আপনি কি চিকেন না পাস্তা খাবেন?\n
+        Would you like chicken or pasta?
+ </item>
+        <item>
+        আমি চিকেন নিবো\n
+        I’ll have the chicken
+ </item>
+        <item>
+        আমি আমার কাঁধের ব্যাগ কেবিনে নিয়ে এসেছি\n
+        I am carrying my backpack into the cabin
+ </item>
+        <item>
+        ওটা হলে খুব ভালো হয়\n
+        That will be very nice
+ </item>
+        <item>
+        আপনার আসন নাম্বার হচ্ছে ৬ডি\n
+        Your seat number is 6D
+ </item>
+        <item>
+        দয়া করে আপনার ল্যাপটপ ও মোবাইল ফোন নিন এবং এই ট্রেতে রাখুন\n
+        Please take out your laptops and mobile phone and put it in this tray
+ </item>
+        <item>
+        দয়া করে আপনাদের হাত উঠান এবং উঠিয়ে রাখুন যখন আমি আপনারদের পর্যবেক্ষণ করবো\n
+        Please raise your hands and keep them raised while I inspect you
+ </item>
+        <item>
+        আপনার সব ঠিক আছে। এখন যেতে পারেন\n
+        You’re cleared to go
+ </item>
+        <item>
+        আপনার মালামালের ওজন বেশি হয়ে গিয়েছে\n
+        Your baggage is overweight
+ </item>
+        <item>
+        আপনার সাথে বহন করা লাগেজটি একটু বেশি বড় হয়ে গিয়েছে\n
+        Your carry-on luggage is too large
+ </item>
+        <item>
+        আপনার ফ্লাইট বিলম্বিত হয়েছে\n
+        Your flight is delayed
+ </item>
+        <item>
+        আপনার ফ্লাইট বাতিল হয়েছে\n
+        Your flight has been cancelled
+ </item>
+        <item>
+        আপনার টিকেটের মেয়াদ অতিক্রান্ত হয়ে গিয়েছে\n
+        Your ticket is expired
+ </item>
+        <item>
+        আপনাকে অবশ্যই সকল ধরনের খাদ্যদ্রব্য এবং পানীয় ফেলে দিতে হবে\n
+        You must dump all food or beverages
+ </item>
+        <item>
+        আপনার পাসপোর্টের মেয়াদ অতিক্রান্ত হয়েছে\n
+        Your passport is expired
+ </item>
+        <item>
+        আমি কখন গেটের ওখানে থাকবো?\n
+        When should I be at the gate?
+ </item>
+        <item>
+        বিমানে উঠার গেটটি কোথায়?\n
+        Where is the boarding gate?
+ </item>
+        <item>
+        ওয়াশরুমটি (হাত-মুখ ধোয়ার স্থান) কোথায়?\n
+        Where is the washroom?
+ </item>
+        <item>
+        আমি কি জানালার পাশে আসন পেতে পারি?\n
+        Can I get a window seat?
+ </item>
+        <item>
+        এখানে কোথাও খাওয়ার জায়গা আছে?\n
+        Is there somewhere to eat?
+ </item>
+        <item>
+        আমি কি গেটের ওখানে কফি খেতে পারবো?\n
+        Can I get a coffee at the gate?
+ </item>
+        <item>
+        আমি ট্যাক্সি পেতে পারি কোথায়?\n
+        Where can I find a taxi?
+ </item>
+        <item>
+        বহির্গমন গেটটি কোন দিকে?\n
+        Where is the departure gate?
+ </item>
+        <item>
+        আগমন গেটটি কোথায়?\n
+        Where is the arrival gate?
+ </item>
+        <item>
+        ইউনাইটেড এয়ারলাইন্সের চেক-ইন ডেস্কটি কোথায়?\n
+        Where is the check-in desk for united airlines?
+ </item>
+        <item>
+        কিছু মনে না করলে আমি একটা উপকারের জন্য অনুরোধ করতে পারি?\n
+        If you don\'t mind may I ask a favor?
+
+        </item>
+    </string-array>
+
+</resources>

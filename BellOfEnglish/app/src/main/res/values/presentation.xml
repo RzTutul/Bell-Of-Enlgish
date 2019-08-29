@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presentation">
+
+
+        <item>
+        As you can see here..\n
+        আপনারা যেমনটা দেখতে পাচ্ছেন এখানে..
+        </item>
+        <item>
+        Would you like to open a credit card?  You can get 10 percent off of everything for today\n
+        আপনি কি একটা ক্রেডিট কার্ড খুলবেন? আজকের জন্য আপনি সব কিছু ১০% কমে পাবেন
+  </item>
+        <item>
+        Here we can see\n
+        আমরা এখানে দেখতে পাচ্ছি
+  </item>
+        <item>
+        Perhaps we can look at that point at the end / a little later\n
+        আমরা এই বিষয়টার উপর শেষে /  একটু পরে আলোকপাত করতে পারি
+  </item>
+        <item>
+        I’ll come back to that question later if I get time\n
+        আমি এই প্রশ্নে ফেরত আসব পরে যদি সময় থাকে
+  </item>
+        <item>
+        As I mentioned earlier\n
+        আমি যেমনটা আগে বলেছি
+  </item>
+        <item>
+        If anyone has any questions, I’ll be pleased to answer those\n
+        যদি কারো কোনো প্রশ্ন থেকে থাকে আমি আনন্দের সাথে সেগুলোর উত্তর দিবো
+  </item>
+        <item>
+        I’d like to thank you all for your attention and interest\n
+        আমি আপনাদের সবাইকে মনোযোগ এবং আগ্রহের জন্য ধন্যবাদ জানাচ্ছি
+  </item>
+        <item>
+        Finally, I’d like to finish by thanking you all for your attention\n
+        সবশেষে, আমি আপনাদের সবাইকে আপনাদের মনোযোগের জন্য ধন্যবাদ দিয়ে শেষ করতে চাই
+  </item>
+        <item>
+        That brings us to the end of my presentation\n
+        এটা আমাদেরকে নিয়ে এলো আমার উপস্থাপনের শেষে
+  </item>
+        <item>
+        That brings the presentation to an end\n
+        এটা দিয়েই উপস্থাপনের শেষ হলো
+  </item>
+        <item>
+        Thank you for your attention\n
+        আপনাদের মনোযোগের জন্য ধন্যবাদ
+  </item>
+        <item>
+        What exactly do you mean?\n
+        আপনি আসলে কি বুঝাতে চাচ্ছেন?
+  </item>
+        <item>
+        I\'m afraid, I can\'t agree\n
+        আমি আসলে আপনার সাথে একমত হতে পারছি না
+  </item>
+        <item>
+        Unfortunately, I see it differently\n
+        দুর্ভাগ্যবশত, আমি এটাকে অন্যভাবে দেখি
+  </item>
+        <item>
+        That\'s just the way I feel\n
+        আমিও ঠিক এভাবেই অনুভব করি
+  </item>
+        <item>
+        I totally agree with you\n
+        আমি আপনার সাথে সম্পূর্ণ একমত
+  </item>
+        <item>
+        I see what you mean\n
+        আপনি কি বুঝাতে চাচ্ছেন আমি বুঝতে পেরেছি
+  </item>
+        <item>
+        I get your point\n
+        আমি আপনি কি বলতে চাচ্ছেন বুঝতে পেরেছি
+  </item>
+        <item>
+        I\'\d like to sum up the main points…\n
+        আমি মূল পয়েন্ট গুলো একত্রে বলছি
+  </item>
+        <item>
+        In conclusion\n
+        উপসংহারে.
+  </item>
+        <item>
+        The pie chart is divided into several parts\n
+        পাই-চার্টটি বিভিন্ন অংশে বিভক্ত
+  </item>
+        <item>
+        Here are some facts and figures\n
+        এখানে কিছু তথ্য এবং চিত্র দেয়া হলো
+  </item>
+        <item>
+        The product I present is extraordinary\n
+        আমি যেই পণ্যটি দেখাচ্ছি তা হলো অসাধারণ
+  </item>
+        <item>
+        This leads me to the next point\n
+        এটা আমাকে নিয়ে যাচ্ছে পরবর্তী পয়েন্টে
+  </item>
+        <item>
+        I’d like to move on to another part of the presentation…\n
+        আমি এখন যাবো উপস্থাপনের অন্য একটি অংশে
+  </item>
+        <item>
+        Now I’d like to move on to…\n
+        এখন আমি যেতে চাইবো.
+  </item>
+        <item>
+        Now let’s take a look at…\n
+        এখন চলুন দেখা যাক..
+  </item>
+        <item>
+        So, that’s an overview of…\n
+        তাহলে এটা হলো সারমর্ম..
+  </item>
+        <item>
+        Now let’s move on to.\n
+        এখন চলুন যাওয়া যাক..
+  </item>
+        <item>
+        Now I’d like to look at…\n
+        এখন আমি দেখব..
+  </item>
+        <item>
+        Please feel free to interrupt me if you have any questions\n
+        আপনাদের কিছু জানার থাকলে আমার কথা বলার মাঝে যে কোনো সময় প্রশ্ন করতে পারেন
+</item>
+        <item>
+        My presentation consists of the following parts…\n
+        আমার উপস্থাপনা নিম্নবর্ণিত বিষয় গুলো নিয়ে গঠিত..
+</item>
+        <item>
+        Here is the agenda for the meeting…\n
+        আজকে বৈঠকের আলোচ্যসূচি এই যে..
+</item>
+        <item>
+        In today’s presentation, I’d like to show you…\n
+        আজকের উপস্থাপনে আমি আপনাদের দেখাতে চাই..
+</item>
+        <item>
+        The purpose of today’s presentation is to…\n
+        আজকের উপস্থাপনের উদ্দেশ্য হলো..
+</item>
+        <item>
+        I’d like to give you a brief outline of my presentation
+        আমি আপনাদের আমার উপস্থাপন’এর একটা সংক্ষিপ্তসার দিচ্ছি
+</item>
+        <item>
+        Shall we get started?\n
+        আমরা কি শুরু করবো?
+</item>
+        <item>
+        My name is John and I am responsible for…\n
+        আমার নাম জন এবং আমি দায়িত্বে আছি...
+</item>
+        <item>
+        Let me introduce myself\n
+        আমি নিজের পরিচয় দিয়ে নিচ্ছি
+</item>
+        <item>
+        Let’s get the ball rolling\n
+        চলুন, শুরু করা যাক
+</item>
+        <item>
+        Thank you all very much for coming today\n
+        আপনাদের সবাইকে অশেষ ধন্যবাদ আজকে আসার জন্য
+</item>
+        <item>
+        Good morning and welcome to this conference hall\n
+        শুভ সকাল এবং এই মিলনায়তনে আপনাদের স্বাগতম
+</item>
+        <item>
+        The topic of today’s meeting is…\n
+        আজকের বৈঠকের বিষয় হলো...
+</item>
+        <item>
+        Hello, ladies and gentlemen, thank you for coming\n
+        ভদ্র মহিলা এবং ভদ্র মহোদয়গন, আপনাদের ধন্যবাদ এখানে আসার জন্য
+</item>
+        <item>
+        I hope you all had a pleasant journey here today\n
+        আমি আশা করছি এখানে আসার পথে আপনাদের ভ্রমণটা ভালো হয়েছে
+
+</item>
+     
+
+
+    </string-array>
+
+</resources>

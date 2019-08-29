@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="morning_sentence">
+
+        <item>শুভ সকাল। উনি কে?\nGood morning. Who is he?</item>
+        <item>তিনি সকাল চারটার সময় ওঠেন \n He rises at four o\'clock in the morning \n
+                         </item>
+        <item>Good Morning! I hope your day is as positive as you are.\n  "শুভ সকাল! আমি আশা করি আপনার দিনটি আপনার মত ইতিবাচক। "</item>
+        <item>Have a nice day!\nদিনটি শুভ হোক।</item>
+
+
+    </string-array>
+
+
+</resources>

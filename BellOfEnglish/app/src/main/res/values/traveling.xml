@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traveling">
+
+   <item>
+        তুমি কখনো পেরিস গিয়েছ?\n
+        Have you ever been to Paris?
+         </item>
+        <item>
+
+        আমি কি জানালার পাশে আসন পেতে পারি?\n
+        Can I get a window seat?
+         </item>
+        <item>
+
+        এখানে কোথাও খাওয়ার জায়গা আছে?\n
+        Is there somewhere to eat?
+         </item>
+        <item>
+
+        আগমন গেটটি কোথায়?\n
+        Where is the arrival gate?
+         </item>
+        <item>
+
+        যাওয়ার সময়টা কখন (কোনো জায়গা থেকে চলে যাওয়ার সময়)?\n
+        What time is check out?
+         </item>
+        <item>
+
+        ১২টা বাজে যাওয়ার সময়\n
+        Check out is at 12:00 PM
+         </item>
+        <item>
+
+        আপনার কয়টি রুম দরকার?\n
+        How many rooms will you need?
+         </item>
+        <item>
+
+        আমি কি একটি ধূমপানমুক্ত রুম পেতে পারি?\n
+        Can I have a non-smoking room?
+         </item>
+        <item>
+
+        আপনাদের কাছে এই শহরের কোনো ম্যাপ আছে?\n
+        Do you have a map of the city?
+         </item>
+        <item>
+
+        আপনার জন্য শুক্রবার ১০টা বেজে ৩০ মিনিট সময়টি নির্ধারণ করেছি আমরা\n
+        We have you scheduled for Friday at 10:30 AM
+         </item>
+        <item>
+
+        আমি শুক্রবার বাড়ি যাচ্ছি (বিমানে)\n
+        I\'m flying home on Friday
+         </item>
+        <item>
+
+        একেবারে শেষ মুহূর্তে আমরা নিউইয়র্কের বিমানে আসন সংরক্ষণ করতে পেরেছিলাম\n
+        We were able to book a flight to New York at the last minute
+         </item>
+        <item>
+
+        সে সমুদ্রে ছিলো ১৫ মাসের জন্য\n
+        He was at sea for fifteen months
+         </item>
+        <item>
+
+        আপনি কি ভ্রমন করতে ইচ্ছুক?\n
+        Are you willing to travel?
+         </item>
+        <item>
+
+        এই শহরে ভ্রমন করার জন্য ভালো স্থান কোনটি?\n
+        What\'s a good place to visit in this city?
+         </item>
+        <item>
+
+        আপনি কি কোথাও থেকে এখানে ঘুরতে এসেছেন?\n
+        Are you visiting from somewhere?
+         </item>
+        <item>
+
+        আমি কোরিয়া থেকে ঘুরতে এসেছি\n
+        I\'m visiting from Korea
+         </item>
+        <item>
+
+        আপনি কি এখানে ছুটি কাটাতে এসেছেন?\n
+        Are you on vacation here?
+         </item>
+        <item>
+
+        আমি কোরিয়া থেকে এখানে ছুটি কাটাতে এসেছি\n
+        I\'m taking a vacation from Korea
+         </item>
+        <item>
+
+        আমি এখানে আমার স্ত্রী এবং দুটো বাচ্চা নিয়ে এসেছি\n
+        I\'m here with my wife and 2 kids
+         </item>
+        <item>
+
+        আপনি কি এখানে আগে এসেছিলেন?\n
+        Have you been here before?
+         </item>
+        <item>
+
+        আপনি কি এখানে প্রায়ই আসেন?\n
+        Do you come here a lot?
+         </item>
+
+
+    </string-array>
+
+</resources>

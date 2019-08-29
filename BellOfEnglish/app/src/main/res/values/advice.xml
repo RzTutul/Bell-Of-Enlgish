@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="advice">
+
+  <item>
+    Why don’t you do some more exercise?\n
+    তুমি কেন আরো ব্যায়াম করছো না?
+  </item>
+    <item>
+    How about doing some more exercise?\n
+    পড়তে-পড়তে খেল না
+    </item>
+    <item>
+    I would suggest doing more exercise\n
+    আমি বলবো আরো বেশি ব্যায়াম করতে
+    </item>
+    <item>
+    You had better do more exercise before you start getting fat\n
+    মোটা হতে শুরু করার আগেই আরো বেশি ব্যায়াম  করা তোমার জন্য ভালো হয়
+    </item>
+    <item>
+    I suggest taking a holiday\n
+    আমি পরামর্শ দিব একদিন ছুটি নেওয়ার জন্যে
+    </item>
+    <item>
+    I recommend going to bed earlier\n
+    আমি তাড়াতাড়ি শুতে যাওয়ার জন্য পরামর্শ দিব
+    </item>
+    <item>
+    Stop drinking so much coke\n
+    এত বেশি কোক খাওয়া বন্ধ কর
+    </item>
+    <item>
+    I need advice\n
+    আমার পরামর্শ দরকার
+    </item>
+    <item>
+    Take my advice\n
+    আমার কথা (পরামর্শ) শুনো
+    </item>
+    <item>
+    Follow my advice\n
+    আমার কথা (পরামর্শ) মতো চল
+    </item>
+    <item>
+    Get Tom\'s advice\n
+    টমের কথা (পরামর্শ) শুনো
+    </item>
+    <item>
+    He ignored her advice\n
+    সে তার পরামর্শ অগ্রাহ্য করেছিল
+    </item>
+    <item>
+    I need a little advice\n
+    আমার একটু পরামর্শ দরকার
+    </item>
+    <item>
+    You should go to the doctor; he’ll tell you what to do.\n
+    তোমার ডাক্তার এর কাছে যাওয়া উচিত। তিনিই বলে   দিবেন তোমার কি করতে হবে
+    </item>
+    <item>
+    How about you stay here and I go and look  for help?\n
+    তুমি না হয় এখানে থাকো; আর আমি যাই এবং  সাহায্যের সন্ধান করি।
+    </item>
+    <item>
+    I advise you to buy the cheaper one\n
+    আমি বলবো তুমি সস্তাটাই কিনো
+    </item>
+    <item>
+    I\'d really appreciate it\n
+    আমি সত্যিই এটা (উপকার) মূল্যায়ন করবো
+    </item>
+    <item>
+    I don\'t need more advice\n
+    আমার আর পরামর্শের দরকার নেই
+    </item>
+    <item>
+    Tom asked Mary for advice\n
+    টম মেরি’র কাছে পরামর্শ চেয়েছিল
+    </item>
+    <item>
+    I\'m getting advice from Tom\n
+    আমি টমের কাছ থেকে পরামর্শ নিচ্ছি
+    </item>
+    <item>
+    What advice can you give me?\n
+    তুমি আমাকে কি পরামর্শ দিতেপারবে?
+    </item>
+    <item>
+    Why don\'t we ask his advice?\n
+    আমরা কেন তাঁর কাছ থেকে পরামর্শ নিচ্ছি না?
+    </item>
+    <item>
+    I took your advice, and I got myself engaged\n
+    আমি তোমার কথা (পরামর্শ) মতো কাজে নিজেকে  নিযুক্ত করেছি
+    </item>
+    <item>
+    The only advice she was given was to talk to  him\n
+    তাকে শুধু পরামর্শ দেওয়া হয়েছিল তার সাথে কথা বলার জন্য
+    </item>
+    <item>
+    I\'ve got a bad toothache. What do you suggest?\n
+    আমার খুব দাঁত ব্যথা করছে। তুমি কি করতে বলো  আমাকে এই মুহূর্তে?
+    </item>
+    <item>
+    What do you advise me to do?\n
+    তুমি আমাকে কি করার জন্য বলছো?
+    </item>
+    <item>
+    What should I do?\n
+    আমার কি করা উচিত?
+    </item>
+    <item>
+    What ought I to do?\n
+    আমার কি করা উচিত?
+    </item>
+    <item>
+    Let them have their dues.\n
+    তাদের প্রাপ্য মিটাইয়া দাও
+    </item>
+    <item>
+    Let bygones be bygones.\n
+    অতীতের জন্য শোক কর না
+    </item>
+    <item>
+    You had better go there\n
+    তুমি সেখানে গেলেই ভালো হইত
+    </item>
+    <item>
+    While going on the street, you should have all your eyes about you\n
+    চারদিকে চোখ রেখে চলবে
+    </item>
+    <item>
+    Obey your parents\n
+    বাবা মায়ের কথা শুনবে
+    </item>
+    <item>
+    Do not play while you are reading\n
+    পড়তে-পড়তে খেল না
+    </item>
+    <item>
+    I profited by your advice\n
+    তোমার উপদেশে আমার উপকার হলো
+    </item>
+    <item>
+    You should do more exercise\n
+    তোমার আরো বেশি ব্যায়াম/অনুশীলন করা উচিত
+    </item>
+    <item>
+    You shouldn’t drink so much beer\n
+    তোমার এত বেশি মদ্যপান করা উচিত না
+    </item>
+    <item>
+    What is your advice?\n
+    তোমার পরামর্শ কি?
+    </item>
+    <item>
+    If you were me what would you do?\n
+    তুমি যদি আমার জায়গায় হতে তাহলে তুমি কি  করতে?
+    </item>
+    <item>
+    If I were you, I would go to the dentist\n
+    আমি তোমার জায়গায় হলে ডেন্টিস্ট এর কাছে  যেতাম
+    </item>
+    <item>
+    Why don\'t you go to the dentist?\n
+    তুমি ডেন্টিস্ট এর কাছে যাচ্ছ না কেন?
+    </item>
+    <item>
+    You\'d better brush your teeth regularly\n
+    তোমার নিয়মিত দাঁত ব্রাশ করা উচিত
+    </item>
+    <item>
+    You ought to/should avoid eating sweets\n
+    তোমার মিষ্টি খাওয়া বন্ধ করা উচিত
+    </item>
+    <item>
+    If you take my advice, you\'ll go to the dentist.\n
+    তুমি যদি আমার কথা (পরামর্শ) শুনো, তাহলে তুমি ডেন্টিস্ট এর কাছে যাবে
+    </item>
+    <item>
+    It might be a good idea to brush your teeth on  a regular basis\n
+    নিয়মিত দাঁত ব্রাশ করলে তোমার হয়তো ভালোই হবে।
+    </item>
+    <item>
+    I advise you to brush your teeth on a regular  basis\n
+    আমি তোমাকে পরামর্শ দিব নিয়মিত দাঁত ব্রাশ করার জন্য।
+    </item>
+    <item>
+    Have you thought about seeing a dentist?\n
+    তুমি কি কোনো ডেন্টিস্ট’এর কাছে যাওয়ার কথা ভেবেছো?
+    </item>
+    <item>
+    I don\'t know what to advise, I\'m afraid\n
+    আমি আসলে পরামর্শ দেয়ার মতো কিছু পাচ্ছি না
+    </item>
+    <item>
+    I wish I could help\n
+    আমি যদি সাহায্য করতে পারতাম!
+    </item>
+    <item>
+    I\'m afraid I can\'t really help you\n
+    আমি সত্যিই তোমাকে সাহায্য করতে পারবো না
+    </item>
+
+    </string-array>
+
+</resources>

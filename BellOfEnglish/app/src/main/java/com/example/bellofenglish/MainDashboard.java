@@ -17,7 +17,8 @@ public class MainDashboard extends AppCompatActivity implements NavigationView.O
 
     private DrawerLayout mdrawerLayout;
     private ActionBarDrawerToggle mtoggle;
-    private CardView aboutYourSelf, GeneralQuestion;
+    private CardView aboutYourSelf, GeneralQuestion,ConversionCard,GettingHelpCard,AdviceCard,AirplaneCard,
+            RestuarantCard,ChatCard,WishCard,TravelCard,TimeDateCard,LoveCard;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,11 +37,33 @@ public class MainDashboard extends AppCompatActivity implements NavigationView.O
 
         aboutYourSelf = findViewById(R.id.aboutYourselfID);
         GeneralQuestion = findViewById(R.id.GeneralQuestionID);
+        ConversionCard = findViewById(R.id.ConversionID);
+        GettingHelpCard = findViewById(R.id.GettingHelpID);
+        AdviceCard = findViewById(R.id.AdviceID);
+        AirplaneCard = findViewById(R.id.AirportConversationID);
+        RestuarantCard = findViewById(R.id.ResturantID);
+        ChatCard = findViewById(R.id.ChatingID);
+        WishCard = findViewById(R.id.WishPrayID);
+        TravelCard = findViewById(R.id.TravellingID);
+        TimeDateCard = findViewById(R.id.TimeDateID);
 
+  LoveCard = findViewById(R.id.LoveAfficationID);
 
 
         aboutYourSelf.setOnClickListener(this);
         GeneralQuestion.setOnClickListener(this);
+        ConversionCard.setOnClickListener(this);
+        GettingHelpCard.setOnClickListener(this);
+        AdviceCard.setOnClickListener(this);
+        AirplaneCard.setOnClickListener(this);
+        RestuarantCard.setOnClickListener(this);
+        ChatCard.setOnClickListener(this);
+        WishCard.setOnClickListener(this);
+        TravelCard.setOnClickListener(this);
+        TimeDateCard.setOnClickListener(this);
+        LoveCard.setOnClickListener(this);
+
+
 
     }
 
@@ -60,6 +83,70 @@ public class MainDashboard extends AppCompatActivity implements NavigationView.O
                 startActivity(intent);
                 break;
             }
+            case R.id.ConversionID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "introductionConversion");
+                startActivity(intent);
+                break;
+            }
+
+            case R.id.GettingHelpID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "gettingHelp");
+                startActivity(intent);
+                break;
+            }
+
+            case R.id.AdviceID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "advice");
+                startActivity(intent);
+                break;
+            }
+            case R.id.AirportConversationID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "airport");
+                startActivity(intent);
+                break;
+            }
+
+            case R.id.ResturantID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "restaurant");
+                startActivity(intent);
+                break;
+            }
+            case R.id.ChatingID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "chatText");
+                startActivity(intent);
+                break;
+            }
+            case R.id.WishPrayID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "wishAndPray");
+                startActivity(intent);
+                break;
+            }
+            case R.id.TravellingID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "traveling");
+                startActivity(intent);
+                break;
+            }
+            case R.id.TimeDateID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "timeAndDate");
+                startActivity(intent);
+                break;
+            }
+   case R.id.LoveAfficationID: {
+                Intent intent = new Intent(MainDashboard.this, Show_All_Sentence.class);
+                intent.putExtra("key", "love");
+                startActivity(intent);
+                break;
+            }
+
 
         }
 

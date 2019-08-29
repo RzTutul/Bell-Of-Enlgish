@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="love">
+
+        <item>
+
+        I love it! I\'ll put it on / hang it up immediately\n
+        আমার খুব পছন্দ হয়েছে এটি। আমি এখনই এটি পরবো / ঝুলিয়ে দিবো
+
+        </item>
+        <item>
+        Happy Anniversary! Here\'s a little present for you.\n
+        শুভ বার্ষিকী! এই যে তোমার জন্য ছোট একটা উপহার
+        </item>
+        <item>
+        Have a good day\n
+        দিনটি শুভ হোক আপনার জন্য
+       </item>
+        <item>
+        Hold out your hands and close your eyes!\n
+        তোমার হাত বাড়িয়ে দাও এবং চোখ বন্ধ কর
+      </item>
+        <item>
+        It\'s only something small\n
+        এটা খুবই সামান্য একটি জিনিস
+         </item>
+        <item>
+        Glad to meet you\n
+        দেখা হয়ে ভালো লাগলো
+         </item>
+        <item>
+        I will always love you\n
+        আমি তোমাকে সবসময় ভালোবাসবো
+         </item>
+        <item>
+        Why don’t we summarize what we’ve agreed on today?\n
+        আমরা কেন দেখছি না আমরা আজ কোন বিষয়ে সম্মত হলাম?
+        </item>
+        <item>
+        I look forward to receiving emails from you all about your final vote\n
+        আমি আপনাদের সবার কাছ থেকে শেষ ভোট সম্পর্কে জানার জন্য ইমেইল পাওয়ার আশায় থাকবো
+        </item>
+        <item>
+        Thank you all for your input today.\n
+        আপনাদের সকলকে ধন্যবাদ তথ্য দেয়ার জন্য
+          </item>
+        <item>
+        I almost forgot to mention..\n
+        আমি প্রায় ভুলেই গেয়েছি বলতে যে..
+          </item>
+        <item>
+        Thank you for your participation\n
+        আপনাদের ধন্যবাদ অংশগ্রহণ করার জন্য
+      </item>
+        <item>
+        I think we should finish here\n
+        আমার মনে হয় আমাদের এখানে শেষ করা উচিত
+         </item>
+        <item>
+        Is there any other business?\n
+        অন্য আর কোনো বিষয় কি আছে?
+         </item>
+        <item>
+        Do you mean that …?\n
+        আপনি কি বুঝাতে চাচ্ছেন যে..?
+         </item>
+        <item>
+        You did say that, didn’t you?\n
+        আপনি আসলেই এটা বলেছেন, তাই না?
+          </item>
+        <item>
+        Correct me if I’m wrong, please. You’re saying …\n
+        যদি আমি ভুল করি তাহলে আমাকে দয়া করে শুধরে দিবেন। আপনি বলছেন..
+         </item>
+        <item>
+        Could you spell that, please?\n
+        আপনি কি ওটার বানান করতে পারবেন দয়া করে?
+        </item>
+        <item>
+        I don’t quite follow you. What exactly do you mean?\n
+        আমি আসলে আপনাকে অনুসরণ করতে পারছি না। আপনি আসলে কি বুঝাতে চান?
+         </item>
+        <item>
+        Why don’t we move on to …\n
+        আমরা কেন যাচ্ছি না..
+       </item>
+        <item>
+        What are your views on …?\n
+        আপনার দৃষ্টিভঙ্গি কি..?
+       </item>
+        <item>
+        Are you positive that …?\n
+        আপনি কি নিশ্চিত যে..?
+     </item>
+        <item>
+        How do you feel about …?\n
+        আপনি কেমন অনুভব করেন..?
+         </item>
+        <item>
+        The way I see things …\n
+        আমি যেভাবে জিনিসগুলোকে দেখি..
+      </item>
+        <item>
+        I really feel that …\n
+        আমি আসলেই মনে করি যে..
+       </item>
+        <item>
+        I’d like to thank John for …\n
+        আমি জনকে ধন্যবাদ দিবো..
+          </item>
+        <item>
+        Excuse me for interrupting …\n
+        আমাকে মাফ করুন ব্যাঘাত ঘটানোর জন্য..
+        </item>
+        <item>
+        I would just like to say that …\n
+        আমি শুধু এটাই বলবো যে..
+      </item>
+        <item>
+        I’m afraid I’d have to disagree with you on that\n
+        আমার মনে হয় এই বিষয়ে আপনার সাথে আমাকে দ্বিমত পোষণ করতে হবে
+       </item>
+        <item>
+        May I come in here, please?\n
+        আমি কি দয়া করে এখানে আসতে পারি?
+       </item>
+        <item>
+        I would just like to add …\n
+        আমি আরো যেটা বলতে চাইবো..
+        </item>
+        <item>
+        Could I just say one thing, please?\n
+        আমি কি শুধু একটা জিনিস বলতে পারি দয়া করে?
+      </item>
+        <item>
+        I completely agree with …\n
+        আমি সম্পূর্ণ একমত..
+       </item>
+        <item>
+        This matter is not on today’s agenda. Let’s leave it for next time\n
+        এই ব্যাপারটা আজকের বিষয়বস্তুতে নেই। এটা নিয়ে পরবর্তীতে কথা বলবো
+       </item>
+        <item>
+        Okay, let’s talk more about that later on\n
+        ঠিক আছে, এই ব্যাপারটা নিয়ে পরে কথা বলবো
+        </item>
+        <item>
+        And finally, we’ll discuss …\n
+        এবং সবশেষে আমরা আলোচনা করবো..
+        </item>
+        <item>
+        If time allows, we will also cover …\n
+        যদি সময় পাওয়া যায়, আমরা আরো দেখবো..
+          </item>
+        <item>
+        After that, we’ll be looking at\n
+        তারপর আমরা দেখবো..
+         </item>
+        <item>
+        First of all, we’ll discuss\n
+        প্রথমেই আমরা আলোচনা করবো..
+        </item>
+        <item>
+        Firstly, we’ll be talking about\n
+        প্রথমত, আমরা কথা বলবো..
+      </item>
+        <item>
+        Our main aim today is to …\n
+        আমাদের আজ প্রধান লক্ষ্য হলো..
+         </item>
+        <item>
+        We are here to discuss …\n
+        আমরা এখানে আছি আলোচনা করার জন্য..
+        </item>
+        <item>
+        We are here today to talk about …\n
+        আমরা এখানে আজ উপস্থিত আছি কথা বলার জন্য ..
+        </item>
+        <item>
+        I have received apologies for absence from him …\n
+        সে আমার কাছে দুঃখ প্রকাশ করেছে অনুপস্থিতির জন্য
+        </item>
+        <item>
+        It’s a pleasure for me to welcome …\n
+        স্বাগতম জানাতে পারাটা আমার জন্য আনন্দের
+
+       </item>
+        <item>
+        I’d like to take a moment to introduce …\n
+        আমি একটু সময় নিবো পেশ করতে..
+       </item>
+        <item>
+        We are pleased to welcome\n
+        আমরা আনন্দিত স্বাগতম জানাতে পেরে..
+   </item>
+        <item>
+        Firstly, I’d like to introduce\n
+        প্রথমত, আমি পেশ করতে চাই..
+       </item>
+        <item>
+        Please join me in welcoming …\n
+        দয়া করে আমার সাথে অংশগ্রহণ করুন স্বাগতম জানাতে..
+    </item>
+        <item>
+        For those of you who don’t know me yet, I am …\n
+        আপনারা যারা আমাকে এখনো চিনেন না, আমি হলাম ..
+        </item>
+        <item>
+        I’ve called this meeting today in order to . . .
+        আমি আজকে এই বৈঠক ডেকেছি কারণ ..
+   </item>
+        <item>
+        I really appreciate your attendance to this meeting
+        এই বৈঠকে আপনাদের উপস্থিতিকে আমি সত্যিই মূল্যায়ন (ভালো চোখে দেখা) করছি
+   </item>
+        <item>
+        Please join me in welcoming …
+        হ্যালো সবাইকে। আজ এখানে আসার জন্য ধন্যবাদ
+   </item>
+        <item>
+        For those of you who don’t know me yet, I am …
+        আপনারা যারা আমাকে এখনো চিনেন না, আমি হলাম ..
+     </item>
+        <item>
+        I’ve called this meeting today in order to . . .\n
+        আমি আজকে এই বৈঠক ডেকেছি কারণ ..
+       </item>
+        <item>
+        Hello, everyone. Thank you for coming today\n
+        হ্যালো সবাইকে। আজ এখানে আসার জন্য ধন্যবাদ
+        </item>
+        <item>
+        Since everyone is here, we should get started\n
+        যেহেতু সবাই এখানে আছে, আমাদের শুরু করা উচিত এখন
+      </item>
+        <item>
+        Everyone has arrived now. So let’s get started\n
+        সবাই পৌঁছে গিয়েছে। শুরু করা যাক তাহলে
+  </item>
+        <item>
+        Do you have time available on Friday morning?\n
+        আপনাদের কি শুক্রবার সকালে সময় হবে?
+      </item>
+        <item>
+        Where do you live?\n
+        তুমি থাকো কোথায়?
+  </item>
+        <item>
+        What\'s your name?\n
+        তোমার নাম কি?
+      </item>
+        <item>
+        Good Afternoon, everyone\n
+        সবাইকে শুভ বিকাল
+     </item>
+        <item>
+        It was really nice meeting you\n
+        আপনার সাথে দেখা হয়ে আসলেই খুব ভালো লাগলো
+       </item>
+        <item>
+        Let\'s meet at 12.30 PM\n
+        ১২টা বেজে ৩০ মিনিটে দেখা করি চলো
+
+        </item>
+
+
+    </string-array>
+
+</resources>

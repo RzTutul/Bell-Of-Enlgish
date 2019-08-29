@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timeAndDate">
+       <item>
+        তিনি সকাল চারটার সময় ওঠেন\n
+        He rises at four o\'clock in the morning
+ </item>
+        <item>
+        আমার ঘড়িটা ঠিক চলছে না\n
+        My watch is not going right
+ </item>
+        <item>
+        আমার ঘড়িটা ঠিক সময় রাখে\n
+        My watch keeps good time
+ </item>
+        <item>
+        একদিন বিকেলে আমি তাকে দেখেছিলাম\n
+        I saw him one afternoon
+ </item>
+        <item>
+        জানুয়ারি মাসের প্রথমে পরীক্ষা শুরু হবে\n
+        The exam will begin in the early part of January
+ </item>
+        <item>
+        মে মাসের মধ্যভাগে\n
+        In the middle of May
+ </item>
+        <item>
+        এপ্রিল মাসের মাঝামাঝি\n
+        By the middle of April
+ </item>
+        <item>
+        জুন মাসের শেষ পর্যন্ত\n
+        By the end of June
+ </item>
+        <item>
+        তোমার ঘড়িতে কটা বেজেছে?\n
+        What is the time by your watch?
+ </item>
+        <item>
+        বারই জুন সোমবার বিকাল পাঁচটার সময়\n
+        At the 5 P. M. on Monday, the 12th June
+ </item>
+        <item>
+        সে আড়াইটার গাড়িতে গিয়েছিল\n
+        He went by the 2:30 train
+ </item>
+        <item>
+        বারটার মধ্যে কাজ শেষ করবে\n
+        You must finish your work by 12 o’clock
+ </item>
+        <item>
+        এখন ১২টা বেজে ৪৫ মিনিট\n
+        It’s 12:45 PM
+ </item>
+        <item>
+        এখন সময় পোনে দুইটা\n
+        The time is a quarter to two.
+ </item>
+        <item>
+        ক্ষমা করবেন,কয়টা বাজে বলতে পারবেন?\n
+        Pardon me, do you have the time?
+ </item>
+        <item>
+        আজকে কতো তারিখ?\n
+        What’s the date today?
+ </item>
+        <item>
+        আজকে কি ১২ তারিখ নাকি ১৩ তারিখ?\n
+        Is today the 12th or 13th?
+ </item>
+        <item>
+        আপনি কি দয়া করে আমাকে সময়টা বলতে পারবেন?\n
+        Could you tell me the time please?
+ </item>
+        <item>
+        এখন ২টা বেজে ২০ মিনিট\n
+        It’s twenty after two
+ </item>
+        <item>
+        আজকের তারিখ কতো?\n
+        What’s today’s date
+ </item>
+        <item>
+        আজ মার্চের ৩ তারিখ\n
+        It’s March third
+ </item>
+        <item>
+        যাওয়ার সময়টা কখন (কোনো জায়গা থেকে চলে যাওয়ার সময়)?\n
+        What time is check out?
+ </item>
+        <item>
+        ১২টা বাজে যাওয়ার সময়\n
+        Check out is at 12:00 PM
+ </item>
+        <item>
+        শুভ বিকাল, স্যার। আমি কিভাবে আপনাকে সাহায্য করতে পারি?\n
+        Good afternoon, sir. How can I help you?
+ </item>
+        <item>
+        ওটার জন্য কোন দিনটি এবং কোন সময়টি আপনি পছন্দ করবেন?\n
+        What day and time would you like that for?
+ </item>
+        <item>
+        আপনাদের কি শুক্রবার সকালে সময় হবে?\n
+        Do you have time available on Friday morning?
+ </item>
+        <item>
+        আপনার জন্য শুক্রবার ১০টা বেজে ৩০ মিনিট সময়টি নির্ধারণ করেছি আমরা\n
+        We have you scheduled for Friday at 10:30 AM
+ </item>
+        <item>
+        এখন সময় কতো?\n
+        What time is it?
+ </item>
+        <item>
+        এখন সাড়ে ৩টা বাজে\n
+        It\'s half past three
+ </item>
+        <item>
+        আপনি কি দয়া করে আমাকে সময়টা বলতে পারবেন?\n
+        Can you tell me the time, please?
+ </item>
+        <item>
+        আমি শুক্রবার বাড়ি যাচ্ছি (বিমানে)\n
+        I\'m flying home on Friday
+ </item>
+        <item>
+        আমি মিথ্যেবাদী লোক একদম পছন্দ করি না!\n
+        I don\'t like liar at all!
+ </item>
+        <item>
+        আপনার সাহায্যের জন্য ধন্যবাদ। আরে এটা কোনো ব্যাপার না!\n
+        Thank you for your help. Not at all
+ </item>
+        <item>
+        একেবারে শেষ মুহূর্তে আমরা নিউইয়র্কের বিমানে আসন সংরক্ষণ করতে পেরেছিলাম\n
+        We were able to book a flight to New York at the last minute
+ </item>
+        <item>
+        সে সমুদ্রে ছিলো ১৫ মাসের জন্য\n
+        He was at sea for fifteen months
+ </item>
+        <item>
+        এই ধাপে ধাতুটি ২০০ ডিগ্রি সেলসিয়াসে উত্তপ্ত আছে\n
+        At this stage the metal is heated to 200 degrees Celsius
+ </item>
+        <item>
+        আমি মাসের ৭ তারিখে জন্মগ্রহন করি\n
+        I was born on the 7th of the month
+ </item>
+        <item>
+        আমি সেপ্টেম্বরে জন্মগ্রহন করি\n
+        I was born in September
+ </item>
+        <item>
+        আমার জন্মদিন সেপ্টেম্বরের ৭ তারিখ\n
+        My birthday is on September the 7th
+ </item>
+        <item>
+        আজকে কি বার?\n
+        What day is it, please?
+ </item>
+        <item>
+        আজকে তারিখ কতো?\n
+        What date is it, please?
+ </item>
+        <item>
+        আজ এপ্রিলের ১ তারিখ\n
+        It\'s the 1st of April
+ </item>
+        <item>
+        আজকে তারিখ কতো দয়া করে বলবেন?\n
+        What\'s the date today, please?
+ </item>
+        <item>
+        ১২টা বাজতে ২৮ মিনিট বাকি\n
+        It\'s twenty-eight minutes to twelve
+ </item>
+        <item>
+        ৩টা বেজে ১ মিনিট\n
+        It\'s one minute past three
+ </item>
+        <item>
+        মাত্র সাড়ে ১১টা বাজলো\n
+        It\'s just turned half past eleven
+ </item>
+        <item>
+        প্রায় ৩টা বাজে\n
+        It\'s nearly three o\'clock
+ </item>
+        <item>
+        ১২টা বেজে ৩০ মিনিটে দেখা করি চলো\n
+        Let\'s meet at 12.30 PM
+ </item>
+        <item>
+        রাত সাড়ে ১০টা বাজে\n
+        It\'s half past ten at night
+ </item>
+        <item>
+        ১টা বাজে\n
+        It is one o\'clock
+ </item>
+        <item>
+        প্রায় ১০টা বাজে\n
+        It is about 10 o\'clock
+ </item>
+        <item>
+        আপনি কি সময়টা জানেন?\n
+        Do you have the time?
+ </item>
+        <item>
+        দয়া করে আমাকে বলবেন কয়টা বাজে এখন?\n
+        Can you tell me what time it is, please?
+ </item>
+        <item>
+        মঙ্গলবারে হবে আপনার?\n
+        Would Tuesday suit you?
+ </item>
+        <item>
+        আপনি কি মঙ্গলবার থাকবেন?\n
+        Would you be available on Tuesday?
+ </item>
+        <item>
+        তুমি কি ঠিক সময়টা জেনেছো?\n
+        Have you got the right time?
+ </item>
+        <item>
+        কখন পারবে তুমি এটা?\n
+        What time would you make it?
+ </item>
+        <item>
+        মাত্রই ৩টা পার হয়ে গেলো\n
+        It is just gone three o\'clock.
+ </item>
+        <item>
+        ৩টা বেজে ৩ মিনিট\n
+        It is three minutes past three
+ </item>
+        <item>
+        ৩টা বেজে ৫ মিনিট\n
+        It is five past three
+ </item>
+        <item>
+        ৪টা বাজতে ৩ মিনিট বাকি\n
+        Three minutes to four
+ </item>
+
+    </string-array>
+
+</resources>

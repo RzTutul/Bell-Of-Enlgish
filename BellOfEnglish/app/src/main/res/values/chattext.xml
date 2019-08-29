@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="chatText">
+        
+  <item>
+    তুমি বিনোদনের জন্য কি কর?\n
+    What do you do for fun?
+  </item>
+        <item>
+    আমি অবশ্যই বুঝতে পারবো\n
+    I can definitely understand
+  </item>
+        <item>
+    শুনে মনে হচ্ছে অনেক কঠিন\n
+    That sounds difficult
+  </item>
+        <item>
+    তুমি কি বলতে চাচ্ছো আমি বুঝতে পারছি\n
+    I can see your point
+  </item>
+        <item>
+    আমাকে শুধরে দিয়ো যদি আমার ভুল হয়\n
+    Correct me if I\'m wrong
+  </item>
+        <item>
+    তোমার জন্য খুবই ভালো\n
+    Too cool for you
+  </item>
+        <item>
+    তোমার জন্য খুবই ভালো\n
+    Too good for you
+  </item>
+        <item>
+    এটা দেখছি / পড়ছি এখন\n
+    Going through it.
+  </item>
+        <item>
+    যদিও কারো আগ্রহ নেই\n
+    Nobody cares though
+  </item>
+        <item>
+    চলতে থাকবে..\n
+    To be continued…
+  </item>
+        <item>
+    আমি যতটুকু জানি..\n
+    As far as I know…
+  </item>
+        <item>
+    তোমার সাথে পরে কথা বলছি\n
+    Talk to you later
+  </item>
+        <item>
+    তুমি অনেক সুন্দর\n
+    You are a cutie
+  </item>
+        <item>
+    তোমার জন্য অপেক্ষা করছি\n
+    Waiting for you
+  </item>
+        <item>
+    কি অবস্থা?\n
+    What\'s up?
+  </item>
+        <item>
+    আমি তোমাকে সবসময় ভালোবাসবো\n
+    I will always love you
+  </item>
+        <item>
+    হাসতে হাসতে মেঝেতে গড়াগড়ি খাওয়া\n
+    ROFL: Rolling on floor laughing
+  </item>
+        <item>
+    নিজেরটা দেখো (অন্যেরটা না দেখে)\n
+    MYOB: Mind your own business
+  </item>
+        <item>
+    চিন্তার কিছু নেই\n
+    NTW: Not to worry
+  </item>
+        <item>
+    সত্যিকার অর্থে আমার যা মনে হচ্ছে..\n
+    In my honest opinion…
+  </item>
+        <item>
+    সত্যি বলতে কি..\n
+    TBH: To be honest
+  </item>
+        <item>
+    যত দ্রুত পারা যায়..\n
+    ASAP: As soon as possible
+  </item>
+        <item>
+    তোমাকে দেখে খুশি  হলাম\n
+    GTSY: Glad to see you
+  </item>
+        <item>
+    যোগাযোগ রেখো\n
+    KIT: Keep in touch
+
+    হে খোদা, আমাকে সাহায্য করো\n
+    LHM: Lord, help me
+  </item>
+        <item>
+    তোমার জন্য আমার একটা প্রশ্ন আছে\n
+    ?4U: I have a question for you
+  </item>
+        <item>
+    একজনে একজনে (দুইপক্ষ থেকে একজন করে থাকবে)\n
+    121 : One-to-one
+  </item>
+        <item>
+    কীবোর্ড থেকে দূরে\n
+    AFK: Away from keyboard
+  </item>
+        <item>
+    আরো পরিচিত (অন্য কোনো নামে)\n
+    AKA: Also known as
+  </item>
+        <item>
+    কাজে ফিরে এলাম\n
+    B2W : Back to work
+  </item>
+        <item>
+    পরে আসবো\n
+    BBL: Be back later
+  </item>
+        <item>
+    একটু পরেই আসছি\n
+    BBS: Be back soon
+  </item>
+        <item>
+    এখুনি আসছি\n
+    BRB: Be right back
+  </item>
+        <item>
+    চিরদিনের বন্ধু\n
+    BF : Best friend(s) forever
+  </item>
+        <item>\n
+    প্রসঙ্গক্রমে\n
+    BTW: By the way
+  </item>
+        <item>
+    পরে কল করো\n
+    CMB: Call me back
+  </item>
+        <item>
+    নিজে নিজে করো\n
+    DIY : Do it yourself
+  </item>
+        <item>
+    প্রায়ই জিজ্ঞাসিত প্রশ্ন\n
+    FAQ: Frequently asked questions
+  </item>
+        <item>
+    মুখোমুখি\n
+    F2F: Face-to-face
+  </item>
+        <item>
+    ফেইসবুক (সোশ্যাল নেটওয়ার্কিং সাইট)\n
+    FB: Facebook
+  </item>
+        <item>
+    তোমার জ্ঞাতার্থে জানানো যাচ্ছে যে..\n
+    FYI: For your information…
+  </item>
+        <item>
+    বিদায়\n
+    GB: Goodbye
+  </item>
+        <item>
+    তোমার ভাগ্য তোমার সাথে থাকুক\n
+    GL: Good luck
+  </item>
+        <item>
+    যেতে হবে\n
+    GG : Gotta go
+  </item>
+        <item>
+    তাৎক্ষণিক বার্তা\n
+    IM: Instant Message
+  </item>
+        <item>
+    মজা করলাম\n
+    J/K: Just kidding
+  </item>
+        <item>
+    জোরে জোরে হাসা\n
+    LOL: Laugh out loud
+  </item>
+        <item>
+    পুরুষ অথবা মহিলা?\n
+    M/F: Male or female?
+  </item>
+        <item>
+    পথে আছি\n
+    OTW: On the way
+  </item>
+        <item>
+    পরে দেখা হবে\n
+    SYL: See you later
+  </item>
+        <item>
+    যতক্ষণ লাগে সময় নাও\n
+    TYT: Take your time
+  </item>
+        <item>
+    কোনো উত্তর দেয়ার দরকার নেই\n
+    NRN: No reply necessary
+  </item>
+        <item>
+    কোনো সমস্যা নেই\n
+    NP: No problem
+  </item>
+        <item>
+    ন্য দিকে..\n
+    On the other hand...
+  </item>
+        <item>
+    আমাকে কল দিও\n
+    PCM: Please, call me
+  </item>
+        <item>
+    জরুরি দরকার: কল দাও\n
+    911: Emergency! Call me
+  </item>
+        <item>
+    শীঘ্রই আবার দেখা হবে\n
+    SYS: See you soon
+  </item>
+        <item>
+    যোগাযোগ রেখো\n
+    SIT: Stay in touch
+  </item>
+        <item>
+    পরের বার দেখা না হওয়া পর্যন্ত..\n
+    TNT : Till next time…
+  </item>
+        <item>
+    এখনকার মতো যাই\n
+    B4N: Bye for now
+  </item>
+        <item>
+    আরে গাধা, সোজাসুজি বল\n
+    KISS: Keep it simple, stupid
+  </item>
+
+    </string-array>
+</resources>

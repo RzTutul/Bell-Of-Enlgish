@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="restaurant">
+     <item>
+        ম্যাকডোনাল্ডস’এ আপানাকে স্বাগতম। আমি কি আপনার অর্ডারটা (খাবারের অর্ডার) নিতে পারি?\n
+        Welcome to McDonald\'s.  May I take your order?
+    </item>
+    <item>
+
+        আমি একটি বিগ ম্যাক (খাবারের নাম) এবং একটি ছোট কোক নিব\n
+        I\'ll take a Big Mac and a small coke
+</item>
+        <item>
+        একটি বিগ ম্যাক এবং একটি ছোট কোক। আর কিছু?\n
+        One Big Mac and one small coke.  Will that be all?
+</item>
+        <item>
+        খাবারগুলো কি এখানে খাওয়ার জন্য নাকি নিয়ে যাবেন?\n
+        Will that be for here or to go?
+</item>
+        <item>
+        জি, এখানের জন্য\n
+        For here please
+</item>
+        <item>
+        সর্বমোট হয়েছে $৩.৮৭ ডলার (খাবারের বিল)\n
+        The total comes to $3.87
+</item>
+        <item>
+        আপনি কি মাঝারি, বড় অথবা তার থেকেও বড়টা নিবেন\n
+        Would you like medium, large, or super-size?
+</item>
+        <item>
+        আমি কি আপনাকে একটা ড্রিংক (পানীয়) দিবো?\n
+        Can I get you a drink?
+</item>
+        <item>
+        আমি কি আপনার জন্য একটা ড্রিংক আনবো?\n
+        Can I get a drink for you?
+</item>
+        <item>
+        আপনি কি এখন ড্রিংক অর্ডার করবেন?\n
+        Would you like to order a drink now?
+</item>
+        <item>
+        আমি কি আপনার আহারের শুরুটা ড্রিংক দিয়ে করাবো?\n
+        Can I get a drink started for you?
+</item>
+        <item>
+        তুমি কোন ড্রিংকটা নিবে?\n
+        What would you like to drink?
+</item>
+        <item>
+        আমি কোক নিবো\n
+        I\'ll take a coke
+</item>
+        <item>
+        আমি অরেঞ্জ জুস নিবো\n
+        I\'ll have an orange juice
+</item>
+        <item>
+        পানিই যথেষ্ট\n
+        Water will be fine
+</item>
+        <item>
+        আমি কি এক গ্লাস পানি পেতে পারি?\n
+        Can I have a glass of water?
+</item>
+        <item>
+        আমি কি আপনার অর্ডার নিতে পারি?\n
+        May I take your order?
+</item>
+        <item>
+        আপনি কি অর্ডার করতে চান\n
+        What would you like to order?
+</item>
+        <item>
+        আপনি অর্ডার করতে চান এখন?\n
+        Are you ready to order?
+</item>
+        <item>
+        আজকে কি খাবেন আপনি?\n
+        What would you like today?
+</item>
+        <item>
+        আর কিছু লাগবে আপনার?\n
+        Do you need anything else?
+</item>
+        <item>
+        তোমার ডিনার (রাতের খাবার) কেমন হয়েছে?\n
+        How is your dinner?
+</item>
+        <item>
+        আপনি আজকে ডেজার্ট (মিষ্টি জাতীয় খাদ্য) খেতে পছন্দ করবেন?\n
+        Would you like dessert today?
+</item>
+        <item>
+        আপনি কি কোনো ডেজার্ট অর্ডার করবেন?\n
+        Would you like to order any dessert?
+</item>
+        <item>
+        আমি কি আমার চেকটা (খাবার বিল) পেতে পারি?\n
+        Can I have my check?
+</item>
+        <item>
+        আমি কি আমার খাবার বিলটা পেতে পারি?\n
+        Can I have my bill?
+</item>
+        <item>
+        আমাকে এখন বিলটা দিতে পারেন\n
+        I\'m ready for my bill
+</item>
+        <item>
+        আমি রিজার্ভ (আসন অথবা রুম সংরক্ষণ) করতে চাচ্ছিলাম\n
+        I would like to make a reservation
+</item>
+        <item>
+        আপনাদের রুম ভাড়া কতো?\n
+        how much are your rooms?
+</item>
+        <item>
+        আপনাদের ভাড়া কতো?\n
+        what are your rates?
+</item>
+        <item>
+        আপনাদের রুম ভাড়া কতো?\n
+        how much is a room?
+</item>
+        <item>
+        সাধারণ রুমের ক্ষেত্রে আমাদের ভাড়া শুরু হয় $৭৯ ডলার থেকে\n
+        Our rooms start at $79 for a basic room
+</item>
+        <item>
+        আমি কি একটি রুম সংরক্ষণ করতে পারি?\n
+        Can I reserve a room?
+</item>
+        <item>
+        আমি একটি রুম সংরক্ষণ করতে চাচ্ছি\n
+        I would like to reserve a room
+</item>
+        <item>
+        আমি ২টা রুম সংরক্ষণ করতে পারি?\n
+        can I reserve a couple of rooms?
+</item>
+        <item>
+        আপনি কবে থেকে থাকতে চাচ্ছেন?\n
+        What day do you want to check in?
+</item>
+        <item>
+        আপনি কোন দিনটি সংরক্ষণ করতে চেয়েছিলেন (রিজার্ভের জন্য)?\n
+        Which date did you want to reserve?
+</item>
+        <item>
+        আপনি কোন দিনটি খুঁজছেন?\n
+        What date are you looking for?
+</item>
+        <item>
+        আমি ২২শে জুন থেকে ২৫শে জুন পর্যন্ত একটা রুম চাচ্ছিলাম\n
+        I want a room from June 22nd to June 25th
+</item>
+        <item>
+        আমি জুনের ১৯ তারিখের জন্য একটা রুম চাচ্ছিলাম\n
+        I would like a room for the 19th of July
+</item>
+        <item>
+        আপনি কয়দিন আমাদের এখানে থাকতে চাচ্ছেন?\n
+        How long will you be staying with us?
+</item>
+        <item>
+        আপনি কবে যাবেন?\n
+        When will you be checking out?
+</item>
+        <item>
+        আপনি কয়দিনের জন্য রুম চাচ্ছেন?\n
+        How many days would you like the room for?
+</item>
+        <item>
+        আমি ৩ দিন থাকবো\n
+        I am going to stay for 3 days
+</item>
+        <item>
+        আমি ৪ দিনের জন্য রুম সংরক্ষণ করতে চাচ্ছি\n
+        I would like to reserve the room for 4 days
+</item>
+        <item>
+        ২৩শে জুলাই পর্যন্ত আমার রুমটি দরকার\n
+        am going to need the room until July 23rd
+</item>
+        <item>
+        এটা (ভাড়া) কি শুধু মাত্র একটা রুমের জন্য?\n
+        Is this for only one room?
+</item>
+        <item>
+        আপনি কয়টি রুম রিজার্ভ করতে চান?\n
+        ow many rooms would you like to reserve?
+</item>
+        <item>
+        আপনার জন্য কয়টি রুম রিজার্ভ করবো আমি?\n
+        How many rooms should I reserve for you?
+</item>
+        <item>
+        আমার শুধু একটা রুম লাগবে\n
+        I will only need one room
+</item>
+        <item>
+        আমার দুইটা রুম লাগবে\n
+        I am going to need two rooms
+</item>
+        <item>
+        আপনার পার্টিতে প্রাপ্ত বয়স্ক লোক কয়জন থাকবে?\n
+        How many adults will be in your party?
+</item>
+        <item>
+        আপনার সাথে সব মিলিয়ে কতোটি বাচ্চা থাকবে?\n
+        How many total children will be with you?
+</item>
+        <item>
+        সিঙ্গেল কিং সাইজ (একজন শোয়ার জন্য) খাটে হবে?\n
+        Will a single king size bed be OK?
+</item>
+        <item>
+        আপনি কি ধূমপানযুক্ত অথবা ধূমপানমুক্ত রুম চান?\n
+        Do you prefer a smoking or non-smoking room?
+</item>
+        <item>
+        আমি ধূমপান করা যাবে এমন রুম চাই\n
+        I would like a smoking room
+</item>
+        <item>
+        আমি কি একটি ধূমপানমুক্ত রুম পেতে পারি?\n
+        Can I have a non-smoking room?
+</item>
+        <item>
+        আমার কোন পছন্দ নেই (রুমের ব্যাপারে)\n
+        I don\'t have a preference
+</item>
+        <item>
+        আমি কি একটা ক্রেডিট কার্ড নাম্বার পেতে পারি?\n
+        Can I get a credit card number?
+</item>
+        <item>
+        আমি কি আপনার ক্রেডিট কার্ড নাম্বার পেতে পারি?\n
+        Can I have your credit card number?
+</item>
+        <item>
+        আপনার ক্রেডিট কার্ড নাম্বারটা কতো?\n
+        What is your credit card number?
+</item>
+        <item>
+        আমি এখন উঠছি (হোটেলে থাকার জন্য)\n
+        I am checking in
+</item>
+        <item>
+        আমার একটা রিজার্ভেশান (রুম সংরক্ষণ) আছে এবং আমি এখন উঠতে চাচ্ছি\n
+        I have a reservation and I am checking in
+</item>
+        <item>
+        এলিভেটরটা (উপরে উঠার জন্য) কোথায়?\n
+        Where is the elevator?
+</item>
+        <item>
+        আপনাদের এখানে কি দ্বাররক্ষী (দারোয়ান) ব্যবস্থা আছে?\n
+        Do you have concierge service here?
+</item>
+        <item>
+        আপনাদের কাছে এই শহরের কোনো ম্যাপ আছে?\n
+        Do you have a map of the city?
+</item>
+        <item>
+        আমার কোন সময়ের মধ্যে চেক আউট (চলে যাওয়া) করতে হবে?\n
+        What time should I check out by?
+</item>
+        <item>
+        চেক আউটের সময় কোনটা?\n
+        What time is check out?
+</item>
+        <item>
+        চেক আউটের সময় কোনটা?\n
+        What time is check out?
+</item>
+        <item>
+        আমাকে কি আগে একবার জানানো যাবে (চেক আউটের ব্যাপারে)?\n
+        Can I have a wakeup call?
+</item>
+        <item>
+        কখন জানালে আপনার জন্য ভালো হয়?\n
+        What time would you like your wakeup call?
+</item>
+        <item>
+        রুম সার্ভিস আসার সময় কোনটি?\n
+        What are the hours for room service?
+</item>
+        <item>
+        আপনাদের দ্বাররক্ষী আছে?\n
+        Do you have a concierge?
+</item>
+        <item>
+        আপনি কি কাউকে দিয়ে আমার গাড়িটা আনাতে পারবেন (গ্যারেজ থেকে)?\n
+        Can you get someone to get my car?
+        </item>
+    </string-array>
+
+
+
+
+
+    <string-array name="introductionConversion">
+    <item>
+    আমার নাম পেট্রিসিয়া।\n
+    My name is Patricia.
+
+        </item>
+        <item>
+    আমি একজন ছাত্র।\n
+    I’m a student.
+       </item>
+        <item>
+    আমি লন্ডনে থাকি।\n
+    I live in London.
+</item>
+        <item>
+    আমি মিশিগান’এর বাসিন্দা।\n
+    I am from Michigan.
+</item>
+        <item>
+    আমি নিউ ইয়র্ক থেকে এসেছি\n
+    I come from New York
+</item>
+        <item>
+    আমি শিকাগোতে থাকি।\n
+    I live in Chicago
+</item>
+        <item>
+    আমি বই পড়তে পছন্দ করি\n
+    I like reading books
+</item>
+        <item>
+    সে আমার একজন বন্ধু\n
+    He\'s a friend of mine
+</item>
+        <item>
+    আমি আইটি’র উপর স্নাতক করেছি ইউনিভার্সিটি অব লন্ডন থেকে\n
+    I graduated in IT from the University of London
+</item>
+        <item>
+    হ্যালো, আমার নাম জন রবার্ট\n
+    Hello, my name is John Robert
+</item>
+        <item>
+    দয়া করে আমাকে রবার্ট ডাকুন\n
+    Please, call me Robert
+</item>
+        <item>
+    আমি থাকি টরোন্টো, কানাডায়\n
+    I am from Toronto, Canada
+</item>
+        <item>
+    হাই, আমি জন\n
+    Hi, I\'m John
+</item>
+        <item>
+    শুভ বিকাল। আমি কি আমার পরিচয় দিতে পারি? আমার নাম জন\n
+    Good afternoon. May I introduce myself? My name is John
+</item>
+        <item>
+    আপনার সাথে দেখা হয়ে আসলেই খুব ভালো লাগলো\n
+    It was really nice meeting you
+</item>
+        <item>
+    আসুন পরিচিত হই আমার কলিগ মিঃ জনের সাথে\n
+    I\'d like you to meet my colleague Mr. John
+</item>
+        <item>
+    এই আমার বন্ধু জন\n
+    This is my friend John
+</item>
+        <item>
+    আমি কি আমার বন্ধুকে আপনাদের সাথে পরিচয় করাতে পারি?\n
+    May I introduce my friend to you?
+</item>
+        <item>
+    আপনাদের কি তার সাথে দেখা হয়েছে?\n
+    Have you met him?
+</item>
+        <item>
+    সে আমার একজন বন্ধু\n
+    He\'s a friend of mine
+</item>
+        <item>
+    সে আমার ভাইয়ের বন্ধু\n
+    He\'s a friend of my brother
+</item>
+        <item>
+    সে আমার একজন কলিগ\n
+    He\'s a colleague
+</item>
+        <item>
+    সে আমার কাজিন\n
+    She\'s my cousin
+</item>
+        <item>
+    আপনাদের কি আমার কলিগ রবার্টের সাথে দেখা হয়েছে?\n
+    Have you met my colleague Robert?
+</item>
+        <item>
+    এই হলো জন\n
+    This is John
+</item>
+        <item>
+    দেখা হয়ে ভালো লাগলো\n
+    Nice to meet you
+</item>
+        <item>
+    দেখা হয়ে ভালো লাগলো\n
+    Pleased to meet you
+</item>
+        <item>
+    কেমন চলছে?\n
+    How do you do?
+</item>
+        <item>
+    দেখা হয়ে ভালো লাগলো\n
+    Glad to meet you
+</item>
+        <item>
+    আপনার নামের প্রথম অংশ কি?\n
+    What is your first name?
+</item>
+        <item>
+    আপনার নামের শেষ অংশ কি দয়া করে বলবেন?\n
+    What is your last name, please?
+</item>
+        <item>
+    আমি ইংলিশ নিয়ে পড়ছি\n
+    I’m studying English
+</item>
+        <item>
+    শুভ সকাল। উনি কে?\n
+    Good morning. Who is he?
+</item>
+        <item>
+    সবাই পৌঁছে গিয়েছে। শুরু করা যাক তাহলে\n
+    Everyone has arrived now. So let’s get started
+</item>
+        <item>
+    আপনারা যারা আমাকে এখনো চিনেন না, আমি হলাম ..\n
+    For those of you who don’t know me yet, I am …
+</item>
+        <item>
+    দয়া করে আমার সাথে অংশগ্রহণ করুন স্বাগতম জানাতে..\n
+    Please join me in welcoming …
+</item>
+        <item>
+    প্রথমত, আমি পেশ করতে চাই..\n
+    Firstly, I’d like to introduce …
+</item>
+        <item>
+    আমি নিজের পরিচয় দিয়ে নিচ্ছি\n
+    Let me introduce myself
+</item>
+        <item>
+    আমার নাম জন এবং আমি দায়িত্বে আছি..\n
+    My name is John and I am responsible for…
+
+        </item>
+</string-array>
+    
+</resources>

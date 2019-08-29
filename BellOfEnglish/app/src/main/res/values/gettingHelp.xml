@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gettingHelp">
+
+      <item>
+        আমি কিছু পরামর্শ দিতে পারলে ভালো হতো, কিন্তু আমি পারছি না\n
+        I wish I could suggest something, but I can\'t
+    </item>
+        <item>
+        আমি সত্যিই তোমাকে সাহায্য করতে পারবো না\n
+        I\'m afraid I can\'t really help you
+ </item>
+        <item>
+        তুমি না হয় এখানে থাকো; আর আমি যাই এবং সাহায্যের সন্ধান করি।\n
+        How about you stay here and I go and look for help?
+ </item>
+        <item>
+        আপনি কি আমাকে সাহায্য করতে পারবেন?\n
+        Could you help me?
+ </item>
+        <item>
+        আমি কি একটি উপকারের জন্য অনুরোধ করতে পারি?\n
+        May I ask a favor?
+ </item>
+        <item>
+        অবশ্যই। কি করতে হবে, বলুন?\n
+        Sure, what is it?
+ </item>
+        <item>
+        আপনি কি জন্য আমার সাহায্য চান?\n
+        What do you need my help for?
+ </item>
+        <item>
+        আপনি এটা কি জন্য চান?\n
+        Why do you need it?
+ </item>
+        <item>
+        এটা সত্যিই আমাকে অনেক সাহায্য করবে\n
+        It would really help me out
+ </item>
+        <item>
+        যদি আপনি খুব ব্যস্ত না থাকেন তাহলে আমি কি একটা উপকারের জন্য বলতে পারি?\n
+        If you\'re not too busy may I ask a favor?
+ </item>
+        <item>
+        যদি সম্ভব হয় তাহলে আমি কি একটা উপকারের জন্য বলতে পারি?\n
+        If it\'s possible may I ask a favor?
+ </item>
+        <item>
+        আপনি কি আমাকে আমার চাবি খুঁজে পেতে সাহায্য করবেন?\n
+        Could you help me find my keys?
+ </item>
+        <item>
+        আমি সত্যিই এটা (উপকার) মূল্যায়ন করবো\n
+        I\'d really appreciate it
+ </item>
+        <item>
+        আমি খুবি খুশি হবো যদি উপকারটা করতেন\n
+        I\'d really be glad if you did
+ </item>
+        <item>
+        আমি অবশ্যই পছন্দ করবো (উপকার করতে)\n
+        I\'d really like that
+ </item>
+        <item>
+        অবশ্যই, আমি কিছু মনে করবো না\n
+        Sure, I wouldn\'t mind
+ </item>
+        <item>
+        অবশ্যই, এটা ঠিক আছে\n
+        Sure, that\'s ok
+ </item>
+        <item>
+        অবশ্যই, কোন সমস্যা নেই\n
+        Sure, no problem
+ </item>
+        <item>
+        অবশ্যই, এটা ঠিক আছে\n
+        Sure, that\'s fine
+ </item>
+        <item>
+        হুম, আমাকে দেখতে দিন ব্যাপারটা\n
+        Hmm, let me see
+ </item>
+        <item>
+        আপনি কি আমাকে একটা পেন্সিল দিতে পারবেন?\n
+        Will you hand me a pencil?
+ </item>
+        <item>
+        কিছু মনে না করলে আমাদের জন্য একটা ছবি তুলতে পারবেন?\n
+        Would you mind taking a picture for us?
+ </item>
+        <item>
+        সাহায্যের জন্য ধন্যবাদ\n
+        Thanks for your help
+ </item>
+        <item>
+        আপনি কি দয়া করে আমাকে কর্মস্থলে নিয়ে যেতে পারবেন?\n
+        Could you please take me to work?
+ </item>
+        <item>
+        আমাকে একটু সাহায্য করতে পারবেন?\n
+        Could you please lend me a hand?
+ </item>
+        <item>
+        আমি তোমাকে আমার ভাইকে সাহায্য করার জন্য বলতে পারি?\n
+        Could I ask you to help my brother?
+ </item>
+        <item>
+        আমি কি তোমাকে একটু বিরক্ত করতে পারি আমাকে কর্মস্থলে নামিয়ে আসতে বলে?\n
+        Could I bother you to give me a ride to work?
+ </item>
+        <item>
+        আমি কি তোমাকে একটু কষ্ট দিতে পারি দরজাটা খুলতে বলে?\n
+        Could I trouble you to open the door for me?
+ </item>
+        <item>
+        আমি কি তোমার টেলিফোন ব্যবহার করতে পারি?\n
+        May I use your telephone?
+ </item>
+        <item>
+        কিছু মনে না করলে জানালাটা একটু বন্ধ করবেন?\n
+        Would you mind closing the window?
+ </item>
+        <item>
+        কিছু মনে না করলে আজকে রাতের রান্নাটা কি তুমি করবে?
+        Would you mind cooking dinner tonight?
+ </item>
+        <item>
+        তুমি কি দয়া করে আমাকে আমার বাড়ির কাজটা করতে সাহায্য করবে?
+        Could you please help me with the homework?
+ </item>
+        <item>
+        কিছু মনে না করলে আমাকে বিষয়টা ব্যাখ্যা করতে পারবে?
+        Would you mind explaining it to me?
+ </item>
+        <item>
+        তোমাকে একটা প্রশ্ন করতে পারি?\n
+        Could I ask you a question?
+ </item>
+        <item>
+        কিছু মনে না করলে তুমি কি আমাকে আমার অনুষ্ঠানটা দেখতে দিবে?
+        Would you mind letting me watch my show?
+ </item>
+        <item>
+        তোমাকে সাহায্য করতে পারলে খুবই খুশি হবো
+        I\'d be happy to help you
+ </item>
+        <item>
+        আমি আনন্দিত হবো (সাহায্য করতে পারলে)
+        It would be my pleasure
+ </item>
+        <item>
+        আমি আনন্দের সাথে সাহায্য করবো
+        I\'d be glad to help out
+ </item>
+        <item>
+        আমার মনে হয় আমি পারবো না (সাহায্য করতে)
+        I\'m afraid I can\'t
+ </item>
+        <item>
+        দুঃখিত, কিন্তু আমি অক্ষম\n
+        Sorry, but I\'m unable
+ </item>
+        <item>
+        আপনি কি দয়া করে আমাকে সময়টা বলতে পারবেন?\n
+        Could you tell me the time please?
+ </item>
+        <item>
+        শুভ বিকাল, স্যার। আমি কিভাবে আপনাকে সাহায্য করতে পারি?\n
+        Good afternoon, sir. How can I help you?
+ </item>
+        <item>
+        এখানে কাছে কোথাও রেস্টুরেন্ট আছে?\n
+        Is there a restaurant near here?
+ </item>
+        <item>
+        দয়া করে বলবেন কাছের ওষুধের দোকানটা কোথায়?\n
+        Where is the nearest drugstore, please?
+ </item>
+        <item>
+        আপনি কি দয়া করে আমাকে বলতে পারবেন কিভাবে ট্রেন স্টেশনে যাওয়া যাবে?\n
+        Can you tell me how to get to the train station, please?
+ </item>
+        <item>
+        আমি ব্যাংক অব আমেরিকা খুঁজছি। আমি ভেবেছিলাম ওটা এখানেই কোথাও হবে। আপনি কি জানেন এটা কোথায়?\n
+        I\'m looking for Bank of America.  I thought it was around here.  Do you know where it is?
+ </item>
+        <item>
+        আমি পোস্ট অফিসটা খুঁজছি। তুমি কি জানো সেখানে কিভাবে যাওয়া যাবে?\n
+        I\'m looking for the post office.  Do you know how to get there?
+ </item>
+        <item>
+        ৭-১১ (address) অতিক্রম করার পর পরবর্তী লাইট পোস্টের কাছ থেকে ডান দিকে মোড় নিবেন\n
+        After you pass 7-11, take a right at the next light
+ </item>
+        <item>
+        আমি একটি সুপারমার্কেট খুঁজছি। আপনি কি জানেন সবচেয়ে কাছেরটি কোথায়?\n
+        I\'m looking for a supermarket.  Do you know where the closest one is?
+ </item>
+        <item>
+        আপনি কি জানেন স্টারবাক্স কোথায় অবস্থিত?\n
+        Do you know where Starbucks is located?
+ </item>
+        <item>
+        আমি এখানে থেকে কিভাবে এয়ারপোর্টে যাবো?\n
+        How do I get to the airport from here?
+ </item>
+        <item>
+        আমি কি একটি রুম সংরক্ষণ করতে পারি?\n
+        Can I reserve a room?
+ </item>
+        <item>
+        আমি ২২শে জুন থেকে ২৫শে জুন পর্যন্ত একটা রুম চাচ্ছিলাম\n
+        I want a room from June 22nd to June 25th
+ </item>
+        <item>
+        আমি কি একটা ক্রেডিট কার্ড নাম্বার পেতে পারি?\n
+        Can I get a credit card number?
+ </item>
+        <item>
+        আপনি কি কাউকে দিয়ে আমার গাড়িটা আনাতে পারবেন (গ্যারেজ থেকে)?\n
+        Can you get someone to get my car?
+ </item>
+        <item>
+        আপনার সাহায্যের জন্য ধন্যবাদ। আরে এটা কোনো ব্যাপার না!\n
+        Thank you for your help. Not at all
+ </item>
+        <item>
+        দয়া করে আমাকে বলবেন কয়টা বাজে এখন?\n
+        Can you tell me what time it is, please?
+ </item>
+        <item>
+        আপনার নামের শেষ অংশ কি দয়া করে বলবেন?\n
+        What is your last name, please?
+ </item>
+        <item>\n
+        আপনি কি ওটার বানান করতে পারবেন দয়া করে?\n
+        Could you spell that, please?
+ </item>
+        <item>
+        আমি কি দয়া করে নাটালি জোন্সের সাথে কথা বলতে পারি?\n
+        May I speak with Natalie Jones, please?
+ </item>
+        <item>
+        ওটার বানানটা কিভাবে করেন বলবেন দয়া করে?\n
+        How do you spell that, please?
+ </item>
+        <item>
+        আমি ফিল্ম (আলোকচিত্র গ্রহণের ফিল্ম) কোথায় পেতে পারি?\n
+        Where can I find film?
+ </item>
+        <item>
+        অনুগ্রহ করে আমি কি একটা রিসিপ্ট (মূল্য পরিশোধের তালিকা) পেতে পারি?\n
+        Could I have a receipt, please?
+ </item>
+        <item>
+        অনুগ্রহ করে একটা প্লাস্টিক ব্যাগ পাওয়া যাবে?\n
+        Could I have a (plastic) bag, please?
+ </item>
+        <item>
+        মাফ করবেন, আপনি কি এই ঠিকানাটা চিনেন?\n
+        Excuse me, do you know this address?
+
+        </item>
+    </string-array>
+
+</resources>

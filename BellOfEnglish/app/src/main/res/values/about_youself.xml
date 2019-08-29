@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aboutyourself">
+
+        <item>➢ তুমি থাকো কোথায়?\n
+        Where do you live?</item>
+        <item>
+        ➢ আমি বাংলাদেশ থাকি।\n
+        I live in Bangladesh.
+        </item>
+        <item>
+        ➢ তুমি বিনোদনের জন্য কি কর?\n
+        What do you do for fun?
+        </item>
+        <item>
+        ➢ আমি আমার অবসর সময়ে রং করতে পছন্দ করি  ।  \n
+        I like to paint in my spare time.
+        </item>
+        <item>
+        ➢ আমি বাংলাদেশ’এর বাসিন্দা।\n
+        I am from Bangladesh.
+        </item>
+        <item>
+        ➢আমি নিউ ইয়র্ক থেকে এসেছি\n
+        I come from New York
+        </item>
+        <item>
+        ➢ আমি বই পড়তে পছন্দ করি\n
+        I like reading books
+        </item>
+        <item>
+        ➢আমি বই পড়তে পছন্দ করি এবং সাঁতার কাটতে ভালোবাসি\n
+        I like reading books and love to swim.
+        </item>
+        <item>
+        ➢আমি একজন ভালো রাঁধুনে\n
+        I am a good cook
+        </item>
+        <item>
+        ➢ আমি দাবা খেলায় পারদর্শী\n
+        I am good at playing chess
+        </item>
+        <item>
+        ➢ আমি কেনাকাটা করতে পছন্দ করি যখন আমি অবসর পাই\n
+        I like to shop when I’m free
+        </item>
+        <item>
+        ➢সে আমার একজন বন্ধু\n
+        He\'s a friend of mine
+        </item>
+        <item>
+        ➢ আপনি কি কাজ (পেশা) করেন তাহলে?\n
+        So, what do you do for a living?
+        </item>
+    </string-array>
+
+
+
+</resources>

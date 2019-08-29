@@ -4,7 +4,128 @@
     General Question
     <string-array name="general_talk">
 
-    <item>
+
+           <item>
+    ➢ তুমি একটুও বদলাও নি\n
+    You have not change a bit
+    </item>
+        <item>
+    ➢ আমারও তাই মনে হয়\n
+    It seems to me, as well
+    </item>
+
+        <item>
+    ➢ আমি আগের মতই আছি\n
+    I am as before
+    </item>
+
+        <item>
+    ➢ আপনি নিজে নিন\n
+    Help yourself, please
+    </item>
+
+        <item>
+    ➢ বড় একা-একা লাগছে\n
+    I feel very lonely
+    </item>
+
+        <item>
+    ➢ কেউই কাজটা করতে পারল না\n
+    No one could do it
+    </item>
+
+        <item>
+    ➢ সে আমাকে মিথ্যাবাদী বলল\n
+    He called me a liar
+    </item>
+
+        <item>
+    ➢ এটা কিছু পরিমাণে সত্য\n
+    This is partly true
+    </item>
+        <item>
+    ➢ এতে কোন সন্দেহ নাই\n
+    It admits of no doubt
+    </item>
+
+        <item>
+    ➢ সে আমার মত ইংরেজি বলতে পারে না\n
+    He cannot speak English as I can
+    </item>
+        <item>
+    ➢ তুমি বিনোদনের জন্য কি কর?\n
+    What do you do for fun?What do you do for fun?
+    </item>
+
+        <item>
+    ➢ ➢ আমি বই পড়তে পছন্দ করি\n
+    I like reading books
+    </item>
+        <item>
+    ➢ আমি বই পড়তে পছন্দ করি এবং সাঁতার কাটতে ভালোবাসি\n
+    I like reading books and love to swim
+    </item>
+        <item>
+    ➢ আমি দাবা খেলায় পারদর্শী\n
+
+    I am good at playing chess
+    </item>
+
+        <item>
+    ➢ যদি সম্ভব হয় তাহলে আমি কি একটা উপকারের জন্য বলতে পারি?\n
+    If it\'s possible may I ask a favor?
+    </item>
+        <item>
+    ➢ আপনি কি আমাকে আমার চাবি খুঁজে পেতে সাহায্য করবেন?\n
+    Could you help me find my keys?
+    </item>
+        <item>
+    ➢ আমি সত্যিই এটা (উপকার) মূল্যায়ন করবো\n
+    I\'d really appreciate it
+    </item>
+        <item>
+    ➢ আমি খুবি খুশি হবো যদি উপকারটা করতেন\n
+    I\'d really be glad if you did
+    </item>
+        <item>
+    ➢ অবশ্যই, আমি কিছু মনে করবো না\n
+    Sure, I wouldn\'t mind
+    </item>
+        <item>
+    ➢ অবশ্যই, এটা ঠিক আছে\n
+    Sure, that\'s ok
+    </item>
+
+        <item>
+    ➢ অবশ্যই, কোন সমস্যা নেই\n
+    Sure, no problem
+    </item>
+
+        <item>
+    ➢ অবশ্যই, এটা ঠিক আছে\n
+    Sure, that\'s fine
+    </item>
+        <item>
+    ➢ হুম, আমাকে দেখতে দিন ব্যাপারটা\n
+    Hmm, let me see
+    </item>
+        <item>
+    ➢ আপনি কি আমাকে একটা পেন্সিল দিতে পারবেন?\n
+    Will you hand me a pencil?
+    </item>
+
+        <item>
+    ➢ কিছু মনে না করলে আমাদের জন্য একটা ছবি তুলতে পারবেন?\n
+    Would you mind taking a picture for us?
+    </item>
+
+        <item>
+    ➢ সাহায্যের জন্য ধন্যবাদ\n
+    Thanks for your help
+    </item>
+
+
+        <item>
     ➢ যত দিন বাঁচি তত দিন শিখি।\n
     We learn from womb to tomb
     </item>
@@ -73,7 +194,7 @@
 
         <item>
     ➢ আজ সারাদিন বৃষ্টি হচ্ছে.\n
-    It has been been raining all day long
+    It has been  raining all day long
     </item>
         <item>
     ➢ আমি অঙ্কটি করতে পারতাম.\n
@@ -143,6 +264,40 @@
     This is just the pen I want
     </item>
         <item>
+    ➢ যাওয়ার সময়টা কখন (কোনো জায়গা থেকে চলে যাওয়ার সময়)?\n
+    What time is check out?
+    </item>
+        <item>
+    ➢ শুভ বিকাল, স্যার। আমি কিভাবে আপনাকে সাহায্য করতে পারি?\n
+    Good afternoon, sir. How can I help you?
+    </item>
+        <item>
+    ➢ আপনাদের কি শুক্রবার সকালে সময় হবে?\n
+    Do you have time available on Friday morning?
+    </item>
+        <item>
+    ➢ দুঃখিত, আমি এখানে (এলাকা) থাকি না\n
+    Sorry. I don\'t live around here
+    </item>
+        <item>
+    ➢ ওই কোণায় একটা রেস্টুরেন্ট আছে\n
+    There is a restaurant around the corner
+    </item>
+        <item>
+    ➢ বিশ মিনিটের মতো\n
+    About twenty minutes
+    </item>
+        <item>
+    ➢ পরবর্তী লাইট পোস্টের ওখানে বাম দিকে মোড় নিবেন।\n
+    Take a left at the next lig
+    </item>
+        <item>
+    ➢ আমি কঠোর পরিশ্রম করতে অভ্যস্ত\n
+    I am used to working hard
+</item>
+
+
+        <item>
     ➢ এটা তোমারই কাজ\n
     It is you who have done it
     </item>
@@ -160,141 +315,7 @@
     Me too
     </item>
 
-        <item>
-    ➢ তুমি একটুও বদলাও নি\n
-    You have not change a bit
-    </item>
-        <item>
-    ➢ আমারও তাই মনে হয়\n
-    It seems to me, as well
-    </item>
 
-        <item>
-    ➢ আমি আগের মতই আছি\n
-    I am as before
-    </item>
-
-        <item>
-    ➢ আপনি নিজে নিন\n
-    Help yourself, please
-    </item>
-
-        <item>
-    ➢ বড় একা-একা লাগছে\n
-    I feel very lonely
-    </item>
-
-        <item>
-    ➢ কেউই কাজটা করতে পারল না\n
-    No one could do it
-    </item>
-
-        <item>
-    ➢ সে আমাকে মিথ্যাবাদী বলল\n
-    He called me a liar
-    </item>
-
-        <item>
-    ➢ এটা কিছু পরিমাণে সত্য\n
-    This is partly true
-    </item>
-        <item>
-    ➢ এতে কোন সন্দেহ নাই\n
-    It admits of no doubt
-    </item>
-
-        <item>
-    ➢ সে আমার মত ইংরেজি বলতে পারে না\n
-    He cannot speak English as I can
-    </item>
-
-        <item>
-    ➢ আমি লন্ডনে থাকি।\n
-    I live in London.
-    </item>
-        <item>
-    ➢ তুমি বিনোদনের জন্য কি কর?\n
-    What do you do for fun?What do you do for fun?
-    </item>
-
-        <item>
-    ➢ আমি মিশিগান’এর বাসিন্দা।\n
-    I am from Michigan.
-    </item>
-        <item>
-    ➢ আমি নিউ ইয়র্ক থেকে এসেছি\n
-    I come from New York
-    </item>
-        <item>
-    ➢ আমি শিকাগোতে থাকি।\n
-    I live in Chicago
-    </item>
-        <item>
-    ➢ ➢ আমি বই পড়তে পছন্দ করি\n
-    I like reading books
-    </item>
-        <item>
-    ➢ আমি বই পড়তে পছন্দ করি এবং সাঁতার কাটতে ভালোবাসি\n
-    I like reading books and love to swim
-    </item>
-        <item>
-    ➢ আমি দাবা খেলায় পারদর্শী\n
-
-    I am good at playing chess
-    </item>
-
-        <item>
-    ➢ যদি সম্ভব হয় তাহলে আমি কি একটা উপকারের জন্য বলতে পারি?\n
-    If it\'s possible may I ask a favor?
-    </item>
-        <item>
-    ➢ আপনি কি আমাকে আমার চাবি খুঁজে পেতে সাহায্য করবেন?\n
-    Could you help me find my keys?
-    </item>
-        <item>
-    ➢ আমি সত্যিই এটা (উপকার) মূল্যায়ন করবো\n
-    I\'d really appreciate it
-    </item>
-        <item>
-    ➢ আমি খুবি খুশি হবো যদি উপকারটা করতেন\n
-    I\'d really be glad if you did
-    </item>
-        <item>
-    ➢ অবশ্যই, আমি কিছু মনে করবো না\n
-    Sure, I wouldn\'t mind
-    </item>
-        <item>
-    ➢ অবশ্যই, এটা ঠিক আছে\n
-    Sure, that\'s ok
-    </item>
-
-        <item>
-    ➢ অবশ্যই, কোন সমস্যা নেই\n
-    Sure, no problem
-    </item>
-
-        <item>
-    ➢ অবশ্যই, এটা ঠিক আছে\n
-    Sure, that\'s fine
-    </item>
-        <item>
-    ➢ হুম, আমাকে দেখতে দিন ব্যাপারটা\n
-    Hmm, let me see
-    </item>
-        <item>
-    ➢ আপনি কি আমাকে একটা পেন্সিল দিতে পারবেন?\n
-    Will you hand me a pencil?
-    </item>
-
-        <item>
-    ➢ কিছু মনে না করলে আমাদের জন্য একটা ছবি তুলতে পারবেন?\n
-    Would you mind taking a picture for us?
-    </item>
-
-        <item>
-    ➢ সাহায্যের জন্য ধন্যবাদ\n
-    Thanks for your help
-    </item>
         <item>
     ➢ আমাকে একটু সাহায্য করতে পারবেন?\n
     Could you please lend me a hand?
@@ -354,38 +375,7 @@
     ➢ আজ মার্চের ৩ তারিখ\n
     It’s March third
     </item>
-        <item>
-    ➢ যাওয়ার সময়টা কখন (কোনো জায়গা থেকে চলে যাওয়ার সময়)?\n
-    What time is check out?
-    </item>
-        <item>
-    ➢ শুভ বিকাল, স্যার। আমি কিভাবে আপনাকে সাহায্য করতে পারি?\n
-    Good afternoon, sir. How can I help you?
-    </item>
-        <item>
-    ➢ আপনাদের কি শুক্রবার সকালে সময় হবে?\n
-    Do you have time available on Friday morning?
-    </item>
-        <item>
-    ➢ দুঃখিত, আমি এখানে (এলাকা) থাকি না\n
-    Sorry. I don\'t live around here
-    </item>
-        <item>
-    ➢ ওই কোণায় একটা রেস্টুরেন্ট আছে\n
-    There is a restaurant around the corner
-    </item>
-        <item>
-    ➢ বিশ মিনিটের মতো\n
-    About twenty minutes
-    </item>
-        <item>
-    ➢ পরবর্তী লাইট পোস্টের ওখানে বাম দিকে মোড় নিবেন।\n
-    Take a left at the next lig
-    </item>
-        <item>
-    ➢ আমি কঠোর পরিশ্রম করতে অভ্যস্ত\n
-    I am used to working hard
-</item>
+
 
         <item>
 

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotel">
+
+        <item>
+        What time would you like your wakeup call?\n
+        কখন জানালে আপনার জন্য ভালো হয়?
+  </item>
+        <item>
+        Can I have a wakeup call?\n
+        আমাকে কি আগে একবার জানানো যাবে (চেক আউটের ব্যাপারে)?
+  </item>
+        <item>
+        What time is check out?\n
+        চেক আউটের সময় কোনটা?
+  </item>
+        <item>
+        Can you get someone to get my car?\n
+        আপনি কি কাউকে দিয়ে আমার গাড়িটা আনাতে পারবেন (গ্যারেজ থেকে)?
+  </item>
+        <item>
+        Do you have a concierge?\n
+        আপনাদের দ্বাররক্ষী আছে?
+  </item>
+        <item>
+        What are the hours for room service?\n
+        রুম সার্ভিস আসার সময় কোনটি?
+  </item>
+        <item>
+        What time is check out?\n
+        চেক আউটের সময় কোনটা?
+  </item>
+        <item>
+        What time should I check out by?\n
+        আমার কোন সময়ের মধ্যে চেক আউট (চলে যাওয়া) করতে হবে?
+  </item>
+        <item>
+        Do you have a map of the city?\n
+        আপনাদের কাছে এই শহরের কোনো ম্যাপ আছে?
+  </item>
+        <item>
+        Do you have concierge service here?\n
+        আপনাদের এখানে কি দ্বাররক্ষী (দারোয়ান) ব্যবস্থা আছে?
+  </item>
+        <item>
+        Where is the elevator?\n
+        এলিভেটরটা (উপরে উঠার জন্য) কোথায়?
+  </item>
+        <item>
+        I have a reservation and I am checking in\n
+        আমার একটা রিজার্ভেশান (রুম সংরক্ষণ) আছে এবং আমি এখন উঠতে চাচ্ছি
+  </item>
+        <item>
+        I am checking in\n
+        আমি এখন উঠছি (হোটেলে থাকার জন্য)
+  </item>
+        <item>
+        What is your credit card number?\n
+        আপনার ক্রেডিট কার্ড নাম্বারটা কতো?
+  </item>
+        <item>
+        Can I have your credit card number?\n
+        আমি কি আপনার ক্রেডিট কার্ড নাম্বার পেতে পারি?
+  </item>
+        <item>
+        Can I get a credit card number?\n
+        আমি কি একটা ক্রেডিট কার্ড নাম্বার পেতে পারি?
+  </item>
+        <item>
+        I don\'t have a preference\n
+        আমার কোন পছন্দ নেই (রুমের ব্যাপারে)
+  </item>
+        <item>
+        Can I have a non-smoking room?\n
+        আমি কি একটি ধূমপানমুক্ত রুম পেতে পারি?
+  </item>
+        <item>
+        I would like a smoking room\n
+        আমি ধূমপান করা যাবে এমন রুম চাই
+  </item>
+        <item>
+        Do you prefer a smoking or non-smoking room?\n
+        আপনি কি ধূমপানযুক্ত অথবা ধূমপানমুক্ত রুম চান?
+  </item>
+        <item>
+        Will a single king size bed be OK?\n
+        সিঙ্গেল কিং সাইজ (একজন শোয়ার জন্য) খাটে হবে?
+  </item>
+        <item>
+        How many total children will be with you?\n
+        আপনার সাথে সব মিলিয়ে কতোটি বাচ্চা থাকবে?
+  </item>
+        <item>
+        How many adults will be in your party?\n
+        আপনার পার্টিতে প্রাপ্ত বয়স্ক লোক কয়জন থাকবে?
+  </item>
+        <item>
+        I am going to need two rooms\n
+        আমার দুইটা রুম লাগবে
+  </item>
+        <item>
+        I will only need one room\n
+        আমার শুধু একটা রুম লাগবে
+  </item>
+        <item>
+        How many rooms should I reserve for you?\n
+        আপনার জন্য কয়টি রুম রিজার্ভ করবো আমি?
+  </item>
+        <item>
+        How many rooms would you like to reserve?\n
+        আপনি কয়টি রুম রিজার্ভ করতে চান?
+  </item>
+        <item>
+        Is this for only one room?\n
+        এটা (ভাড়া) কি শুধু মাত্র একটা রুমের জন্য?
+  </item>
+        <item>
+        I am going to need the room until July 23rd\n
+        ২৩শে জুলাই পর্যন্ত আমার রুমটি দরকার
+  </item>
+        <item>
+        I would like to reserve the room for 4 days\n
+        আমি ৪ দিনের জন্য রুম সংরক্ষণ করতে চাচ্ছি
+  </item>
+        <item>
+        I am going to stay for 3 days\n
+        আমি ৩ দিন থাকবো
+  </item>
+        <item>
+        How many days would you like the room for?\n
+        আপনি কয়দিনের জন্য রুম চাচ্ছেন?
+  </item>
+        <item>
+        When will you be checking out?\n
+        আপনি কবে যাবেন?
+  </item>
+        <item>
+        How long will you be staying with us?\n
+        আপনি কয়দিন আমাদের এখানে থাকতে চাচ্ছেন?
+  </item>
+        <item>
+        I would like a room for the 19th of July\n
+        আমি জুনের ১৯ তারিখের জন্য একটা রুম চাচ্ছিলাম
+  </item>
+        <item>
+        I want a room from June 22nd to June 25th\n
+        আমি ২২শে জুন থেকে ২৫শে জুন পর্যন্ত একটা রুম চাচ্ছিলাম
+  </item>
+        <item>
+        What date are you looking for?\n
+        আপনি কোন দিনটি খুঁজছেন?
+  </item>
+        <item>
+        Which date did you want to reserve?\n
+        আপনি কোন দিনটি সংরক্ষণ করতে চেয়েছিলেন (রিজার্ভের জন্য)?
+</item>
+        <item>
+        What day do you want to check in?\n
+        আপনি কবে থেকে থাকতে চাচ্ছেন?
+</item>
+        <item>
+        can I reserve a couple of rooms?\n
+        আমি ২টা রুম সংরক্ষণ করতে পারি?
+</item>
+        <item>
+        I would like to reserve a room\n
+        আমি একটি রুম সংরক্ষণ করতে চাচ্ছি
+</item>
+        <item>
+        Can I reserve a room?\n
+        আমি কি একটি রুম সংরক্ষণ করতে পারি?
+</item>
+        <item>
+        Our rooms start at $79 for a basic room\n
+        সাধারণ রুমের ক্ষেত্রে আমাদের ভাড়া শুরু হয় $৭৯ ডলার থেকে
+</item>
+        <item>
+        how much is a room?\n
+        আপনাদের রুম ভাড়া কতো?
+</item>
+        <item>
+        what are your rates?\n
+        আপনাদের ভাড়া কতো?
+</item>
+        <item>
+        how much are your rooms?\n
+        আপনাদের রুম ভাড়া কতো?
+</item>
+        <item>
+        I would like to make a reservation\n
+        আমি রিজার্ভ (আসন অথবা রুম সংরক্ষণ) করতে চাচ্ছিলাম
+</item>
+        <item>
+        I\'m ready for my bill\n
+        আমাকে এখন বিলটা দিতে পারেন
+</item>
+        <item>
+        Can I have my bill?\n
+        আমি কি আমার খাবার বিলটা পেতে পারি?
+</item>
+        <item>
+        Can i have a check?\n
+        আমি কি আমার চেকটা (খাবার বিল) পেতে পারি?
+</item>
+        <item>
+        Would you like to order any dessert?\n
+        আপনি কি কোনো ডেজার্ট অর্ডার করবেন?
+</item>
+        <item>
+        Would you like dessert today?\n
+        আপনি আজকে ডেজার্ট (মিষ্টি জাতীয় খাদ্য) খেতে পছন্দ করবেন?
+</item>
+        <item>
+        How is your dinner?\n
+        তোমার ডিনার (রাতের খাবার) কেমন হয়েছে?
+</item>
+        <item>
+        Do you need anything else?\n
+        আর কিছু লাগবে আপনার?
+</item>
+        <item>
+        What would you like today?\n
+        আজকে কি খাবেন আপনি?
+</item>
+        <item>
+        Are you ready to order?\n
+        আপনি অর্ডার করতে চান এখন?
+</item>
+        <item>
+        What would you like to order?\n
+        আপনি কি অর্ডার করতে চান ?
+</item>
+        <item>
+        May I take your order?\n
+        আমি কি আপনার অর্ডার নিতে পারি?
+</item>
+        <item>
+        Can I have a glass of water?\n
+        আমি কি এক গ্লাস পানি পেতে পারি?
+</item>
+        <item>
+        Water will be fine\n
+        পানিই যথেষ্ট
+</item>
+        <item>
+        I\'ll have an orange juice\n
+        আমি অরেঞ্জ জুস নিবো
+</item>
+        <item>
+        I\'ll take a coke\n
+        আমি কোক নিবো
+</item>
+        <item>
+        What would you like to drink?\n
+        তুমি কোন ড্রিংকটা নিবে?
+</item>
+        <item>
+        Can I get a drink started for you?\n
+        আমি কি আপনার আহারের শুরুটা ড্রিংক দিয়ে করাবো?
+</item>
+        <item>
+        Would you like to order a drink now?\n
+        আপনি কি এখন ড্রিংক অর্ডার করবেন?
+</item>
+        <item>
+        Can I get a drink for you?\n
+        আমি কি আপনার জন্য একটা ড্রিংক আনবো?
+</item>
+        <item>
+        Can I get you a drink?\n
+        আমি কি আপনাকে একটা ড্রিংক (পানীয়) দিবো?
+</item>
+        <item>
+        Would you like medium, large, or super-size?\n
+        আপনি কি মাঝারি, বড় অথবা তার থেকেও বড়টা নিবেন?
+</item>
+        <item>
+        One Big Mac and one small coke.  Will that be all?\n
+        একটি বিগ ম্যাক এবং একটি ছোট কোক। আর কিছু?
+</item>
+        <item>
+        I\'ll take a Big Mac and a small coke\n
+        আমি একটি বিগ ম্যাক (খাবারের নাম) এবং একটি ছোট কোক নিব
+</item>
+        <item>
+        Welcome to McDonald\'s.  May I take your order?\n
+        ম্যাকডোনাল্ডস’এ আপানাকে স্বাগতম। আমি কি আপনার অর্ডারটা (খাবারের অর্ডার) নিতে পারি?
+</item>
+        <item>
+        The total comes to $3.87\n
+        সর্বমোট হয়েছে $৩.৮৭ ডলার (খাবারের বিল)
+</item>
+        <item>
+        For here please\n
+        জি, এখানের জন্য
+</item>
+        <item>
+        Will that be for here or to go?\n
+        খাবারগুলো কি এখানে খাওয়ার জন্য নাকি নিয়ে যাবেন?
+</item>
+
+
+
+    </string-array>
+
+
+</resources>
