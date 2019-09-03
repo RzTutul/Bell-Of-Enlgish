@@ -89,6 +89,8 @@ public class MainActivity extends AppCompatActivity {
         layout =findViewById(R.id.wallpaperID);
         layout.setBackgroundResource(flag[value]);
         makeFullScreen();
+
+
         startService(new Intent(this, LockScreenService.class));
 
         textView.setOnClickListener(new View.OnClickListener() {

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bellofenglish">
-    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
@@ -10,12 +11,12 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Setting"></activity>
+        <activity android:name=".Setting" />
         <activity android:name=".MainDashboard" />
         <activity android:name=".Show_All_Sentence" />
         <activity android:name=".MainActivity" />
@@ -36,29 +37,22 @@
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
-
-
-        <receiver android:name=".BootReceiver"
+        <receiver
+            android:name=".BootReceiver"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
+
                 <category android:name="android.intent.category.HOME" />
             </intent-filter>
         </receiver>
-        <receiver android:name=".AlarmNotificationReceiver"/>
+        <receiver android:name=".AlarmNotificationReceiver" />
 
         <service
             android:name=".MyService"
             android:enabled="true"
-            android:exported="true">
-
-        </service>
-
+            android:exported="true"></service>
     </application>
-
-
-
-
 
 </manifest>

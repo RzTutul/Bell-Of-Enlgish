@@ -17,7 +17,7 @@ public class AlarmNotificationReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         NotificationCompat.Builder builder = new NotificationCompat.Builder(context);
 
-        Intent myIntent = new Intent(context, MainActivity.class);
+        Intent myIntent = new Intent(context, MainDashboard.class);
         PendingIntent pendingIntent = PendingIntent.getActivity(
                 context,
                 0,
@@ -28,7 +28,7 @@ public class AlarmNotificationReceiver extends BroadcastReceiver {
                 .setDefaults(Notification.DEFAULT_ALL)
                 .setWhen(System.currentTimeMillis())
                 .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentTitle("Zodiac")
+                .setContentTitle("Bell Of English")
                 .setContentIntent(pendingIntent)
                 .setContentText("If Your Free,You Can Practices")
                 .setDefaults(Notification.DEFAULT_LIGHTS | Notification.DEFAULT_SOUND)

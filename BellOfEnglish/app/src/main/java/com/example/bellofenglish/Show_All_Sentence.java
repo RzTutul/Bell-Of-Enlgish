@@ -1,8 +1,12 @@
 package com.example.bellofenglish;
 
+
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -35,7 +39,6 @@ public class Show_All_Sentence extends AppCompatActivity {
             @Override
             public void onInit(int status) {
 
-
                 if (status == TextToSpeech.SUCCESS) {
 
                     int result = mTTS.setLanguage(Locale.ENGLISH);
@@ -55,6 +58,12 @@ public class Show_All_Sentence extends AppCompatActivity {
         });
 
 
+        SharedPreferences prefs = getSharedPreferences("prefs1", MODE_PRIVATE);
+        boolean firstStart = prefs.getBoolean("firstStart1", true);
+
+        if (firstStart) {
+            showStartDialog();
+        }
 
         Bundle bundle = getIntent().getExtras();
 
@@ -217,15 +226,27 @@ public class Show_All_Sentence extends AppCompatActivity {
                 }
 
 
-
-
-
-
-
             }
 
 
         });
+    }
+    private void showStartDialog() {
+        new AlertDialog.Builder(this).setIcon(R.drawable.soundicon1)
+                .setTitle("For Sound")
+                .setMessage("Tap On Sentence for English Sound")
+                .setPositiveButton("ok", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                })
+                .create().show();
+
+        SharedPreferences prefs = getSharedPreferences("prefs1", MODE_PRIVATE);
+        SharedPreferences.Editor editor = prefs.edit();
+        editor.putBoolean("firstStart1", false);
+        editor.apply();
     }
 
     @Override
