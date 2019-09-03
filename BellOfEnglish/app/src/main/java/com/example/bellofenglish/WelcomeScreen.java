@@ -34,7 +34,7 @@ public class WelcomeScreen extends AppCompatActivity {
     {
 
 
-        for (progress=1;progress<=2;progress=progress+1) {
+        for (progress=1;progress<2;progress=progress+1) {
             try {
                 Thread.sleep(1000);
 

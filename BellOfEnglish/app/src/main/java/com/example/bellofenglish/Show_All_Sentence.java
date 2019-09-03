@@ -3,8 +3,13 @@ package com.example.bellofenglish;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.graphics.Typeface;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
+import android.text.Html;
+import android.text.SpannableStringBuilder;
+import android.text.Spanned;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
@@ -18,12 +23,51 @@ import java.util.Locale;
 public class Show_All_Sentence extends AppCompatActivity {
     ListView listView;
     TextToSpeech mTTS;
+    String text;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show__all__sentence);
+
+        mTTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+
+
+                if (status == TextToSpeech.SUCCESS) {
+
+                    int result = mTTS.setLanguage(Locale.ENGLISH);
+
+                    if (result == TextToSpeech.LANG_MISSING_DATA
+                            || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                        Log.e("TTS", "Language not supported");
+                    } else {
+                        listView.setEnabled(true);
+                    }
+                } else {
+                    Log.e("TTS", "Initialization failed");
+                }
+            }
+
+
+        });
+
+
+
+        Bundle bundle = getIntent().getExtras();
+
+        if (bundle != null) {
+            text = bundle.getString("key");
+        }
+
+        Typeface font2 = Typeface.createFromAsset(getAssets(), "fonts/thinfont.otf");
+        SpannableStringBuilder SS = new SpannableStringBuilder(text);
+        SS.setSpan (new CustomTypefaceSpan("", font2), 0, SS.length(), Spanned.SPAN_EXCLUSIVE_INCLUSIVE);
+
+        getSupportActionBar().setTitle(SS);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.red)));
 
 
         listView = findViewById(R.id.listItemID);
@@ -36,114 +80,145 @@ public class Show_All_Sentence extends AppCompatActivity {
         final String[] airport = getResources().getStringArray(R.array.airport);
         final String[] restaurant = getResources().getStringArray(R.array.restaurant);
         final String[] chatText = getResources().getStringArray(R.array.chatText);
-        final  String[] wishAndPray = getResources().getStringArray(R.array.wishAndPray);
-        final  String[] traveling = getResources().getStringArray(R.array.wishAndPray);
-        final  String[] timeAndDate = getResources().getStringArray(R.array.timeAndDate);
-        final  String[] love = getResources().getStringArray(R.array.love);
+        final String[] wishAndPray = getResources().getStringArray(R.array.wishAndPray);
+        final String[] traveling = getResources().getStringArray(R.array.wishAndPray);
+        final String[] timeAndDate = getResources().getStringArray(R.array.timeAndDate);
+        final String[] love = getResources().getStringArray(R.array.love);
+        final String[] Presentation = getResources().getStringArray(R.array.presentation);
+        final String[] phonecall = getResources().getStringArray(R.array.phoneConversion);
+        final String[] shoppingConversion = getResources().getStringArray(R.array.shoppingConversion);
+        final String[] CommonExprssion = getResources().getStringArray(R.array.commonExpression);
+        final String[] Direction = getResources().getStringArray(R.array.askingDirection);
+          //final String[] TalkToStarnger = getResources().getStringArray(R.array.);
 
 
 
 
-        Bundle bundle = getIntent().getExtras();
 
-        if (bundle != null) {
-            String text = bundle.getString("key");
-
-            if (text.equals("AboutYourSelf")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            if (text.equals("About YourSelf")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, AboutYouSelfSentences);
                 listView.setAdapter(adapter);
-            } else if (text.equals("GeneralQuestion")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("General Question")) {
+                
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, GeneralQuestionSentences);
                 listView.setAdapter(adapter);
-            } else if (text.equals("introductionConversion")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Introduction Conversion")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, introductionConversion);
                 listView.setAdapter(adapter);
-            } else if (text.equals("gettingHelp")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Getting Help")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, gettingHelp);
                 listView.setAdapter(adapter);
-            } else if (text.equals("advice")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Advice")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, advice);
                 listView.setAdapter(adapter);
-            } else if (text.equals("airport")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Airport")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, airport);
                 listView.setAdapter(adapter);
-            } else if (text.equals("restaurant")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Restaurant")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, restaurant);
                 listView.setAdapter(adapter);
-            } else if (text.equals("chatText")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Chat Text")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, chatText);
                 listView.setAdapter(adapter);
-            } else if (text.equals("wishAndPray")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Wish&Pray")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, wishAndPray);
                 listView.setAdapter(adapter);
-            } else if (text.equals("traveling")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Traveling")) {
+               
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, traveling);
                 listView.setAdapter(adapter);
-            } else if (text.equals("timeAndDate")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Time&Date")) {
+
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, timeAndDate);
                 listView.setAdapter(adapter);
-            } else if (text.equals("love")) {
-                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+            } else if (text.equals("Love")) {
+
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, love);
+                listView.setAdapter(adapter);
+            } else if (text.equals("Presentation")) {
+
+                final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, Presentation);
+                listView.setAdapter(adapter);
+            } else if (text.equals("Phone Call")) {
+
+                final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, phonecall);
+                listView.setAdapter(adapter);
+            } else if (text.equals("Shopping Conversation")) {
+
+                final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, shoppingConversion);
+                listView.setAdapter(adapter);
+            } else if (text.equals("Common Expression")) {
+
+                final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, CommonExprssion);
+                listView.setAdapter(adapter);
+            } else if (text.equals("Direction")) {
+
+                final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, Direction);
                 listView.setAdapter(adapter);
             }
 
 
 
 
-            mTTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
-                @Override
-                public void onInit(int status) {
 
-
-                    if (status == TextToSpeech.SUCCESS) {
-
-                        int result = mTTS.setLanguage(Locale.ENGLISH);
-
-                        if (result == TextToSpeech.LANG_MISSING_DATA
-                                || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-                            Log.e("TTS", "Language not supported");
-                        } else {
-                            listView.setEnabled(true);
-                        }
-                    } else {
-                        Log.e("TTS", "Initialization failed");
-                    }
-                }
-
-
-            });
-
-
-        }
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                mTTS.speak(AboutYouSelfSentences[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(GeneralQuestionSentences[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(introductionConversion[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(gettingHelp[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(advice[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(airport[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(restaurant[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(chatText[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(wishAndPray[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(traveling[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(timeAndDate[position], TextToSpeech.QUEUE_FLUSH, null);
-                mTTS.speak(love[position], TextToSpeech.QUEUE_FLUSH, null);
+                if (text.equals("About YourSelf")) {
+                    mTTS.speak(AboutYouSelfSentences[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("General Question")) {
+                    mTTS.speak(GeneralQuestionSentences[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Introduction Conversion")) {
+                    mTTS.speak(introductionConversion[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Getting Help")) {
+                    mTTS.speak(gettingHelp[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Advice")) {
+                    mTTS.speak(advice[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Airport")) {
+                    mTTS.speak(airport[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Restaurant")) {
+                    mTTS.speak(restaurant[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Chat Text")) {
+                    mTTS.speak(chatText[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Wish&Pray")) {
+                    mTTS.speak(wishAndPray[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Traveling")) {
+                    mTTS.speak(traveling[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Time&Date")) {
+                    mTTS.speak(timeAndDate[position], TextToSpeech.QUEUE_FLUSH, null);
+                } else if (text.equals("Love")) {
+                    mTTS.speak(love[position], TextToSpeech.QUEUE_FLUSH, null);
+
+                } else if (text.equals("Presentation")) {
+                    mTTS.speak(Presentation[position], TextToSpeech.QUEUE_FLUSH, null);
+
+                } else if (text.equals("Phone Call")) {
+                    mTTS.speak(phonecall[position], TextToSpeech.QUEUE_FLUSH, null);
+
+                } else if (text.equals("Shopping Conversation")) {
+                    mTTS.speak(shoppingConversion[position], TextToSpeech.QUEUE_FLUSH, null);
+
+                } else if (text.equals("Common Expression")) {
+                    mTTS.speak(CommonExprssion[position], TextToSpeech.QUEUE_FLUSH, null);
+
+                } else if (text.equals("Direction")) {
+                    mTTS.speak(Direction[position], TextToSpeech.QUEUE_FLUSH, null);
+
+                }
+
+
+
+
 
 
 

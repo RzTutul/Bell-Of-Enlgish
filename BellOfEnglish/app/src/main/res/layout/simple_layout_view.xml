@@ -5,6 +5,7 @@
 
 
     <LinearLayout
+        android:layout_marginTop="3dp"
         android:background="@drawable/itembox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -14,12 +15,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Hello how are you"
-            android:textSize="20sp"
-            android:textColor="#0800D6"
+            android:textSize="21sp"
+            android:textColor="#2D16D1"
             android:textStyle="italic"
             android:layout_marginBottom="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="10dp"
+            android:fontFamily="@font/nikoshlight"
 
             />
 

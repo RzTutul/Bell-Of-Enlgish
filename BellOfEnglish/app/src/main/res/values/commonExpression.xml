@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commonExpression">
+
+
+        Common Expression
+        <item>
+        যত দিন বাঁচি তত দিন শিখি\n
+        We learn from womb to tomb
+        </item>
+        <item>
+        চল বেড়াতে যাই\n
+        Let us go out for a walk
+  </item>
+        <item>
+        পূর্বে এ দেশে চা ছিল না\n
+        Formerly there was no tea in this country.
+  </item>
+        <item>
+        দু-একদিনের মধ্যেই বা ভেতরেই বইটি বের হবে\n
+        The book will come out in a day or two.
+  </item>
+        <item>
+        তোমার মত বোকা আর দেখিনি\n
+        I have not seen such a fool as you are.
+  </item>
+        <item>
+        কি গোলমালই যে তুমি কর\n
+        What a fuss you make.
+  </item>
+        <item>
+        সে বেশ চমৎকার লোক\n
+        He is quite a nice man or He is fine fellow
+  </item>
+        <item>
+        তুমি এত দীর্ঘ সময় কোথায় ছিলে?\n
+        Where have you been such a long time ?
+  </item>
+        <item>
+        সৎলোক সর্বত্রই সম্মানিত\n
+        An honest man is respected everywhere
+  </item>
+        <item>
+        শিশু স্তন পান করে\n
+        An infant sucks its mother
+  </item>
+        <item>
+        বসন্ত কালে গাছে নতুন পাতা জন্মে\n
+        Trees put forth new leaves in the spring
+  </item>
+        <item>
+        যত বেশি কাজ করি, তত বেশি আনন্দ পাই\n
+        The more I work , the more joyous I feel
+  </item>
+        <item>
+        পুণ্যই পুণ্যের পুরষ্কার\n
+        Virtue is its own reward
+  </item>
+        <item>
+        সপ্তাহখানের তার সঙ্গে দেখা হয় নি\n
+        I have not met him for a week or so
+  </item>
+        <item>
+        আমি এখনও তাকে দেখিনি\n
+        I have not yet seen him
+  </item>
+        <item>
+        আজ কদিন ধরেই বৃষ্টি হচ্ছে\n
+        It has been reining for days together
+  </item>
+        <item>
+        আজ সারাদিন বৃষ্টি হচ্ছে\n
+        It has  been raining all day long
+  </item>
+        <item>
+        আমি অঙ্কটি করতে পারতাম\n
+        I could do the sum
+  </item>
+        <item>
+        মেয়েটি কান্নায় ভেঙে পড়ল\n
+        The girl burst into tears
+  </item>
+        <item>
+        আমি তোমার সাথে কাল দেখা করব\n
+        I shall see you tomorrow
+  </item>
+        <item>
+        হয় ইহা, নয় উহা\n
+        Either this or that.
+  </item>
+        <item>
+        সোনার দর পড়বে না\n
+        The price of gold will not go down
+  </item>
+        <item>
+        সেটা কাজের কথা নয়\n
+        That is not the important point ; it is immaterial.
+  </item>
+        <item>
+        সেও নয়, তুমিও নও\n
+        Neither he nor you
+  </item>
+        <item>
+        তোমাকে আমার অদেয় কিছুই নেই\n
+        There is nothing which I cannot give you.
+  </item>
+        <item>
+        সে নির্ঘাত জানে\n
+        He knows certainly.
+  </item>
+        <item>
+        আমি আমার ইচ্ছা মতই চলিব\n
+        I will have my own way
+  </item>
+        <item>
+        এ ঘরটি ভাড়া দেওয়া হবে\n
+        This house is to let
+  </item>
+        <item>
+        সে আমাকে এটা করতে বাধ্য করল\n
+        He made me do it
+  </item>
+        <item>
+        ফুল দেখতে সুন্দর\n
+        Flower is beautiful to look at
+  </item>
+        <item>
+        আমি এই কলমটিই চাই\n
+        This is just the pen I want
+  </item>
+        <item>
+        এটা তোমারই কাজ\n
+        It is you who have done it
+  </item>
+        <item>
+        আমি আর সহ্য করতে পারি না\n
+        I can\'t bear this any longer
+  </item>
+        <item>
+        আমি আর এক দিন আসব\n
+        I shall come another day
+  </item>
+        <item>
+        আমিও\n
+        Me too
+  </item>
+        <item>
+        তুমি একটুও বদলাও নি\n
+        You have not change a bit
+  </item>
+        <item>
+        আমারও তাই মনে হয়\n
+        It seems to me, as well
+  </item>
+        <item>
+        আমি আগের মতই আছি\n
+        I am as before
+  </item>
+        <item>
+        আপনি নিজে নিন\n
+        Help yourself, please
+  </item>
+        <item>
+        বড় একা-একা লাগছে\n
+        I feel very lonely
+  </item>
+        <item>
+        কেউই কাজটা করতে পারল না\n
+        No one could do it
+  </item>
+        <item>
+        সে আমাকে মিথ্যাবাদী বলল\n
+        He called me a liar
+  </item>
+        <item>
+        এটা কিছু পরিমাণে সত্য\n
+        This is partly true
+  </item>
+        <item>
+        এতে কোন সন্দেহ নাই\n
+        It admits of no doubt
+  </item>
+        <item>
+        সে আমার মত ইংরেজি বলতে পারে না\n
+        He cannot speak English as I can
+  </item>
+        <item>
+        আমি লন্ডনে থাকি।\n
+        I live in London.
+  </item>
+        <item>
+        তুমি বিনোদনের জন্য কি কর?\n
+        What do you do for fun?
+  </item>
+        <item>
+        আমি মিশিগান’এর বাসিন্দা।\n
+        I am from Michigan.
+  </item>
+        <item>
+        আমি নিউ ইয়র্ক থেকে এসেছি\n
+        I come from New York
+  </item>
+        <item>
+        আমি শিকাগোতে থাকি।\n
+        I live in Chicago
+  </item>
+        <item>
+        আমি বই পড়তে পছন্দ করি\n
+        I like reading books
+  </item>
+        <item>
+        আমি বই পড়তে পছন্দ করি এবং সাঁতার কাটতে ভালোবাসি\n
+        I like reading books and love to swim
+  </item>
+        <item>
+        আমি দাবা খেলায় পারদর্শী\n
+        I am good at playing chess
+  </item>
+        <item>
+        যদি সম্ভব হয় তাহলে আমি কি একটা উপকারের জন্য বলতে পারি?\n
+        If it\'s possible may I ask a favor?
+  </item>
+        <item>
+        আপনি কি আমাকে আমার চাবি খুঁজে পেতে সাহায্য করবেন?\n
+        Could you help me find my keys?
+  </item>
+        <item>
+        আমি সত্যিই এটা (উপকার) মূল্যায়ন করবো\n
+        I\'d really appreciate it
+  </item>
+        <item>
+        আমি খুবি খুশি হবো যদি উপকারটা করতেন\n
+        I\'d really be glad if you did
+  </item>
+        <item>
+        অবশ্যই, আমি কিছু মনে করবো না\n
+        Sure, I wouldn\'t mind
+  </item>
+        <item>
+        অবশ্যই, এটা ঠিক আছে\n
+        Sure, that\'s OK
+  </item>
+        <item>
+        অবশ্যই, কোন সমস্যা নেই\n
+        Sure, no problem
+  </item>
+        <item>
+        অবশ্যই, এটা ঠিক আছে\n
+        Sure, that\'s fine
+  </item>
+        <item>
+        হুম, আমাকে দেখতে দিন ব্যাপারটা\n
+        Hmm, let me see
+  </item>
+        <item>
+        আপনি কি আমাকে একটা পেন্সিল দিতে পারবেন?\n
+        Will you hand me a pencil?
+  </item>
+        <item>
+        কিছু মনে না করলে আমাদের জন্য একটা ছবি তুলতে পারবেন?\n
+        Would you mind taking a picture for us?
+  </item>
+        <item>
+        সাহায্যের জন্য ধন্যবাদ\n
+        Thanks for your help
+  </item>
+        <item>
+        আমাকে একটু সাহায্য করতে পারবেন?\n
+        Could you please lend me a hand?
+  </item>
+        <item>
+        আমি কি তোমার টেলিফোন ব্যবহার করতে পারি?\n
+        May I use your telephone?
+  </item>
+        <item>
+        কিছু মনে না করলে জানালাটা একটু বন্ধ করবেন?\n
+        Would you mind closing the window?
+  </item>
+        <item>
+        কিছু মনে না করলে আজকে রাতের রান্নাটা কি তুমি করবে?\n
+        Would you mind cooking dinner tonight?
+  </item>
+        <item>
+        তোমাকে একটা প্রশ্ন করতে পারি?\n
+        Could I ask you a question?
+  </item>
+        <item>
+        তোমাকে সাহায্য করতে পারলে খুবই খুশি হবো\n
+        I\'d be happy to help you
+  </item>
+        <item>
+        আমি আনন্দিত হবো (সাহায্য করতে পারলে)\n
+        It would be my pleasure
+  </item>
+        <item>
+        আমি আনন্দের সাথে সাহায্য করবো\n
+        I\'d be glad to help out
+  </item>
+        <item>
+        আমার মনে হয় আমি পারবো না (সাহায্য করতে)\n
+        I\'m afraid I can\'t
+  </item>
+        <item>
+        এখন ১২টা বেজে ৪৫ মিনিট\n
+        It’s 12:45 PM
+  </item>
+        <item>
+        আজকে কতো তারিখ?\n
+        What’s the date today?
+  </item>
+        <item>
+        আজকে কি ১২ তারিখ নাকি ১৩ তারিখ?\n
+        Is today the 12th or 13th?
+  </item>
+        <item>
+        আজকের তারিখ কতো?\n
+        What’s today’s date
+  </item>
+        <item>
+        আজ মার্চের ৩ তারিখ\n
+        It’s March third
+  </item>
+        <item>
+        যাওয়ার সময়টা কখন (কোনো জায়গা থেকে চলে যাওয়ার সময়)?\n
+        What time is check out?
+  </item>
+        <item>
+        শুভ বিকাল, স্যার। আমি কিভাবে আপনাকে সাহায্য করতে পারি?\n
+        Good afternoon, sir. How can I help you?
+  </item>
+        <item>
+        আপনাদের কি শুক্রবার সকালে সময় হবে?\n
+        Do you have time available on Friday morning?
+  </item>
+        <item>
+        দুঃখিত, আমি এখানে (এলাকা) থাকি না\n
+        Sorry. I don\'t live around here
+  </item>
+        <item>
+        ওই কোণায় একটা রেস্টুরেন্ট আছে\n
+        There is a restaurant around the corner
+  </item>
+        <item>
+        বিশ মিনিটের মতো\n
+        About twenty minutes
+  </item>
+        <item>
+        পরবর্তী লাইট পোস্টের ওখানে বাম দিকে মোড় নিবেন।\n
+        Take a left at the next light
+  </item>
+        <item>
+        গ্যাস স্টেশন থেকে ডান দিকে মোড় নিবেন\n
+        Take a right at the gas station
+  </item>
+        <item>
+        রবসন স্ট্রীটে পৌঁছানোর পর বাম দিকে মোড় নিবেন\n
+        When you get to Robson Street, take a left
+  </item>
+        <item>
+        থামুন নির্দেশের কাছে আসার পর বাম দিকে মোড় নিবেন\n
+        Take a left when you come to a ‘stop’ sign
+  </item>
+        <item>
+        বাম দিকে যাবেন ম্যাকডোনাল্ড অতিক্রম করার পর\n
+        Turn left after you pass McDonalds
+  </item>
+        <item>
+        যখন আপনি আপনার হাতের বাম দিকে একটি চার্চ দেখবেন, তার পরের রাস্তাতেই ডান দিকে মোড় নিবেন\n
+        When you see a church on your left hand side, turn right on the next street
+  </item>
+        <item>
+        পরবর্তী রাস্তাতেই বাম দিকে যাবেন এবং সাথে সাথেই আরো একবার বাম দিকে মোড় নিবেন\n
+        Turn left at the next street and immediately take another left
+  </item>
+        <item>
+        বাম পাশ ধরে ঠিক কোণাতেই এর অবস্থান\n
+        It\'s just right around the corner on the left side
+  </item>
+        <item>
+        স্টারবাক্সের পরে ঠিক কোণাতেই এর অবস্থান\n
+        It\'s right around the corner from the Starbucks over there
+  </item>
+        <item>
+        ডান দিকে মোড় নেয়ার পর আর পাঁচটা ব্লক যাবেন এবং তারপর বাম দিকে মোড় নিবেন\n
+        After you turn right, go for five blocks and turn left
+  </item>
+        <item>
+        আপনি এটা আপনার হাতের ডান দিকে দেখতে পাবেন\n
+        You will see it on your right hand side
+  </item>
+        <item>
+        চারটা ব্লক অতিক্রম করবেন এবং তারপর ডান দিকে ঘুরবেন\n
+        Go for four blocks and then turn right
+  </item>
+        <item>
+        এটা লাইব্রেরীর রাস্তার উল্টো পাশেই অবস্থিত\n
+        It\'s across the street from the library
+  </item>
+        <item>
+        এটি সরাসরি ট্যাকো বেল এর অপর পাশে অবস্থিত\n
+        It\'s directly across from Taco Bell
+  </item>
+        <item>
+        কেমন চলছে আপনার?\n
+        How are you doing?
+  </item>
+        <item>
+        সব কেমন চলছে?\n
+        How is everything?
+  </item>
+        <item>
+        কেমন যাচ্ছে সব?\n
+        How’s everything going?
+  </item>
+        <item>
+        কেমন যাচ্ছে আপনার?\n
+        How have you been keeping?
+  </item>
+        <item>
+        আমি বিশ্বাস করি সব ঠিকঠাক আছে\n
+        I trust that everything is well
+  </item>
+        <item>
+        কি অবস্থা?\n
+        What’s up?
+  </item>
+        <item>
+        আপনাকে দেখে ভালো লাগলো\n
+        Good to see you
+  </item>
+        <item>
+        অনেক দিন হয়ে গিয়েছে\n
+        It has been a long time
+  </item>
+        <item>
+        তোমার সাথে দেখা হওয়াটা সব সময়ই আনন্দের\n
+        It’s always a pleasure to see you
+  </item>
+        <item>
+        অনেক দিন দেখা হয় না\n
+        Long time no see
+  </item>
+        <item>
+        অনেক যুগ অতিক্রান্ত হয়েছে আপনার সাথে শেষ দেখা হওয়ার পর\n
+        It’s been ages since we last met
+  </item>
+        <item>
+        ম্যাকডোনাল্ডস এ আপানাকে স্বাগতম। আমি কি আপনার অর্ডারটা (খাবারের অর্ডার) নিতে পারি?\n
+        Welcome to McDonald\'s.  May I take your order?
+  </item>
+        <item>
+        সর্বমোট হয়েছে $৩.৮৭ ডলার (খাবারের বিল)\n
+        The total comes to $3.87
+  </item>
+        <item>
+        তুমি কোন ড্রিংকটা নিবে?\n
+        What would you like to drink?
+  </item>
+        <item>
+        আপনি অর্ডার করতে চান এখন?\n
+        Are you ready to order?
+  </item>
+        <item>
+        আমি জুনের ১৯ তারিখের জন্য একটা রুম চাচ্ছিলাম\n
+        I would like a room for the 19th of July
+  </item>
+        <item>
+        আমি ৩ দিন থাকবো\n
+        I am going to stay for 3 days
+  </item>
+        <item>
+        ২৩শে জুলাই পর্যন্ত আমার রুমটি দরকার\n
+        I am going to need the room until July 23rd
+  </item>
+        <item>
+        আমার শুধু একটা রুম লাগবে\n
+        I will only need one room
+  </item>
+        <item>
+        আমার কোন পছন্দ নেই (রুমের ব্যাপারে)\n
+        I don\'t have a preference
+  </item>
+        <item>
+        এখন সাড়ে ৩টা বাজে\n
+        It\'s half past three
+  </item>
+        <item>
+        আপনি কি দয়া করে আমাকে সময়টা বলতে পারবেন?\n
+        Can you tell me the time, please?
+  </item>
+        <item>
+        আমি মিথ্যেবাদী লোক একদম পছন্দ করি না!\n
+        I don\'t like liar at all!
+  </item>
+        <item>
+        আমি সেপ্টেম্বরে জন্মগ্রহন করি\n
+        I was born in September
+  </item>
+        <item>
+        আমার জন্মদিন সেপ্টেম্বরের ৭ তারিখ\n
+        My birthday is on September the 7th
+  </item>
+        <item>
+        আজকে কি বার?\n
+        What day is it, please?
+  </item>
+        <item>
+        আজকে তারিখ কতো?\n
+        What date is it, please?
+  </item>
+        <item>
+        আজ এপ্রিলের ১ তারিখ\n
+        It\'s the 1st of April
+  </item>
+        <item>
+        আজকে তারিখ কতো দয়া করে বলবেন?\n
+        What\'s the date today, please?
+  </item>
+        <item>
+        রাত সাড়ে ১০টা বাজে\n
+        It\'s half past ten at night
+  </item>
+        <item>
+        ১টা বাজে\n
+        It is one o\'clock
+  </item>
+        <item>
+        কখন পারবে তুমি এটা?\n
+        What time would you make it?
+  </item>
+        <item>
+        হাঁ, দয়া করে ভিতরে আসুন। বসুন\n
+        Yes, please. Come in. Have a seat.
+  </item>
+        <item>
+        হ্যালো, আমার নাম জন রবার্ট\n
+        Hello, my name is John Robert
+  </item>
+        <item>
+        দয়া করে আমাকে রবার্ট ডাকুন\n
+        Please, call me Robert
+  </item>
+        <item>
+        আমি থাকি টরোন্টো, কানাডায়\n
+        I am from Toronto, Canada
+  </item>
+        <item>
+        হাই, আমি জন\n
+        Hi, I\'m John
+  </item>
+        <item>
+        তোমার জীবনের প্রতিটা মুহূর্ত উপভোগ করো\n
+        Enjoy every moment of your life
+  </item>
+        <item>
+        তোমার জন্মদিন ভালোবাসাময় হোক\n
+        Have a lovely birthday
+  </item>
+        <item>
+        আমি কামনা করি তুমি আরো একশটি জন্মদিন পাও\n
+        I wish you to have a hundred of birthdays more
+  </item>
+        <item>
+        আমি অবশ্যই বুঝতে পারবো\n
+        I can definitely understand
+  </item>
+        <item>
+        শুনে মনে হচ্ছে অনেক কঠিন\n
+        That sounds difficult
+  </item>
+        <item>
+        তুমি কি বলতে চাচ্ছো আমি বুঝতে পারছি\n
+        I can see your point
+  </item>
+        <item>
+        আমাকে শুধরে দিয়ো যদি আমার ভুল হয়\n
+        Correct me if I\'m wrong
+  </item>
+        <item>
+        তোমার জন্য খুবই ভালো\n
+        Too good for you
+  </item>
+        <item>
+        এটা দেখছি / পড়ছি এখন\n
+        Going through it.
+  </item>
+        <item>
+        চলতে থাকবে..\n
+        To be continued…
+  </item>
+        <item>
+        আমি যতটুকু জানি..\n
+        As far as I know…
+  </item>
+        <item>
+        তোমার সাথে পরে কথা বলছি\n
+        Talk to you later
+  </item>
+        <item>
+        তোমার জন্য অপেক্ষা করছি\n
+        Waiting for you
+  </item>
+        <item>
+        কি অবস্থা?\n
+        What\'s up?
+  </item>
+        <item>
+        আমি তোমাকে সবসময় ভালোবাসবো\n
+        I will always love you
+  </item>
+        <item>
+        সত্যিকার অর্থে আমার যা মনে হচ্ছে..\n
+        In my honest opinion…
+  </item>
+        <item>
+        আপনি কোথা থেকে এসেছেন?\n
+        Where are you from?
+  </item>
+        <item>
+        সে বিজ্ঞানের ক-খ জানে না\n
+        He does not know the rudiments or A. B. C. of science
+        </item>
+        <item>
+        আপনার সাথে দেখা হয়ে ভালো লাগলো\n
+        It was nice meeting you
+  </item>
+        <item>
+        আসুন পরিচিত হই আমার কলিগ মিঃ জনের সাথে\n
+        I\'d like you to meet my colleague Mr. John
+  </item>
+        <item>
+        এই আমার বন্ধু জন\n
+        This is my friend John
+  </item>
+        <item>
+        সে আমার একজন কলিগ\n
+        He\'s a colleague
+  </item>
+        <item>
+        দেখা হয়ে ভালো লাগলো\n
+        Pleased to meet you
+  </item>
+        <item>
+        কেমন চলছে?\n
+        How do you do?
+  </item>
+        <item>
+        দেখা হয়ে ভালো লাগলো\n
+        Glad to meet you
+  </item>
+        <item>
+        শুভ সকাল। উনি কে?\n
+        Good morning. Who is he?
+  </item>
+        <item>
+        এই বৈঠকে আপনাদের উপস্থিতিকে আমি সত্যিই মূল্যায়ন (ভালো চোখে দেখা) করছি\n
+        I really appreciate your attendance to this meeting
+  </item>
+        <item>
+        আমাদের আজ প্রধান লক্ষ্য হলো..\n
+        Our main aim today is to …
+  </item>
+        <item>
+        ঠিক আছে, এই ব্যাপারটা নিয়ে পরে কথা বলবো\n
+        Okay, let’s talk more about that later on
+  </item>
+        <item>
+        আপনাদের ধন্যবাদ অংশগ্রহণ করার জন্য\n
+        Thank you for your participation
+  </item>
+        <item>
+        আপনি কি আরেকবার বলবেন ওটা দয়া করে?\n
+        Could you repeat that, please?
+  </item>
+        <item>
+        দয়া করে আরেকটু ধীরে কথা বলবেন?\n
+        Could you speak a little more slowly, please?
+  </item>
+        <item>
+        আপনি কি দয়া করে একটু বানানটা বলবেন?\n
+        Would you mind spelling that for me, please?
+  </item>
+        <item>
+        আমি কি দয়া করে জানতে পারি আমি কার সাথে কথা বলছি?\n
+        Can I ask whom I’m speaking to, please?
+  </item>
+        <item>
+        কে বলছেন, প্লিজ?\n
+        Who’s calling, please?
+  </item>
+        <item>
+        কে বলছেন?\n
+        Who’s speaking?
+  </item>
+        <item>
+        দয়া করে একটু ধরুন\n
+        Just a moment, please
+  </item>
+        <item>
+        আমি কি দয়া করে নাটালি জোন্সের সাথে কথা বলতে পারি?\n
+        May I speak with Natalie Jones, please?
+  </item>
+        <item>
+        আমি কি আপনার নামটা জানতে পারি দয়া করে?\n
+        May I have your name, please?
+  </item>
+        <item>
+        এটি তোমার জন্য\n
+        This is for you
+  </item>
+        <item>
+        আপনাদের সবাইকে অশেষ ধন্যবাদ আজকে আসার জন্য\n
+        Thank you all very much for coming today
+  </item>
+        <item>
+        এই সাইজটা আমার জন্য হচ্ছে না\n
+        It\'s the wrong size
+  </item>
+        <item>
+        পরে দেখা হবে!\n
+        See you later!
+  </item>
+        <item>
+        জিজ্ঞসা করার জন্য ধন্যবাদ। আমি ভালো ভালো আছি। আপনি কেমন আছেন?\n
+        Thanks for asking. I’m fine. how are you?
+  </item>
+        <item>
+        অনেকদিন কোনো দেখা নেই!\n
+        Long time no see!
+  </item>
+        <item>
+        খবর?\n
+        What’s up?
+  </item>
+        <item>
+        আমাকে কল করো দয়া করে..\n
+        Please, call me…
+  </item>
+        <item>
+        আমি খুবই দুঃখিত। কিছু মনে না করলে আপনি কি আরেকবার একটু বলবেন কষ্ট করে?\n
+        I am sorry. Would you mind repeating that, please?
+  </item>
+        <item>
+        কিছু মনে না করলে আমি কি চালিয়ে যেতে পারি?\n
+        Can I continue, please?
+  </item>
+
+
+    </string-array>
+    
+</resources>

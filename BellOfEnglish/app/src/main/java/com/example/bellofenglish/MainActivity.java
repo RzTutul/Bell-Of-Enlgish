@@ -2,7 +2,9 @@ package com.example.bellofenglish;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.ComponentName;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
@@ -11,6 +13,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.Locale;
 import java.util.Random;
@@ -25,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         getSupportActionBar().hide();
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
@@ -48,10 +52,6 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.wallpaper16,R.drawable.wallpaper17,R.drawable.wallpaper18,
                 R.drawable.wallpaper19,R.drawable.wallpaper20,R.drawable.wallpaper21,
                 R.drawable.wallpaper22};
-
-
-
-
 
 
 

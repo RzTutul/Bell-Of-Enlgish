@@ -29,7 +29,7 @@
 
         <item
             android:id="@+id/setting"
-            android:title="setting"
+            android:title="Setting"
             android:icon="@drawable/settting_icon"
             />
 

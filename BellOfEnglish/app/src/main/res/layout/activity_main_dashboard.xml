@@ -44,13 +44,14 @@
                         style="@android:style/Widget.ProgressBar.Horizontal"
                         android:layout_width="match_parent"
                         android:layout_height="5dp"
-                        android:progressBackgroundTint="#29D679"
+                        android:progressBackgroundTint="#F5E4E4"
                         android:progressTint="@color/colorPrimaryDark" />
 
 
                 </LinearLayout>
 
                 <LinearLayout
+                    android:layout_marginTop="5dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
 
@@ -81,6 +82,7 @@
                             >
 
                             <LinearLayout
+
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:gravity="center"
@@ -88,13 +90,16 @@
 
                                 <ImageView
 
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:src="@drawable/yourself" />
 
 
                                 <TextView
+
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="3dp"
@@ -128,22 +133,25 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
                                     android:src="@drawable/conversionicon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="2dp"
+                                    android:fontFamily="@font/fontlight"
                                     android:text="conversion"
                                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                                     android:textStyle="bold" />
 
                             </LinearLayout>
+
 
                         </androidx.cardview.widget.CardView>
 
@@ -179,20 +187,19 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-
-                                    android:layout_width="64dp"
-
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
-
                                     android:src="@drawable/generaltalkicon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="3dp"
-                                    android:text="  General \n Question"
+                                    android:text="General Talk"
                                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                                     android:textStyle="bold" />
 
@@ -222,13 +229,15 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:src="@drawable/asking" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="2dp"
@@ -273,21 +282,25 @@
 
                                 <ImageView
 
-                                    android:layout_width="64dp"
+                                    android:layout_width="75dp"
 
-                                    android:layout_height="64dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
 
                                     android:src="@drawable/adviseicon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="3dp"
                                     android:text="Advices"
                                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-                                    android:textStyle="bold" />
+                                    android:textStyle="bold"
+                                    />
 
 
                             </LinearLayout>
@@ -315,20 +328,23 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
 
                                     android:src="@drawable/airporticon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="2dp"
                                     android:text="       Airport \n conversation"
                                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-                                    android:textStyle="bold" />
+                                    android:textStyle="bold"
+                                    />
 
                             </LinearLayout>
 
@@ -367,15 +383,17 @@
 
                                 <ImageView
 
-                                    android:layout_width="64dp"
+                                    android:layout_width="75dp"
 
-                                    android:layout_height="64dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
 
                                     android:src="@drawable/restruenticon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="3dp"
@@ -409,14 +427,16 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
 
                                     android:padding="10dp"
                                     android:src="@drawable/chaticon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
 
                                     android:layout_height="wrap_content"
@@ -464,13 +484,15 @@
 
                                 <ImageView
 
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:src="@drawable/wishicon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="3dp"
@@ -504,14 +526,16 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
                                     android:src="@drawable/travelling" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="2dp"
@@ -558,13 +582,15 @@
 
                                 <ImageView
 
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:src="@drawable/timedateicon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="3dp"
@@ -598,18 +624,308 @@
                                 android:orientation="vertical">
 
                                 <ImageView
-                                    android:layout_width="64dp"
-                                    android:layout_height="64dp"
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
                                     android:src="@drawable/loveicon" />
 
 
                                 <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="2dp"
                                     android:text="   Love &amp;\n Affections"
+                                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                    android:textStyle="bold" />
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+
+                    </LinearLayout>
+                    ///Start Layout
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="10dp"
+                        android:clipToPadding="false"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <androidx.cardview.widget.CardView
+
+                            android:id="@+id/PresentationID"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:clickable="true"
+                            app:cardCornerRadius="25dp"
+
+                            >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
+                                    android:padding="10dp"
+                                    android:src="@drawable/presentationicon" />
+
+
+                                <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="3dp"
+                                    android:text="Presentation"
+                                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                    android:textStyle="bold" />
+
+
+                            </LinearLayout>
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        //beside card:::::
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/phonecallID"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+
+                            android:background="?android:attr/selectableItemBackground"
+                            android:clickable="true"
+                            app:cardCornerRadius="25dp"
+                            app:cardElevation="10dp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
+                                    android:padding="10dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/phonecallingicon" />
+
+
+                                <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="2dp"
+                                    android:text="    Phone\nConversion"
+                                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                    android:textStyle="bold" />
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+
+                    </LinearLayout>
+
+                    //Start Layout
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="10dp"
+                        android:clipToPadding="false"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <androidx.cardview.widget.CardView
+
+                            android:id="@+id/ShoppingID"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:clickable="true"
+                            app:cardCornerRadius="25dp"
+
+                            >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
+                                    android:padding="10dp"
+                                    android:src="@drawable/shopingicon" />
+
+
+                                <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="3dp"
+                                    android:text="   Shopping\nConversation"
+                                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                    android:textStyle="bold" />
+
+
+                            </LinearLayout>
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        //beside card:::::
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/commonExprssionID"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+
+                            android:background="?android:attr/selectableItemBackground"
+                            android:clickable="true"
+                            app:cardCornerRadius="25dp"
+                            app:cardElevation="10dp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
+                                    android:padding="10dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/commonexpression" />
+
+
+                                <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="2dp"
+                                    android:text="   Common\nExpression"
+                                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                    android:textStyle="bold" />
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+
+                    </LinearLayout>
+      //Start Layout
+                    <LinearLayout
+
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="10dp"
+                        android:clipToPadding="false"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <androidx.cardview.widget.CardView
+
+                            android:id="@+id/DirectionID"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:clickable="true"
+                            app:cardCornerRadius="25dp"
+
+                            >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
+                                    android:padding="10dp"
+                                    android:src="@drawable/directionicon" />
+
+
+                                <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="3dp"
+                                    android:text="   Asking\nDirection"
+                                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                    android:textStyle="bold" />
+
+
+                            </LinearLayout>
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        //beside card:::::
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/TalkStrangerID"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+
+                            android:background="?android:attr/selectableItemBackground"
+                            android:clickable="true"
+                            app:cardCornerRadius="25dp"
+                            app:cardElevation="10dp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:layout_width="75dp"
+                                    android:layout_height="75dp"
+                                    android:padding="10dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/talkstrangericon" />
+
+
+                                <TextView
+                                    android:textSize="20sp"
+                                    android:fontFamily="@font/fontlight"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="2dp"
+                                    android:text=" Talking To\n   Stranger"
                                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                                     android:textStyle="bold" />
 

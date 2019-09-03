@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shoppingConversion">
+
+
+
+        Shopping Conversation
+       <item>
+        আজকাল সকল দ্রব্যই বড় দুর্মূল্য হইয়াছে\n
+        Now-a-days everything is costly
+</item><item>
+        এ জিনিস গুলোর দাম একসাথে কত?\n
+        How much are these things all together?
+</item><item>
+        এর চেয়ে সস্তা কিছু আছে?\n
+        Is there anything cheaper?
+</item><item>
+        আমাকে একশ টাকা বাঙতি দিতে পারবেন?\n
+        Can you give change for a hundred taka?
+</item><item>
+        আরো দেখান না\n
+        Show me some others, please
+</item><item>
+        কাগজে মুড়ে দিন\n
+        Make it into a parcel
+</item><item>
+        আপনাদের কি এই শার্ট অন্য সাইজের হবে?\n
+        Do you have different sizes for this shirt?
+</item><item>
+        আপনাদের নীল রং এর জিন্স কোথায়?\n
+        Where are your blue jeans?
+</item><item>
+        আপনাদের কাছে রেগুলার (প্রতিদিন পরার মতো যা বেশি দামী নয়) টিশার্ট আছে?\n
+        Do you have regular T-Shirts here?
+</item><item>
+        ড্রেসিং রুমটা কোথায়?\n
+        Where is the dressing room?
+</item><item>
+        আপনাদের কি ড্রেসিং রুম আছে?\n
+        Do you have a dressing room?
+</item><item>
+        আমি সাত নাম্বার সাইজের জুতাটা পরে দেখতে পারি?\n
+        Can I try this shoe on in a seven?
+</item><item>
+        আমি কি সাড়ে নয় নাম্বার সাইজে এটা পেতে পারি?\n
+        Can I get this in nine and a half?
+</item><item>
+        আমি কি ছয় নাম্বার সাইজে দেখতে পারি?\n
+        Can I get this in a size six?
+</item><item>
+        আমি জানি না আমার সাইজ (জুতার) কতো\n
+        I don\'t know what my size is?
+</item><item>
+        আমি কতো সাইজের তা আমি জানি না\n
+        I don\'t know what size I am
+</item><item>
+        আপনি কি আমার মাপটা নিতে পারবেন?\n
+        Can you take my measurement?
+</item><item>
+        আপনি কি সব পেয়েছেন যা খুঁজেছিলেন আজকে?\n
+        Did you find everything you needed today?
+</item><item>
+        কেউ কি আপনাকে এতে সাহায্য করেছিলো?\n
+        Was anyone helping you with this?
+</item><item>
+        ফলের অংশটা কোন দিকে?\n
+        Where is the fruit section?
+</item><item>
+        আপনারা কি এখানে আইসক্রিম বিক্রি করেন?\n
+        Do you sell ice cream here?
+</item><item>
+        আমি ব্যাটারি কোথায় পেতে পারি?\n
+        Where can I find batteries?
+</item><item>
+        টুথপেস্ট কোথায়?\n
+        Where is the toothpaste?
+</item><item>
+        আপনি ওষুধের জায়গাটা আমাকে দেখাতে পারবেন?\n
+        Can you point me to the medicine area?
+</item><item>
+        বেকারি অংশটা কোথায়?\n
+        Where is the bakery section?
+</item><item>
+        আপনারা কি টাটকা সামুদ্রিক খাবার বিক্রি করেন?\n
+        Do you sell fresh seafood?
+</item><item>
+        আপনারা কি পোস্টকার্ড বিক্রি করেন?\n
+        Do you sell postcards?
+</item><item>
+        আমি ফিল্ম (আলোকচিত্র গ্রহণের ফিল্ম) কোথায় পেতে পারি?\n
+        Where can I find film?
+</item><item>
+        আমি ক্যামেরা ফিল্ম কোথায় পেতে পারি?\n
+        Where can I find camera film?
+</item><item>
+        শপিং কার্ট (পণ্য রাখার জন্য চাকা বিশিষ্ট একধরনের ঝুড়ি) গুলো কোথায়?\n
+        Where are the shopping carts?
+</item><item>
+        আমি কোথায় পণ্য রাখার ঝুড়ি পেতে পারি?\n
+        Where can I find a shopping basket?
+</item><item>
+        আপনারা কি বৈদেশিক মুদ্রা বিনিময় করেন?\n
+        Do you exchange foreign currency?
+</item><item>
+        আপনাদের বিনিময় হার কতো কোরিয়ান ওনের বিপরীতে?\n
+        What is your exchange rate for the Korean won?
+</item><item>
+        এই বক্সটার দাম কতো?\n
+        How much is the box?
+</item><item>
+        আমি কি এই বড়বড় বক্সগুলোর একটা কিনতে পারি?\n
+        Can I buy one of those large boxes?
+</item><item>
+        আপনি কখন দোকান খোলেন সকালবেলা?\n
+        What time do you open in the morning?
+</item><item>
+        আমাদের কাছে এই ধরনের কোনটা আর নেই\n
+        We don\'t have any of these left in stock
+</item><item>
+        আমি টিশার্ট খুঁজছি\n
+        I\'m looking for T-shirt
+</item><item>
+        এটি কি হ্রাসকৃত মূল্যে বিক্রির জন্য?\n
+        Is this in the sales?
+</item><item>
+        এটি কি হ্রাসকৃত মূল্যে বিক্রির জন্য?\n
+        Is this on sale?
+</item><item>
+        এটার উপর ২০% মূল্য ছাড় আছে\n
+        There\'s a discount of 20% on this
+</item><item>
+        এই জিন্সপ্যান্ট গুলোর উপর ২০% মূল্য ছাড় রয়েছে\n
+        These jeans are discounted by 20%
+</item><item>
+        আমি এগুলো একটু পরে দেখতে চাই। জামাকাপড় পরিবর্তনের রুম কোথায়?\n
+        I\'d like to try this on please. Where are the changing rooms?
+</item><item>
+        আমি কি এটি পরে দেখতে পারি?\n
+        Can I try this on?
+</item><item>
+        জামাকাপড় পরিবর্তনের রুম ওখানটায়\n
+        The changing rooms are over there
+</item><item>
+        এই সাইজটা আমার জন্য হচ্ছে না\n
+        It\'s the wrong size
+</item><item>
+        এটি আসলে আমার হচ্ছে না\n
+        It doesn\'t really suit me
+</item><item>
+        আমি মূল্য পরিশোধ করবো কোথায়?\n
+        Where can I pay?
+</item><item>
+        টাকা পরিশোধের জায়গা ওখানে\n
+        The cash tills are over there
+</item><item>
+        আপানাদের কাছে কি এগুলো আরো ছোট বা বড় সাইজের হবে?\n
+        Do you have these in a size smaller/ bigger, too?
+</item><item>
+        আমি যেমনটা চেয়েছিলাম এটা ঠিক তেমন না\n
+        It’s not quite what I wanted
+</item><item>
+        এই সুয়েটারটা কতো?\n
+        How much is this sweater?
+</item><item>
+        আমি কি এটি গিফট হিসেবে প্যাক (র্যাপিং পেপার দিয়ে)  করে দিবো?\n
+        Shall I giftwrap it?
+</item><item>
+        আপনি কি আর কিছু চেয়েছিলেন?\n
+        Did you want anything else?
+</item><item>
+        দয়া করে যাবার সময় মূল্য পরিশোধ করে যাবেন\n
+        Please pay at the check-out
+</item><item>
+        আমি আপনার হয়ে মূল্য পরিশোধের জায়গায় নিয়ে যাচ্ছি এটা\n
+        I’ll take this to the check-out for you
+</item><item>
+        আজকের জন্য এগুলোই যথেষ্ট। ধন্যবাদ\n
+        That’s all for today. Thanks
+</item><item>
+        মূল্য পরিশোধের স্থান কোথায়?\n
+        Where is the check-out?
+</item><item>
+        অনুগ্রহ করে আমি কি একটা রিসিপ্ট (মূল্য পরিশোধের তালিকা) পেতে পারি?\n
+        Could I have a receipt, please?
+</item><item>
+        অনুগ্রহ করে একটা প্লাস্টিক ব্যাগ পাওয়া যাবে?\n
+        Could I have a (plastic) bag, please?
+</item><item>
+        দুঃখিত, আমার কাছে কোন খুচরা টাকা নেই\n
+        I’m afraid/ Sorry, I don’t have any change
+</item><item>
+        আপনারা কি ক্রেডিট কার্ড গ্রহণ করেন?\n
+        Do you accept credit cards?
+</item><item>
+        আমি এটি ফেরত দিতে চাচ্ছিলাম\n
+        I\'d like to return this please
+</item><item>
+        আপনার কাছে কি রিসিপ্ট আছে?\n
+        Do you have the receipt?
+</item><item>
+        আপনি কি অন্য কিছু পছন্দ করবেন?\n
+        Would you like to choose something else?
+</item><item>
+        না, আমি কি দয়া করে টাকাটা ফেরত পেতে পারি?\n
+        No, can I have a refund please?
+</item><item>
+        না, ধন্যবাদ।\n
+        No, thank you.
+</item><item>
+        আমি কি টাকাটা ফেরত পেতে পারি?\n
+        Can I have a refund?
+</item><item>
+        আপনি কোন সাইজেরটা পরেন?\n
+        What size do you wear?
+</item><item>
+        আমার একটা সুয়েটার কিনতে হবে\n
+        I need to purchase a sweater
+</item><item>
+        আপনার সাইজ কতো?\n
+        What is your size?
+</item><item>
+        মাঝারি সাইজের হলেই হবে\n
+        Medium should be fine
+</item><item>
+        আমি কি কোথাও পরে দেখতে পারি এটা?\n
+        Can I try it on somewhere?
+</item><item>
+        মাফ করবেন। আপনি কি আমাকে একটু সাহায্য করতে পারবেন?\n
+        Excuse me. Could you help me with something?
+</item><item>
+        এটা একদম ঠিকমতো লেগেছে গায়ে\n
+        It fits perfectly
+</item><item>
+        এটার দাম কতো?\n
+        How much is it?
+</item><item>
+        রিসিপ্টটা যত্ন করে রাখবেন\n
+        Keep the receipt in a safe place
+</item>
+        <item>
+        তুমি কি আমার সাথে মলে (শপিং সেন্টার) যাবে?\n
+        Do you want to take a ride to the mall with me?
+</item>
+    </string-array>
+    
+    
+    
+</resources>

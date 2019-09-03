@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    Asking Direction
+    <string-array name="askingDirection">
+        <item>
+    অবশ্যই। কি করতে হবে, বলুন?\n
+    Sure, what is it?
+        </item>
+        <item>
+
+    অনুগ্রহ করে বলবেন এখানে কোথাও মুদির দোকান আছে কিনা?\n
+    Excuse me! Is there a grocery store around here?
+         </item>
+        <item>
+
+    হাঁ, রাস্তার ঠিক অপর পাশেই একটা দোকান আছে\n
+    Yeah. There\'s one right across the street
+ </item>
+        <item>
+    দুঃখিত, আমি এখানে (এলাকা) থাকি না\n
+    Sorry. I don\'t live around here
+ </item>
+        <item>
+    তুমি ব্যাংকে কিভাবে যাও?\n
+    How do you get to the bank?
+ </item>
+        <item>
+    দয়া করে আমাকে বলবেন সবচেয়ে কাছের ব্যাংকটা কোথায়?\n
+    Could you tell me where the nearest bank is, please?
+ </item>
+        <item>
+    এটা (ব্যাংক) কি এখান থেকে দূরে?\n
+    Is it far from here?
+ </item>
+        <item>
+    না, দশ মিনিটেই হেঁটে যাওয়া যাবে / হেঁটে গেলে দশ মিনিট লাগবে।\n
+    No, it\'s just a ten-minute walk.
+ </item>
+        <item>
+    এখানে কাছে কোথাও রেস্টুরেন্ট আছে?\n
+    Is there a restaurant near here?
+ </item>
+        <item>
+    ওই কোণায় একটা রেস্টুরেন্ট আছে\n
+    There is a restaurant around the corner
+ </item>
+        <item>
+    দয়া করে বলবেন কাছের ওষুধের দোকানটা কোথায়?\n
+    Where is the nearest drugstore, please?
+ </item>
+        <item>
+    দুঃখিত, আপনাকে অন্য কাউকে জিজ্ঞেস করতে হবে (যেহেতু জানে না, তাই)\n
+    Sorry. You\'ll have to ask someone else
+ </item>
+        <item>
+    আপনি কি দয়া করে আমাকে বলতে পারবেন কিভাবে ট্রেন স্টেশনে যাওয়া যাবে?\n
+    Can you tell me how to get to the train station, please?
+ </item>
+        <item>
+    এটা (ট্রেন স্টেশনে) এখান থেকে বেশ ভালোই দূরে। আপনার জন্য ভালো হবে যদি একটা বাসে করে যান\n
+    It\'s pretty far from here. You\'d better take a bus
+ </item>
+        <item>
+    ওখানে পৌঁছাতে কতক্ষণ লাগবে?\n
+    How long will it take to get there?
+ </item>
+        <item>
+    বিশ মিনিটের মতো\n
+    About twenty minutes
+ </item>
+        <item>
+    এই বাস কি কেন্দ্রে (center) যায়?\n
+    Does this bus go to the center?
+ </item>
+        <item>
+    আপনি কি জানেন পোস্ট অফিস’টা কোথায়?\n
+    Do you know where the post office is?
+ </item>
+        <item>
+    আপনি কি আমাকে কাছের গ্যাস স্টেশনের দিকটা দেখাতে পারবেন?\n
+    Can you point me to the nearest gas station?
+ </item>
+        <item>
+    আপনি কি আমাকে মুভি থিয়েটারে তাড়াতাড়ি যাওয়ার জন্য সব চেয়ে সহজ পথটা বলবেন?\n
+    Can you give me quick directions to the movie theatre?
+ </item>
+        <item>
+    আপনি কি জানেন এখান থেকে কিভাবে শপিং মলে যাওয়া যাবে?\n
+    Do you know how to get to the Shopping mall from here?
+ </item>
+        <item>
+    আমি ব্যাংক অব আমেরিকা খুঁজছি। আমি ভেবেছিলাম ওটা এখানেই কোথাও হবে। আপনি কি জানেন এটা কোথায়?\n
+    I\'m looking for Bank of America.  I thought it was around here.  Do you know where it is?
+ </item>
+        <item>
+    আমি পোস্ট অফিসটা খুঁজছি। তুমি কি জানো সেখানে কিভাবে যাওয়া যাবে?\n
+    I\'m looking for the post office.  Do you know how to get there?
+ </item>
+        <item>
+    সিয়্যাটলে যাওয়ার সবচেয়ে উত্তম মাধ্যম কোনটি?\n
+    What is the best way to get to Seattle?
+ </item>
+        <item>
+    পরবর্তী লাইট পোস্টের ওখানে বাম দিকে মোড় নিবেন।\n
+    Take a left at the next light
+ </item>
+        <item>
+    গ্যাস স্টেশন থেকে ডান দিকে মোড় নিবেন\n
+    Take a right at the gas station
+ </item>
+        <item>
+    রবসন স্ট্রীটে পৌঁছানোর পর বাম দিকে মোড় নিবেন\n
+    When you get to Robson Street, take a left\n
+ </item>
+        <item>
+    ৭-১১ (address) অতিক্রম করার পর পরবর্তী লাইট পোস্টের কাছ থেকে ডান দিকে মোড় নিবেন\n
+    After you pass 7-11, take a right at the next light
+ </item>
+        <item>
+    থামুন  নির্দেশের কাছে আসার পর বাম দিকে মোড় নিবেন\n
+    Take a left when you come to a ‘stop’ sign
+ </item>
+        <item>
+    ১১২তে (address) যেয়ে ডান দিকে যাবেন\n
+    Turn right on 112th
+ </item>
+        <item>
+    বাম দিকে যাবেন ম্যাকডোনাল্ড অতিক্রম করার পর\n
+    Turn left after you pass McDonalds
+ </item>
+        <item>
+    যখন আপনি আপনার হাতের বাম দিকে একটি চার্চ দেখবেন, তার পরের রাস্তাতেই ডান দিকে মোড় নিবেন\n
+    When you see a church on your left hand side, turn right on the next street
+ </item>
+        <item>
+    পরবর্তী রাস্তাতেই বাম দিকে যাবেন এবং সাথে সাথেই আরো একবার বাম দিকে মোড় নিবেন\n
+    Turn left at the next street and immediately take another left
+ </item>
+        <item>
+    বাম পাশ ধরে ঠিক কোণাতেই এর অবস্থান\n
+    It\'s just right around the corner on the left side
+ </item>
+        <item>
+    স্টারবাক্সের পরে ঠিক কোণাতেই এর অবস্থান\n
+    It\'s right around the corner from the Starbucks over there
+ </item>
+        <item>
+    ডান দিকে মোড় নেয়ার পর আর পাঁচটা ব্লক যাবেন এবং তারপর বাম দিকে মোড় নিবেন\n
+    After you turn right, go for five blocks and turn left
+ </item>
+        <item>
+    আপনি এটা আপনার হাতের ডান দিকে দেখতে পাবেন
+    You will see it on your right hand side
+ </item>
+        <item>
+    চারটা ব্লক অতিক্রম করবেন এবং তারপর ডান দিকে ঘুরবেন\n
+    Go for four blocks and then turn right
+ </item>
+        <item>
+    এটা লাইব্রেরীর রাস্তার উল্টো পাশেই অবস্থিত\n
+    It\'s across the street from the library
+ </item>
+        <item>
+    এটি সরাসরি ট্যাকো বেল’এর অপর পাশে অবস্থিত\n
+    It\'s directly across from Taco Bell
+ </item>
+        <item>
+    আমি একটি সুপারমার্কেট খুঁজছি। আপনি কি জানেন সবচেয়ে কাছেরটি কোথায়?\n
+    I\'m looking for a supermarket.  Do you know where the closest one is?
+ </item>
+        <item>
+    আপনি কি জানেন স্টারবাক্স কোথায় অবস্থিত?\n
+    Do you know where Starbucks is located?
+ </item>
+        <item>
+    আমি এখানে থেকে কিভাবে এয়ারপোর্টে যাবো?\n
+    How do I get to the airport from here?
+        </item>
+    </string-array>
+</resources>

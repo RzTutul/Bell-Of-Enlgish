@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phoneConversion">
+
+        Phone/Mobile Conversation
+
+        <item>
+
+        সময় দেয়ার জন্য আপনাকে ধন্যবাদ\n
+        Thank you for your time
+   </item>
+        <item>
+        একটু ধরুন। আমি আপনাকে লাইনটা ধরিয়ে দিচ্ছি (অন্য কারো সাথে কথা বলার জন্য)\n
+        Hang on a moment. I’ll put you through
+   </item>
+        <item>
+        আপনি কি আরেকবার বলবেন ওটা দয়া করে?\n
+        Could you repeat that, please?
+   </item>
+        <item>
+        দয়া করে আরেকটু ধীরে কথা বলবেন?\n
+        Could you speak a little more slowly, please?
+   </item>
+        <item>
+        আপনি কি দয়া করে একটু বানানটা বলবেন?\n
+        Would you mind spelling that for me, please?
+   </item>
+        <item>
+        আমি নিউ ইয়র্ক থেকে বলছি\n
+        I am calling from New York
+   </item>
+        <item>
+        আমি মিঃ ক্লার্কের পক্ষ থেকে বলছি\n
+        I’m calling on behalf of Mr. Clerk
+   </item>
+        <item>
+        হ্যালো, হাসান বলছি\n
+        Hello, this is Hasan speaking
+   </item>
+        <item>
+        লিলি বলছি, কিভাবে আপনাকে সাহায্য করতে পারি?\n
+        Lily speaking, how may I help you?
+   </item>
+        <item>
+        আমি কি দয়া করে জানতে পারি আপনি কে বলছেন?\n
+        May I ask who’s calling, please?
+   </item>
+        <item>
+        আমি কি দয়া করে জানতে পারি আমি কার সাথে কথা বলছি?\n
+        Can I ask whom I’m speaking to, please?
+   </item>
+        <item>
+        আপনি কোথা থেকে বলছেন?\n
+        Where are you calling from?
+   </item>
+        <item>
+        এটি কি একেবারে সঠিক নাম / নাম্বার?\n
+        Is that definitely the right name/number?
+   </item>
+        <item>
+        কে বলছেন, প্লিজ?\n
+        Who’s calling, please?
+   </item>
+        <item>
+        কে বলছেন?\n
+        Who’s speaking?
+   </item>
+        <item>
+        কে এটা?\n
+        Who is it?
+   </item>
+        <item>
+        আমি কার সাথে কথা বলছি?\n
+        Whom am I speaking to?
+   </item>
+        <item>
+        আপনি কি দয়া করে একটু ধরবেন?\n
+        Could you hold on a moment, please?
+   </item>
+        <item>
+        দয়া করে একটু ধরুন\n
+        Just a moment, please
+   </item>
+        <item>
+        দয়া করে একটু সংযোগে থাকুন\n
+        Hold the line, please
+   </item>
+        <item>
+        আমি আপনাকে ধরিয়ে দিচ্ছি\n
+        I’ll just put you through
+   </item>
+        <item>
+        আমি আপনার কল স্থানান্তর করে দিচ্ছি এখন\n
+        I’ll just transfer you now
+   </item>
+        <item>
+        এক মিনিট ধরুন\n
+        Hold on a minute
+   </item>
+        <item>
+        আপনি যেই নাম্বারে সংযোগ চাচ্ছেন তা এই মুহূর্তে ব্যস্ত আছে। আপনি কি পরে কল করতে পারবেন দয়া করে?\n
+        That line is engaged at the moment. Could you call back later, please?
+   </item>
+        <item>
+        আমি দুঃখিত, তিনি আজকে অফিসে আসেন নি\n
+        I’m sorry, he’s out of the office today
+   </item>
+        <item>
+        আপনি হয়তো ভুল নাম্বারে ডায়াল করেছেন\n
+        You may have dialed the wrong number
+   </item>
+        <item>
+        আমি খুবই দুঃখিত যে আমাদের এখানে এই নামে কেউ নেই\n
+        I’m afraid there’s no one here by that name
+   </item>
+        <item>
+        আমি আসলে তোমাকে ঠিক মতো শুনতে পারছি না\n
+        I’m afraid I can’t hear you very well
+   </item>
+        <item>
+        আপনি কি দয়া করে একটু কথা বলবেন?\n
+        Would you mind speaking up a bit, please?
+   </item>
+        <item>
+        আমার ইংরেজি তেমন ভালো না। আপনি কি একটু ধীরে কথা বলবেন দয়া করে?\n
+        I’m afraid my English isn’t very good. Could you speak slowly, please?
+   </item>
+        <item>
+        দুঃখিত, আমি ওটা বুঝতে পারি নি\n
+        Sorry, I didn’t catch that
+   </item>
+        <item>
+        ওটা আরেকবার বলবেন দয়া করে?\n
+        Say that again, please?
+   </item>
+        <item>
+        আমি তোমাকে শুনতে পাচ্ছি না ঠিক মতো\n
+        I can’t hear you very well
+   </item>
+        <item>
+        দুঃখিত, এই সংযোগটি বেশ খারাপ\n
+        Sorry, this line is quite bad
+   </item>
+        <item>
+        আমি কি দয়া করে একটা বার্তা রাখতে পারি?\n
+        Can I leave a message, please?
+   </item>
+        <item>
+        দয়া করে আমাকে বানানটা বলবেন?\n
+        Could you spell that for me, please?
+   </item>
+        <item>
+        আমি কি ওটার বানানটা দেখতে পারি দয়া করে?\n
+        Can I just check the spelling of that, please?
+   </item>
+        <item>
+        কল করার জন্য ধন্যবাদ\n
+        Thank you for calling
+   </item>
+        <item>
+        দিনটি শুভ হোক আপনার জন্য\n
+        Have a good day
+   </item>
+        <item>
+        আমি কি দয়া করে নাটালি জোন্সের সাথে কথা বলতে পারি?\n
+        May I speak with Natalie Jones, please?
+   </item>
+        <item>
+        একটু ধরুন দয়া করে। আমি সংযোগ নিয়ে দিচ্ছি\n
+        One moment, please – I’m putting you through
+   </item>
+        <item>
+        আপনি কি কোনো বার্তা রাখতে ইচ্ছুক?\n
+        Would you like to leave a message?
+   </item>
+        <item>
+        তার কাছে কি তোমার নাম্বার আছে?\n
+        Does she have your number?
+   </item>
+        <item>
+        আমি আপনাকে পড়ে শুনাচ্ছি\n
+        Let me read that back to you
+   </item>
+        <item>
+        রায়ান, আমি নাটালি তোমার কলের বিপরীতে কল করছি (যেহেতু আগের কল নাটালি ধরতে পারে নি)\n
+        Ryan, this is Natalie returning your call
+   </item>
+        <item>
+        আমি তোমাকে একটু পরেই কল দিচ্ছি\n
+        I’ll call you back a little later
+   </item>
+        <item>
+        আমি দুঃখিত, তিনি অন্য একটা কলে ব্যস্ত আছেন\n
+        I’m sorry, she’s on another call
+   </item>
+        <item>
+        আমি দুঃখিত, নাটালি আজকের মতো চলে গেছে\n
+        I’m sorry, Natalie has left for the day
+   </item>
+        <item>
+        আমি দুঃখিত, তিনি এই মুহূর্তে নেই\n
+        I’m sorry, she’s not available at the moment
+   </item>
+        <item>
+        না, ধন্যবাদ (বার্তা রাখবে কিনা জানতে চাওয়ার পর)। আমি পরে কল করবো\n
+        No, thanks. I’ll call back later
+   </item>
+        <item>
+        দয়া করে তাকে বলুন আমাকে পরে কল দিতে\n
+        Please, ask him to call me back
+   </item>
+        <item>
+        তোমার সাথে কথা বলে ভালোই লাগলো\n
+        Well, it was nice talking with you
+   </item>
+        <item>
+        কল করার জন্য ধন্যবাদ\n
+        Thanks for calling
+   </item>
+        <item>
+        কিছু দিনের মধ্যেই আমি আবার কল দিবো\n
+        I’ll get in touch in a couple of days.
+   </item>
+        <item>
+        কেমন যাচ্ছে?\n
+        How’s it going?
+   </item>
+        <item>
+        পিটার আছে কি?\n
+        Is Peter there?
+   </item>
+        <item>
+        অনেক শব্দ হচ্ছে (কলের পিছনে)- আমি তোমাকে শুনতে পারছি না বললেই চলে\n
+        There’s a lot of background noise – I can barely hear you
+   </item>
+        <item>
+        আমাদের সংযোগটা ভালো না\n
+        We have a bad connection
+   </item>
+        <item>
+        দুঃখিত, আপনি এই মাত্র যা বললেন তা আমি বুঝতে পারি নি\n
+        Sorry, I didn’t catch what you just said
+   </item>
+        <item>
+        আপনি কি একটু জোরে কথা বলবেন?\n
+        Could you speak a little louder?
+   </item>
+        <item>
+        কি বললেন আপনি?\n
+        What did you say?
+   </item>
+        <item>
+        আপনি কি দয়া করে তাকে বলতে পারবেন যে আমি কল দিয়েছিলাম?\n
+        Could you tell him that I called, please?
+   </item>
+        <item>
+        আপনার সাহায্যের জন্য ধন্যবাদ\n
+        Thanks for your help
+   </item>
+        <item>
+        আমি কি আপনার নামটা জানতে পারি দয়া করে?\n
+        May I have your name, please?
+   </item>
+        <item>
+
+        আমি কি এক মিনিটের জন্য আপনাকে হোল্ডে (কথা না বলে ধরে রাখা) রাখতে পারি?\n
+        Can I put you on hold for a minute?
+
+   </item>
+        <item>
+        জন ব্রাউন বলছি\n
+        This is John Brown speaking
+   </item>
+        <item>
+
+        ধরে রাখার জন্য ধন্যবাদ\n
+        Thank you for holding
+   </item>
+        <item>
+
+        এক সেকেন্ড ধরুন। আমি তাকে দিচ্ছি\n
+        Hang on one second. I\'ll get him
+   </item>
+        <item>
+
+        আপনি কি এক মিনিটের জন্য ধরবেন দয়া করে? আমি অন্য একটা কলের মধ্যে আছি\n
+        Can you please hold for a minute? I have another call
+   </item>
+        <item>
+
+        আমি তাকে বলবো আপনি কল দিয়েছিলেন\n
+        I\'ll let him know you called
+   </item>
+        <item>
+        আপনি কি দয়া করে তাকে বলতে পারবেন যে তার স্ত্রী কল দিয়েছিলো?\n
+        Can you tell him his wife called, please?
+</item>
+        <item>
+        কল করার জন্য ধন্যবাদ। এখনকার মতো রাখি\n
+        Thanks for calling. Bye for now
+</item>
+        <item>
+        আমার তোমাকে ছাড়তে হবে এখন\n
+        I have to let you go now
+</item>
+        <item>
+        আমি জনের সাথে কথা বলতে চাই\n
+        I need to speak to John
+</item>
+        <item>
+        জনের সাথে কথা বলা যাবে\n
+        Is it possible to speak to John?
+</item>
+        <item>
+        কিছু মনে না করলে কয়েক মিনিট অপেক্ষা করবেন?\n
+        Do you mind waiting a few minutes?
+    </item>
+        <item>
+        আমি কি জানতে পারি আপনি কোন কোম্পানিতে (ব্যবসা প্রতিষ্ঠান) আছেন / আপনি কাদের সাথে আছেন?\n
+        Could I ask what company you’re with?
+</item>
+        <item>
+        ওটার বানানটা কিভাবে করেন বলবেন দয়া করে?\n
+        How do you spell that, please?
+</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,5 @@
+<root>
+    <item name='android.text.style.TypefaceSpan'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
