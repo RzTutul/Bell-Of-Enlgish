@@ -2,7 +2,17 @@
 <resources>
 
     <string-array name="chatText">
-        
+
+        <item>
+    কি অবস্থা?\n
+    What\'s up?
+  </item>
+
+        <item>
+    তোমার সাথে পরে কথা বলছি\n
+    Talk to you later
+  </item>
+
   <item>
     তুমি বিনোদনের জন্য কি কর?\n
     What do you do for fun?
@@ -47,10 +57,7 @@
     আমি যতটুকু জানি..\n
     As far as I know…
   </item>
-        <item>
-    তোমার সাথে পরে কথা বলছি\n
-    Talk to you later
-  </item>
+
         <item>
     তুমি অনেক সুন্দর\n
     You are a cutie
@@ -59,10 +66,7 @@
     তোমার জন্য অপেক্ষা করছি\n
     Waiting for you
   </item>
-        <item>
-    কি অবস্থা?\n
-    What\'s up?
-  </item>
+
         <item>
     আমি তোমাকে সবসময় ভালোবাসবো\n
     I will always love you

@@ -12,13 +12,15 @@
     tools:context=".Setting">
 
     <LinearLayout
+
         android:orientation="vertical"
         android:layout_weight="2.6"
         android:layout_width="match_parent"
         android:layout_height="0dp">
         <Switch
             android:fontFamily="@font/fontlight"
-            android:textColor="#0293E6"
+            android:drawableLeft="@drawable/sentence_notification"
+            android:textColor="#F30F0F"
             android:gravity="center"
             android:layout_marginTop="20dp"
             android:id="@+id/simpleSwitch"
@@ -41,8 +43,8 @@
 
         <Switch
             android:fontFamily="@font/fontlight"
-            android:textColor="#0293E6"
-            android:drawableLeft="@drawable/sentence_notification"
+            android:textColor="#F30F0F"
+            android:drawableLeft="@drawable/notificationicon"
             android:gravity="center"
             android:layout_marginTop="20dp"
             android:id="@+id/remindersSwitch"

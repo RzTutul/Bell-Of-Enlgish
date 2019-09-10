@@ -16,6 +16,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".About"></activity>
         <activity android:name=".Setting" />
         <activity android:name=".MainDashboard" />
         <activity android:name=".Show_All_Sentence" />
@@ -52,7 +53,7 @@
         <service
             android:name=".MyService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
     </application>
 
 </manifest>

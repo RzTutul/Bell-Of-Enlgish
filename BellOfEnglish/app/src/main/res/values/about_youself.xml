@@ -2,18 +2,24 @@
 <resources>
     <string-array name="aboutyourself">
 
-        <item>➢ তুমি থাকো কোথায়?\n
-        Where do you live?</item>
+
+           <item>
+        হাই, আমি জন\n
+        Hi, I\'m John
+          </item>
         <item>
         ➢ আমি বাংলাদেশ থাকি।\n
         I live in Bangladesh.
         </item>
+        <item>➢ তুমি থাকো কোথায়?\n
+        Where do you live?</item>
+
         <item>
         ➢ তুমি বিনোদনের জন্য কি কর?\n
         What do you do for fun?
         </item>
         <item>
-        ➢ আমি আমার অবসর সময়ে রং করতে পছন্দ করি  ।  \n
+        ➢ আমি আমার অবসর সময়ে রং করতে পছন্দ করি\n
         I like to paint in my spare time.
         </item>
         <item>
@@ -52,8 +58,124 @@
         ➢ আপনি কি কাজ (পেশা) করেন তাহলে?\n
         So, what do you do for a living?
         </item>
-    </string-array>
+        <item>
+        আমি প্রায় সকালে বাহির হই না\n
+        I seldom go out in the morning.
+         </item>
+        <item>
 
+        তিনি সকাল চারটার সময় ওঠেন\n
+        He rises at four o\'clock in the morning
+  </item>
+        <item>
+
+        আমি খেলার চেয়ে পড়তে ভালোবাসি\n
+        I prefer reading to writing
+  </item>
+        <item>
+
+        আমার বয়স ২৩ বছর।\n
+        I’m 23 years old.
+  </item>
+        <item>
+
+        আমি একজন ছাত্র।\n
+        I’m a student.
+  </item>
+        <item>
+
+        আমি আমার অবসর সময়ে রং করতে পছন্দ করি।\n
+        I like to paint in my spare time.
+  </item>
+        <item>
+
+
+        আমি বই পড়তে পছন্দ করি\n
+        I like reading books
+          </item>
+        <item>
+
+
+        আমি বই পড়তে পছন্দ করি এবং সাঁতার কাটতে ভালোবাসি\n
+        I like reading books and love to swim
+
+        আমি একজন ভালো রাঁধুনে\n
+        I am a good cook
+  </item>
+        <item>
+
+
+        আমি কেনাকাটা করতে পছন্দ করি যখন আমি অবসর পাই\n
+        I like to shop when I’m free
+          </item>
+        <item>
+
+
+        আমি মিথ্যেবাদী লোক একদম পছন্দ করি না!\n
+        I don\'t like liar at all!
+          </item>
+        <item>
+
+
+        আমি মাসের ৭ তারিখে জন্মগ্রহন করি\n
+        I was born on the 7th of the month
+          </item>
+        <item>
+
+
+        আমি সেপ্টেম্বরে জন্মগ্রহন করি\n
+        I was born in September
+          </item>
+        <item>
+
+
+        আমার জন্মদিন সেপ্টেম্বরের ৭ তারিখ\n
+        My birthday is on September the 7th
+          </item>
+        <item>
+
+
+        জন, আমাদেরকে আপনার নিজের সম্পর্কে কিছু বলুন\n
+        John, tell me a little bit about yourself
+          </item>
+        <item>
+
+
+        আমি আইটির উপর স্নাতক করেছি ইউনিভার্সিটি অব লন্ডন থেকে\n
+        I graduated in IT from the University of London
+          </item>
+        <item>
+
+
+        আমি আমার স্নাতকোত্তর করেছি আধুনিক ভাষার উপর ইউনিভার্সিটি অফ নিউইয়র্ক থেকে\n
+        I hold a master’s degree in Modern Languages from the University of New York
+  </item>
+        <item>
+
+        হ্যালো, আমার নাম জন রবার্ট\n
+        Hello, my name is John Robert
+          </item>
+        <item>
+
+
+        দয়া করে আমাকে রবার্ট ডাকুন\n
+        Please, call me Robert
+          </item>
+        <item>
+
+
+        আমি থাকি টরোন্টো, কানাডায়\n
+        I am from Toronto, Canada
+          </item>
+
+        <item>
+
+        আপনারা যারা আমাকে এখনো চিনেন না, আমি হলাম ..\n
+        For those of you who don\'t know me yet, I am …
+          </item>
+
+
+    </string-array>
 
 
 </resources>

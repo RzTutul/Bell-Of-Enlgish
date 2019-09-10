@@ -9,9 +9,10 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
+
+import android.os.Build;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
-import android.text.Html;
 import android.text.SpannableStringBuilder;
 import android.text.Spanned;
 import android.util.Log;
@@ -20,8 +21,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
+import java.util.HashMap;
 import java.util.Locale;
 
 public class Show_All_Sentence extends AppCompatActivity {
@@ -30,10 +31,14 @@ public class Show_All_Sentence extends AppCompatActivity {
     String text;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show__all__sentence);
+
+        ///Add Back Button at Action bar..
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+
+        ///for Offline text to speech
 
         mTTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
@@ -46,10 +51,12 @@ public class Show_All_Sentence extends AppCompatActivity {
                     if (result == TextToSpeech.LANG_MISSING_DATA
                             || result == TextToSpeech.LANG_NOT_SUPPORTED) {
                         Log.e("TTS", "Language not supported");
-                    } else {
+                    }
+                    else {
                         listView.setEnabled(true);
                     }
-                } else {
+                }
+                else {
                     Log.e("TTS", "Initialization failed");
                 }
             }
@@ -57,7 +64,7 @@ public class Show_All_Sentence extends AppCompatActivity {
 
         });
 
-
+        ///Show only one time Diloag >>>For Sentence SOUND
         SharedPreferences prefs = getSharedPreferences("prefs1", MODE_PRIVATE);
         boolean firstStart = prefs.getBoolean("firstStart1", true);
 
@@ -65,17 +72,22 @@ public class Show_All_Sentence extends AppCompatActivity {
             showStartDialog();
         }
 
+        ///Receive Pass Value from MainDashBoard Activity
+
         Bundle bundle = getIntent().getExtras();
 
         if (bundle != null) {
             text = bundle.getString("key");
         }
 
+        ///Change font style Of Action Bar
+
         Typeface font2 = Typeface.createFromAsset(getAssets(), "fonts/thinfont.otf");
         SpannableStringBuilder SS = new SpannableStringBuilder(text);
         SS.setSpan (new CustomTypefaceSpan("", font2), 0, SS.length(), Spanned.SPAN_EXCLUSIVE_INCLUSIVE);
-
         getSupportActionBar().setTitle(SS);
+
+        ///Change Color of Actionbar
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.red)));
 
 
@@ -98,7 +110,7 @@ public class Show_All_Sentence extends AppCompatActivity {
         final String[] shoppingConversion = getResources().getStringArray(R.array.shoppingConversion);
         final String[] CommonExprssion = getResources().getStringArray(R.array.commonExpression);
         final String[] Direction = getResources().getStringArray(R.array.askingDirection);
-          //final String[] TalkToStarnger = getResources().getStringArray(R.array.);
+        final String[] TalkToStarnger = getResources().getStringArray(R.array.talktostranger);
 
 
 
@@ -172,6 +184,10 @@ public class Show_All_Sentence extends AppCompatActivity {
 
                 final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, Direction);
                 listView.setAdapter(adapter);
+            } else if (text.equals("Talk To Stranger")) {
+
+                final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Show_All_Sentence.this, R.layout.simple_layout_view, R.id.simpleTextViewID, TalkToStarnger);
+                listView.setAdapter(adapter);
             }
 
 
@@ -184,8 +200,17 @@ public class Show_All_Sentence extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
                 if (text.equals("About YourSelf")) {
-                    mTTS.speak(AboutYouSelfSentences[position], TextToSpeech.QUEUE_FLUSH, null);
-                } else if (text.equals("General Question")) {
+
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                        mTTS.speak(AboutYouSelfSentences[position], TextToSpeech.QUEUE_FLUSH, null,null);
+                    }
+                    else {
+                        mTTS.speak(AboutYouSelfSentences[position], TextToSpeech.QUEUE_FLUSH, null);
+                    }
+
+                   // mTTS.speak(AboutYouSelfSentences[position], TextToSpeech.QUEUE_FLUSH, null);
+                }
+                else if (text.equals("General Question")) {
                     mTTS.speak(GeneralQuestionSentences[position], TextToSpeech.QUEUE_FLUSH, null);
                 } else if (text.equals("Introduction Conversion")) {
                     mTTS.speak(introductionConversion[position], TextToSpeech.QUEUE_FLUSH, null);
@@ -223,6 +248,9 @@ public class Show_All_Sentence extends AppCompatActivity {
                 } else if (text.equals("Direction")) {
                     mTTS.speak(Direction[position], TextToSpeech.QUEUE_FLUSH, null);
 
+                }else if (text.equals("Talk To Stranger")) {
+                    mTTS.speak(TalkToStarnger[position], TextToSpeech.QUEUE_FLUSH, null);
+
                 }
 
 
@@ -249,6 +277,8 @@ public class Show_All_Sentence extends AppCompatActivity {
         editor.apply();
     }
 
+    ///For Back button at action bar
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
 
@@ -261,6 +291,7 @@ public class Show_All_Sentence extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    ///if Press back button than speak will close instantly
     protected void onDestroy() {
         if (mTTS != null) {
             mTTS.stop();

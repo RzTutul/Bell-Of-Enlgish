@@ -3,24 +3,27 @@
 
     Asking Direction
     <string-array name="askingDirection">
+
+            <item>
+    দুঃখিত, আমি এখানে (এলাকা) থাকি না\n
+    Sorry. I don\'t live around here
+ </item>
         <item>
     অবশ্যই। কি করতে হবে, বলুন?\n
     Sure, what is it?
         </item>
         <item>
-
     অনুগ্রহ করে বলবেন এখানে কোথাও মুদির দোকান আছে কিনা?\n
     Excuse me! Is there a grocery store around here?
          </item>
+
+
         <item>
 
     হাঁ, রাস্তার ঠিক অপর পাশেই একটা দোকান আছে\n
     Yeah. There\'s one right across the street
  </item>
-        <item>
-    দুঃখিত, আমি এখানে (এলাকা) থাকি না\n
-    Sorry. I don\'t live around here
- </item>
+
         <item>
     তুমি ব্যাংকে কিভাবে যাও?\n
     How do you get to the bank?

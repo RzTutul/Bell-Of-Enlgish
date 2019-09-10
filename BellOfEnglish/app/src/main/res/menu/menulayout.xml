@@ -21,11 +21,6 @@
             />
 
 
-        <item
-            android:icon="@drawable/dashboard_icon"
-            android:id="@+id/acivementID"
-            android:title="Acivement"
-            />
 
         <item
             android:id="@+id/setting"
@@ -46,10 +41,13 @@
                 android:title="Share with Friends"
                 />
 
+
+
+
             <item
-                android:icon="@drawable/contractusicon"
+                android:icon="@drawable/abouticon"
                 android:id="@+id/aboutId"
-                android:title="About Us"
+                android:title="About"
                 />
         </menu>
 

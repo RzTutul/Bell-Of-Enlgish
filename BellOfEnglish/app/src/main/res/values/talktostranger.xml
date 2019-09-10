@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="talktostranger">
+        Talking to Stranger
+        <item>
+
+        আজকের আবহাওয়াটা খুবই চমৎকার। আপনি কি আশেপাশেই কোথাও থাকেন?\n
+        The weather is so nice today.  Are you from around here?
+        </item>
+    <item>
+        এখন পর্যন্ত আপনার দিনটি কেমন কাটলো?\n
+        How is your day going so far?
+    </item>
+        <item>
+        আজকে অনেক লোক দেখা যাচ্ছে এখানে। এটা কি স্বাভাবিক?\n
+        There are a lot of people out here today.  Is this normal?
+    </item>
+        <item>
+        ওরা কি আপনার বাচ্চা? ওরা খুবই সুন্দর\n
+        Are those your kids?  They\'re so cute.
+    </item>
+        <item>
+        আপনি কোথা থেকে এসেছেন?\n
+        Where are you from?
+    </item>
+        <item>
+        আপনি কয়দিনের জন্য থাকছেন?\n
+        How long are you staying for?
+    </item>
+        <item>
+        ধন্যবাদ। আপনার সাথে কথা বলে ভালো লাগলো\n
+        Thanks. It was nice talking to you
+    </item>
+        <item>
+        আপনার সাথে দেখা হয়ে ভালো লাগলো\n
+        It was nice meeting you
+    </item>
+        <item>
+        এই শহরে ভ্রমন করার জন্য ভালো স্থান কোনটি?\n
+        What\'s a good place to visit in this city?
+    </item>
+        <item>
+        আমি এখান থেকে সেখানে কিভাবে যেতে পারি?\n
+        How do I get there from here?
+    </item>
+        <item>
+        আপনি কি কোথাও থেকে এখানে ঘুরতে এসেছেন?\n
+        Are you visiting from somewhere?
+    </item>
+        <item>
+        আমি কোরিয়া থেকে ঘুরতে এসেছি\n
+        I\'m visiting from Korea
+    </item>
+        <item>
+        আপনি কি এখানে ছুটি কাটাতে এসেছেন?\n
+        Are you on vacation here?
+    </item>
+        <item>
+        আমি কোরিয়া থেকে এখানে ছুটি কাটাতে এসেছি\n
+        I\'m taking a vacation from Korea
+    </item>
+        <item>
+        আপনি কি এখানে আপনার পরিবারের সাথে এসেছেন?\n
+        Are you here with your family?
+    </item>
+        <item>
+        আমি এখানে আমার স্ত্রী এবং দুটো বাচ্চা নিয়ে এসেছি\n
+        I\'m here with my wife and 2 kids
+    </item>
+        <item>
+        আপনি কি এখানে আগে এসেছিলেন?\n
+        Have you been here before?
+    </item>
+        <item>
+        ওটা খুবই সুন্দর একটি হ্যাট। আমি কি জানতে পারি আপনি এটা কোথা থেকে কিনেছেন?\n
+        That is a really nice [hat]. Can I ask where you got it?
+    </item>
+        <item>
+        তোমার জুতাগুলো আমার খুব পছন্দ হয়েছে। তুমি কি এগুলো কাছেই কোথাও থেকে নিয়েছো?\n
+        I really like your [shoes]. Did you get them near here?
+    </item>
+        <item>
+        মোবাইলটা দেখতে খুবই সুন্দর। এটার ব্যবহার কি সহজ?\n
+        That’s a cool looking phone. Is it easy to use?
+    </item>
+        <item>
+        আপনি কি কাজ (পেশা) করেন তাহলে?\n
+        So, what do you do for a living?
+    </item>
+        <item>
+        কি প্রয়োজনে এখানে তুমি আজকে?\n
+        What brings you here today?
+    </item>
+        <item>
+        আপনি কি এখানে প্রায়ই আসেন?\n
+        Do you come here a lot?
+    </item>
+        <item>
+        আমি আসলেই আমাদের খোশগল্প উপভোগ করেছি। তার জন্য তোমাকে ধন্যবাদ\n
+        I really enjoyed our chat. Thanks so much
+    </item>
+        <item>
+        আপনার সাথে দেখা হয়ে আসলেই খুব ভালো লাগলো\n
+        It was really nice meeting you
+    </item>
+        <item>
+        দুঃখিত (না বুঝতে পারার জন্য), এইমাত্র কি বললেন আপনি?\n
+        Sorry, what was that you just said?
+    </item>
+        <item>
+        দয়া করে আপনি কি আরো ধীরে কথা বলতে পারবেন? আমি আপনার কথা বুঝতে পারছি না\n
+        Can you speak more slowly, please? I don’t understand
+    </item>
+        <item>
+        আমি থাইল্যান্ডে থাকি। ম্যানচেস্টারে আমি আমার পরিবারের সাথে দেখা করতে এসেছি। আপনি (অন্যজন কি কারণে এসেছে জানতে চাওয়া হচ্ছে)?\n
+        I’m from Thailand. I have been visiting my family in Manchester. How about you?
+    </item>
+        <item>
+        আমি মিঃ স্মিথ। আপনার সাথে পরিচিত হয়ে ভালো লাগলো\n
+        My name’s Mr. Smith. it is nice to meet you
+    </item>
+        <item>
+        আপনি কোথায় বাস করেন?\n
+        Where do you live?
+    </item>
+        <item>
+        আমি খুবই দুঃখিত। কিছু মনে না করলে আপনি কি আরেকবার একটু বলবেন কষ্ট করে?\n
+        I am sorry. Would you mind repeating that, please?
+    </item>
+        <item>
+        মাফ করবেন, আপনি কি এই ঠিকানাটা চিনেন?\n
+        Excuse me, do you know this address?
+    </item>
+        <item>
+        আমি কি কিছু বলতে পারি?\n
+        Can I say something?
+    </item>
+        <item>
+        আপনি কি দয়া করে আমাকে শেষ করতে দিবেন?\n
+        Would you please let me finish?
+    </item>
+        <item>
+        কিছু মনে না করলে আমি কি চালিয়ে যেতে পারি?\n
+        Can I continue, please?
+    </item>
+        <item>
+        দুঃখিত, আমি আপনাকে সাহায্য করতে পারবো না\n
+        Sorry, I can\'t help you out
+    </item>
+        <item>
+        দুঃখিত, আমি এটা জানি না\n
+        Sorry, but I don\'t know that
+    </item>
+
+    </string-array>
+    
+</resources>

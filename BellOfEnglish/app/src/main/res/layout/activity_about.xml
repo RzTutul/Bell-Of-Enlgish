@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context=".About">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <LinearLayout
+            android:layout_marginTop="25dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:gravity="center"
+                android:textSize="35sp"
+                android:textColor="#0E3FBE"
+                android:fontFamily="@font/fontlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bell of English"
+                />
+            <TextView
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#0E3FBE"
+                android:fontFamily="@font/thinfont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Version 1.0"
+                />
+
+            <TextView
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#01E1FF"
+                android:fontFamily="@font/nikoshlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Support Us"
+                />
+            <TextView
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:textColor="#DD1983"
+                android:fontFamily="@font/nikoshlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="RzTechtunes"
+                />
+
+            <TextView
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#01E1FF"
+                android:fontFamily="@font/nikoshlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Follow Us"
+                />
+
+
+            <TextView
+                android:autoLink="web"
+                android:drawableLeft="@drawable/webicon1"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#01E1FF"
+                android:fontFamily="@font/nikoshlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="http://rztutultechtunes.blogspot.com/"
+                />
+
+
+            <TextView
+                android:autoLink="web"
+                android:drawableLeft="@drawable/fbicon1"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#01E1FF"
+                android:fontFamily="@font/nikoshlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="https://www.facebook.com/rz.tutul.90"
+                />
+
+
+            <TextView
+                android:autoLink="web"
+                android:drawableLeft="@drawable/youtubeicon"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#01E1FF"
+                android:fontFamily="@font/nikoshlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="https://www.youtube.com/channel/UCZqi4T0C1OAxjWp_nbSNkpw"
+                />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+

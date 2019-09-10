@@ -230,21 +230,24 @@ public class MainDashboard extends AppCompatActivity implements NavigationView.O
 
         if (menuItem.getItemId() == R.id.Home) {
             Intent intent = new Intent(MainDashboard.this, MainDashboard.class);
-
             startActivity(intent);
         } else if (menuItem.getItemId() == R.id.screenID) {
+            //Enable This Activity if it was disable
             PackageManager pm = getPackageManager();
             pm.setComponentEnabledSetting(new ComponentName(this, com.example.bellofenglish.MainActivity.class),
                     PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
 
             Intent intent = new Intent(MainDashboard.this, MainActivity.class);
-
             startActivity(intent);
-        } else if (menuItem.getItemId() == R.id.setting) {
-
-            //Enable This Activity if it was disable
+        }
+        else if (menuItem.getItemId() == R.id.setting) {
 
             Intent intent = new Intent(MainDashboard.this, Setting.class);
+            startActivity(intent);
+        }
+ else if (menuItem.getItemId() == R.id.aboutId) {
+
+            Intent intent = new Intent(MainDashboard.this, About.class);
             startActivity(intent);
         }
 
@@ -253,12 +256,11 @@ public class MainDashboard extends AppCompatActivity implements NavigationView.O
         else if (menuItem.getItemId() == R.id.ShareID) {
             Intent intent = new Intent((Intent.ACTION_SEND));
             intent.setType("text/plain");
-            String subject = "Andriod Tutorial";
-            String Body = "This is best apps ever for Andriod Tutorials. Download from this link http://rztutultechtunes.blogspot.com";
+            String subject = "Bell of English App";
+            String Body = "This is apps help you Lean English Sentences Regularly. Download from this link http://rztutultechtunes.blogspot.com";
 
             intent.putExtra(Intent.EXTRA_SUBJECT, subject);
             intent.putExtra(Intent.EXTRA_TEXT, Body);
-
             startActivity(Intent.createChooser(intent, "Share with"));
         }
 

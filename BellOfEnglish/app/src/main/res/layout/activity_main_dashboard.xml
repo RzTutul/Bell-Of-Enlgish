@@ -54,7 +54,6 @@
                     android:layout_marginTop="5dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
                     android:orientation="vertical">
@@ -63,14 +62,13 @@
                     <LinearLayout
 
                         android:layout_width="match_parent"
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:clipToPadding="false"
                         android:gravity="center"
                         android:orientation="horizontal"
                         android:weightSum="2">
 
                         <androidx.cardview.widget.CardView
-
                             android:id="@+id/aboutYourselfID"
                             android:layout_width="0dp"
                             android:layout_height="match_parent"
@@ -82,7 +80,6 @@
                             >
 
                             <LinearLayout
-
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:gravity="center"
@@ -93,7 +90,7 @@
                                     android:layout_width="75dp"
                                     android:layout_height="75dp"
                                     android:padding="10dp"
-                                    android:src="@drawable/yourself" />
+                                    android:src="@drawable/abouticon1" />
 
 
                                 <TextView
@@ -137,7 +134,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
-                                    android:src="@drawable/conversionicon" />
+                                    android:src="@drawable/conversation1" />
 
 
                                 <TextView
@@ -161,7 +158,7 @@
                     <LinearLayout
                         android:layout_width="match_parent"
 
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -190,7 +187,7 @@
                                     android:layout_width="75dp"
                                     android:layout_height="75dp"
                                     android:padding="10dp"
-                                    android:src="@drawable/generaltalkicon" />
+                                    android:src="@drawable/generaltalkicon1" />
 
 
                                 <TextView
@@ -232,7 +229,7 @@
                                     android:layout_width="75dp"
                                     android:layout_height="75dp"
                                     android:padding="10dp"
-                                    android:src="@drawable/asking" />
+                                    android:src="@drawable/asking1" />
 
 
                                 <TextView
@@ -255,7 +252,7 @@
                     <LinearLayout
                         android:layout_width="match_parent"
 
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -287,7 +284,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
 
-                                    android:src="@drawable/adviseicon" />
+                                    android:src="@drawable/advice" />
 
 
                                 <TextView
@@ -332,7 +329,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
 
-                                    android:src="@drawable/airporticon" />
+                                    android:src="@drawable/airporticon1" />
 
 
                                 <TextView
@@ -356,7 +353,7 @@
                     <LinearLayout
                         android:layout_width="match_parent"
 
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -388,7 +385,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
 
-                                    android:src="@drawable/restruenticon" />
+                                    android:src="@drawable/restuarant1" />
 
 
                                 <TextView
@@ -431,7 +428,7 @@
                                     android:layout_height="75dp"
 
                                     android:padding="10dp"
-                                    android:src="@drawable/chaticon" />
+                                    android:src="@drawable/chattexticon" />
 
 
                                 <TextView
@@ -457,7 +454,7 @@
                     <LinearLayout
                         android:layout_width="match_parent"
 
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -487,7 +484,7 @@
                                     android:layout_width="75dp"
                                     android:layout_height="75dp"
                                     android:padding="10dp"
-                                    android:src="@drawable/wishicon" />
+                                    android:src="@drawable/loveicon1" />
 
 
                                 <TextView
@@ -499,7 +496,6 @@
                                     android:text="Wish &amp; Pray"
                                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                                     android:textStyle="bold" />
-
 
                             </LinearLayout>
 
@@ -530,7 +526,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
-                                    android:src="@drawable/travelling" />
+                                    android:src="@drawable/travellingicon" />
 
 
                                 <TextView
@@ -555,7 +551,7 @@
 
                     <LinearLayout
                         android:layout_width="match_parent"
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -628,7 +624,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
-                                    android:src="@drawable/loveicon" />
+                                    android:src="@drawable/loveandafficationicon" />
 
 
                                 <TextView
@@ -651,7 +647,7 @@
 
                     <LinearLayout
                         android:layout_width="match_parent"
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -681,7 +677,7 @@
                                     android:layout_width="75dp"
                                     android:layout_height="75dp"
                                     android:padding="10dp"
-                                    android:src="@drawable/presentationicon" />
+                                    android:src="@drawable/presentataionicon" />
 
 
                                 <TextView
@@ -724,7 +720,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
-                                    android:src="@drawable/phonecallingicon" />
+                                    android:src="@drawable/phonecall1" />
 
 
                                 <TextView
@@ -747,7 +743,7 @@
                     //Start Layout
                     <LinearLayout
                         android:layout_width="match_parent"
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -777,7 +773,7 @@
                                     android:layout_width="75dp"
                                     android:layout_height="75dp"
                                     android:padding="10dp"
-                                    android:src="@drawable/shopingicon" />
+                                    android:src="@drawable/shoppingbag1" />
 
 
                                 <TextView
@@ -820,7 +816,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
-                                    android:src="@drawable/commonexpression" />
+                                    android:src="@drawable/commonexpressionicon" />
 
 
                                 <TextView
@@ -843,7 +839,7 @@
                     <LinearLayout
 
                         android:layout_width="match_parent"
-                        android:layout_height="150dp"
+                        android:layout_height="180dp"
                         android:layout_marginTop="10dp"
                         android:clipToPadding="false"
                         android:gravity="center"
@@ -916,7 +912,7 @@
                                     android:layout_height="75dp"
                                     android:padding="10dp"
                                     android:scaleType="fitXY"
-                                    android:src="@drawable/talkstrangericon" />
+                                    android:src="@drawable/talktostarngericon" />
 
 
                                 <TextView

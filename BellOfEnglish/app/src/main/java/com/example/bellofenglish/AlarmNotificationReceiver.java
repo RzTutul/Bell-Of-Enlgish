@@ -27,10 +27,10 @@ public class AlarmNotificationReceiver extends BroadcastReceiver {
         builder.setAutoCancel(true)
                 .setDefaults(Notification.DEFAULT_ALL)
                 .setWhen(System.currentTimeMillis())
-                .setSmallIcon(R.mipmap.ic_launcher)
+                .setSmallIcon(R.drawable.logo)
                 .setContentTitle("Bell Of English")
                 .setContentIntent(pendingIntent)
-                .setContentText("If Your Free,You Can Practices")
+                .setContentText("Hey,If You are Free,You Can Practices")
                 .setDefaults(Notification.DEFAULT_LIGHTS | Notification.DEFAULT_SOUND)
                 .setContentInfo("Info");
 

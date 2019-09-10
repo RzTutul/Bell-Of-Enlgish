@@ -1,120 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hotel">
-
-        <item>
-        What time would you like your wakeup call?\n
-        কখন জানালে আপনার জন্য ভালো হয়?
-  </item>
-        <item>
-        Can I have a wakeup call?\n
-        আমাকে কি আগে একবার জানানো যাবে (চেক আউটের ব্যাপারে)?
-  </item>
-        <item>
-        What time is check out?\n
-        চেক আউটের সময় কোনটা?
-  </item>
-        <item>
-        Can you get someone to get my car?\n
-        আপনি কি কাউকে দিয়ে আমার গাড়িটা আনাতে পারবেন (গ্যারেজ থেকে)?
-  </item>
-        <item>
-        Do you have a concierge?\n
-        আপনাদের দ্বাররক্ষী আছে?
-  </item>
-        <item>
-        What are the hours for room service?\n
-        রুম সার্ভিস আসার সময় কোনটি?
-  </item>
-        <item>
-        What time is check out?\n
-        চেক আউটের সময় কোনটা?
-  </item>
-        <item>
-        What time should I check out by?\n
-        আমার কোন সময়ের মধ্যে চেক আউট (চলে যাওয়া) করতে হবে?
-  </item>
-        <item>
-        Do you have a map of the city?\n
-        আপনাদের কাছে এই শহরের কোনো ম্যাপ আছে?
-  </item>
-        <item>
-        Do you have concierge service here?\n
-        আপনাদের এখানে কি দ্বাররক্ষী (দারোয়ান) ব্যবস্থা আছে?
-  </item>
-        <item>
-        Where is the elevator?\n
-        এলিভেটরটা (উপরে উঠার জন্য) কোথায়?
-  </item>
-        <item>
-        I have a reservation and I am checking in\n
-        আমার একটা রিজার্ভেশান (রুম সংরক্ষণ) আছে এবং আমি এখন উঠতে চাচ্ছি
-  </item>
-        <item>
-        I am checking in\n
-        আমি এখন উঠছি (হোটেলে থাকার জন্য)
-  </item>
-        <item>
-        What is your credit card number?\n
-        আপনার ক্রেডিট কার্ড নাম্বারটা কতো?
-  </item>
-        <item>
-        Can I have your credit card number?\n
-        আমি কি আপনার ক্রেডিট কার্ড নাম্বার পেতে পারি?
-  </item>
-        <item>
-        Can I get a credit card number?\n
-        আমি কি একটা ক্রেডিট কার্ড নাম্বার পেতে পারি?
-  </item>
-        <item>
-        I don\'t have a preference\n
-        আমার কোন পছন্দ নেই (রুমের ব্যাপারে)
-  </item>
-        <item>
-        Can I have a non-smoking room?\n
-        আমি কি একটি ধূমপানমুক্ত রুম পেতে পারি?
-  </item>
-        <item>
-        I would like a smoking room\n
-        আমি ধূমপান করা যাবে এমন রুম চাই
-  </item>
-        <item>
-        Do you prefer a smoking or non-smoking room?\n
-        আপনি কি ধূমপানযুক্ত অথবা ধূমপানমুক্ত রুম চান?
-  </item>
-        <item>
-        Will a single king size bed be OK?\n
-        সিঙ্গেল কিং সাইজ (একজন শোয়ার জন্য) খাটে হবে?
-  </item>
-        <item>
-        How many total children will be with you?\n
-        আপনার সাথে সব মিলিয়ে কতোটি বাচ্চা থাকবে?
-  </item>
-        <item>
-        How many adults will be in your party?\n
-        আপনার পার্টিতে প্রাপ্ত বয়স্ক লোক কয়জন থাকবে?
-  </item>
-        <item>
-        I am going to need two rooms\n
-        আমার দুইটা রুম লাগবে
-  </item>
-        <item>
-        I will only need one room\n
-        আমার শুধু একটা রুম লাগবে
-  </item>
-        <item>
-        How many rooms should I reserve for you?\n
-        আপনার জন্য কয়টি রুম রিজার্ভ করবো আমি?
-  </item>
-        <item>
-        How many rooms would you like to reserve?\n
-        আপনি কয়টি রুম রিজার্ভ করতে চান?
-  </item>
-        <item>
-        Is this for only one room?\n
-        এটা (ভাড়া) কি শুধু মাত্র একটা রুমের জন্য?
-  </item>
-        <item>
+<item>
         I am going to need the room until July 23rd\n
         ২৩শে জুলাই পর্যন্ত আমার রুমটি দরকার
   </item>
@@ -298,6 +185,119 @@
         Will that be for here or to go?\n
         খাবারগুলো কি এখানে খাওয়ার জন্য নাকি নিয়ে যাবেন?
 </item>
+
+        <item>
+        What time would you like your wakeup call?\n
+        কখন জানালে আপনার জন্য ভালো হয়?
+  </item>
+        <item>
+        Can I have a wakeup call?\n
+        আমাকে কি আগে একবার জানানো যাবে (চেক আউটের ব্যাপারে)?
+  </item>
+        <item>
+        What time is check out?\n
+        চেক আউটের সময় কোনটা?
+  </item>
+        <item>
+        Can you get someone to get my car?\n
+        আপনি কি কাউকে দিয়ে আমার গাড়িটা আনাতে পারবেন (গ্যারেজ থেকে)?
+  </item>
+        <item>
+        Do you have a concierge?\n
+        আপনাদের দ্বাররক্ষী আছে?
+  </item>
+        <item>
+        What are the hours for room service?\n
+        রুম সার্ভিস আসার সময় কোনটি?
+  </item>
+        <item>
+        What time is check out?\n
+        চেক আউটের সময় কোনটা?
+  </item>
+        <item>
+        What time should I check out by?\n
+        আমার কোন সময়ের মধ্যে চেক আউট (চলে যাওয়া) করতে হবে?
+  </item>
+        <item>
+        Do you have a map of the city?\n
+        আপনাদের কাছে এই শহরের কোনো ম্যাপ আছে?
+  </item>
+        <item>
+        Do you have concierge service here?\n
+        আপনাদের এখানে কি দ্বাররক্ষী (দারোয়ান) ব্যবস্থা আছে?
+  </item>
+        <item>
+        Where is the elevator?\n
+        এলিভেটরটা (উপরে উঠার জন্য) কোথায়?
+  </item>
+        <item>
+        I have a reservation and I am checking in\n
+        আমার একটা রিজার্ভেশান (রুম সংরক্ষণ) আছে এবং আমি এখন উঠতে চাচ্ছি
+  </item>
+        <item>
+        I am checking in\n
+        আমি এখন উঠছি (হোটেলে থাকার জন্য)
+  </item>
+        <item>
+        What is your credit card number?\n
+        আপনার ক্রেডিট কার্ড নাম্বারটা কতো?
+  </item>
+        <item>
+        Can I have your credit card number?\n
+        আমি কি আপনার ক্রেডিট কার্ড নাম্বার পেতে পারি?
+  </item>
+        <item>
+        Can I get a credit card number?\n
+        আমি কি একটা ক্রেডিট কার্ড নাম্বার পেতে পারি?
+  </item>
+        <item>
+        I don\'t have a preference\n
+        আমার কোন পছন্দ নেই (রুমের ব্যাপারে)
+  </item>
+        <item>
+        Can I have a non-smoking room?\n
+        আমি কি একটি ধূমপানমুক্ত রুম পেতে পারি?
+  </item>
+        <item>
+        I would like a smoking room\n
+        আমি ধূমপান করা যাবে এমন রুম চাই
+  </item>
+        <item>
+        Do you prefer a smoking or non-smoking room?\n
+        আপনি কি ধূমপানযুক্ত অথবা ধূমপানমুক্ত রুম চান?
+  </item>
+        <item>
+        Will a single king size bed be OK?\n
+        সিঙ্গেল কিং সাইজ (একজন শোয়ার জন্য) খাটে হবে?
+  </item>
+        <item>
+        How many total children will be with you?\n
+        আপনার সাথে সব মিলিয়ে কতোটি বাচ্চা থাকবে?
+  </item>
+        <item>
+        How many adults will be in your party?\n
+        আপনার পার্টিতে প্রাপ্ত বয়স্ক লোক কয়জন থাকবে?
+  </item>
+        <item>
+        I am going to need two rooms\n
+        আমার দুইটা রুম লাগবে
+  </item>
+        <item>
+        I will only need one room\n
+        আমার শুধু একটা রুম লাগবে
+  </item>
+        <item>
+        How many rooms should I reserve for you?\n
+        আপনার জন্য কয়টি রুম রিজার্ভ করবো আমি?
+  </item>
+        <item>
+        How many rooms would you like to reserve?\n
+        আপনি কয়টি রুম রিজার্ভ করতে চান?
+  </item>
+        <item>
+        Is this for only one room?\n
+        এটা (ভাড়া) কি শুধু মাত্র একটা রুমের জন্য?
+  </item>
 
 
 
